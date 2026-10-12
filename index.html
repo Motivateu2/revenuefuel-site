@@ -762,7 +762,7 @@ footer .foot-links span { user-select: all; }
 <script>
 (function () {
   // Where bid requests go. Set this to your form service (e.g. a Formspree or Zapier webhook URL).
-  var LEAD_ENDPOINT = "";
+  var LEAD_ENDPOINT = "https://formspree.io/f/xppqjkrl";
 
   var PDFJS = "https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/";
   var REDUCED = matchMedia("(prefers-reduced-motion: reduce)").matches;
@@ -1148,11 +1148,20 @@ footer .foot-links span { user-select: all; }
     data.set("business_type", state.type); data.set("monthly_volume", state.vol); data.set("monthly_fees", state.fees);
     data.set("transactions", state.txns); data.set("effective_rate", state.vol ? (state.fees / state.vol * 100).toFixed(2) + "%" : "");
     data.set("current_processor", state.processor || ""); data.set("exit_fee", state.etf || 0);
-    uploadedFiles.forEach(function (f, i) { data.append("statement_" + (i + 1), f, f.name); });
+    data.set("_subject", "Bid request: " + biz + " (" + (state.vol ? money(state.vol) + "/mo" : "no volume") + ")");
+    var withFiles = new FormData();
+    data.forEach(function (v, k) { withFiles.append(k, v); });
+    uploadedFiles.forEach(function (f, i) { withFiles.append("statement_" + (i + 1), f, f.name); });
     msg.textContent = "Sending…";
-    fetch(LEAD_ENDPOINT, { method: "POST", body: data, headers: { Accept: "application/json" } }).then(function (r) {
-      if (!r.ok) throw new Error(r.status);
-      msg.textContent = "Request received. The bidding starts now and your ranked bids will arrive at " + email + " within 2 to 3 business days.";
+    var post = function (body) { return fetch(LEAD_ENDPOINT, { method: "POST", body: body, headers: { Accept: "application/json" } }); };
+    post(uploadedFiles.length ? withFiles : data).then(function (r) {
+      if (r.ok) return { ok: true, attached: uploadedFiles.length > 0 };
+      if (!uploadedFiles.length) throw new Error(r.status);
+      data.set("note", "Statement upload was rejected by the form service; ask the merchant to email it.");
+      return post(data).then(function (r2) { if (!r2.ok) throw new Error(r2.status); return { ok: true, attached: false }; });
+    }).then(function (res) {
+      msg.textContent = "Request received. The bidding starts now and your ranked bids will arrive at " + email + " within 2 to 3 business days." +
+        (uploadedFiles.length && !res.attached ? " One more step: please email your statement to contact@revenuefuel.ai so we can send it to the processors." : "");
       form.reset(); uploadedFiles = []; noteFiles();
     }).catch(function () {
       msg.textContent = "That didn't go through. Check your connection and try again, or email contact@revenuefuel.ai.";

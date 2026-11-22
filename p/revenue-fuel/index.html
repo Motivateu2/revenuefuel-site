@@ -1,0 +1,412 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Revenue Fuel · Cincinnati</title>
+<meta name="description" content="Revenue Fuel helps Cincinnati businesses keep more of every sale: processors bid for your card processing, and websites that look like you spent thousands.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@100..125,500..900&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#0E1511;--ink2:#152019;--ink3:#1C2A21;--paper:#F3F5F0;--surface:#fff;
+  --text:#131814;--muted:#57615A;--line:#DAE0D6;
+  --flame:#FF8340;--flame2:#FFA36F;--flame-ink:#AE450D;--green:#2C7350;--mint:#74CC9D;
+  --display:"Archivo","Helvetica Neue",Arial,sans-serif;--body:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --r:18px;--shadow:0 1px 2px rgba(0,0,0,.06),0 24px 50px -24px rgba(0,0,0,.35);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{font-family:var(--body);color:var(--text);background:var(--paper);line-height:1.55;font-size:17px;overflow-x:hidden}
+img{max-width:100%;display:block}
+a{color:inherit}
+.wrap{max-width:1180px;margin:0 auto;padding:0 20px}
+h1,h2,h3{font-family:var(--display);font-stretch:108%;line-height:1.02;letter-spacing:-.01em}
+.eyebrow{font:700 13px/1 var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--flame-ink)}
+.dark .eyebrow{color:var(--flame2)}
+
+/* preview ribbon */
+.ribbon{background:var(--flame);color:#1A120C;font:600 13px/1.35 var(--body);text-align:center;padding:7px 14px}
+
+/* nav */
+nav{position:sticky;top:0;z-index:30;background:rgba(14,21,17,.88);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid rgba(255,255,255,.07)}
+nav .wrap{display:flex;align-items:center;justify-content:space-between;height:62px;gap:12px}
+nav img{height:34px;width:auto}
+nav .links{display:none;gap:28px;color:#C9D3CB;font-weight:600;font-size:15px}
+nav .links a{text-decoration:none}
+nav .links a:hover{color:#fff}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:8px;border:0;cursor:pointer;text-decoration:none;font:700 16px/1 var(--body);border-radius:999px;padding:16px 26px;transition:transform .15s,box-shadow .15s,background .15s}
+.btn-flame{background:var(--flame);color:#1A120C;box-shadow:0 10px 30px -10px rgba(255,131,64,.7)}
+.btn-flame:hover{transform:translateY(-1px);background:#FF9455}
+.btn-ghost{background:rgba(255,255,255,.08);color:#fff;border:1px solid rgba(255,255,255,.22)}
+.btn-ghost:hover{background:rgba(255,255,255,.14)}
+.btn-sm{padding:11px 18px;font-size:14px}
+
+/* hero */
+.hero{position:relative;min-height:clamp(600px,88vh,860px);display:flex;align-items:flex-end;color:#fff;overflow:hidden;background:var(--ink)}
+.hero .bg{position:absolute;inset:0;background:url(assets/hero.jpg) 62% 30%/cover no-repeat}
+.hero .bg:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,21,17,.25) 0%,rgba(14,21,17,.35) 35%,rgba(14,21,17,.92) 72%,var(--ink) 100%)}
+.hero .wrap{position:relative;z-index:2;padding-top:120px;padding-bottom:56px;width:100%}
+.hero .pill{display:inline-flex;align-items:center;gap:8px;font:600 13px/1 var(--body);background:rgba(255,255,255,.1);border:1px solid rgba(255,255,255,.18);padding:8px 13px;border-radius:999px;margin-bottom:20px}
+.hero .pill i{width:8px;height:8px;border-radius:50%;background:var(--mint);box-shadow:0 0 0 4px rgba(116,204,157,.22)}
+.hero h1{font-size:clamp(2.7rem,10.5vw,5.6rem);font-weight:900;max-width:13ch}
+.hero h1 em{font-style:normal;color:var(--flame)}
+.hero p.lead{font-size:clamp(1.05rem,2.6vw,1.3rem);color:#D7DFD9;max-width:34rem;margin:18px 0 28px}
+.hero .ctas{display:flex;flex-wrap:wrap;gap:12px;max-width:620px}
+.hero .ctas .btn{flex:1 1 220px}
+.trust{display:flex;flex-wrap:wrap;gap:10px 22px;margin-top:28px;color:#AEBBB1;font-size:14px;font-weight:600}
+.trust span:before{content:"✓";color:var(--mint);margin-right:7px}
+
+/* lanes */
+section{padding:84px 0}
+.sec-head{max-width:40rem;margin-bottom:38px}
+.sec-head h2{font-size:clamp(2rem,6.4vw,3.2rem);font-weight:850;margin:12px 0 14px}
+.sec-head p{color:var(--muted);font-size:1.08rem}
+.dark{background:var(--ink);color:#fff}
+.dark .sec-head p{color:#AEBBB1}
+.lanes{display:grid;gap:18px}
+.lane{position:relative;border-radius:24px;overflow:hidden;min-height:clamp(380px,60vh,520px);display:flex;align-items:flex-end;color:#fff;box-shadow:var(--shadow);text-decoration:none}
+.lane .ph{position:absolute;inset:0;background-size:cover;background-position:center;transition:transform .6s}
+.lane:hover .ph{transform:scale(1.04)}
+.lane .ph:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(0,0,0,.05) 25%,rgba(10,16,12,.9) 78%)}
+.lane .in{position:relative;padding:26px}
+.lane .tag{display:inline-block;font:700 12px/1 var(--body);letter-spacing:.12em;text-transform:uppercase;padding:7px 11px;border-radius:999px;background:var(--flame);color:#1A120C;margin-bottom:14px}
+.lane .tag.g{background:var(--mint);color:#0E1511}
+.lane h3{font-size:clamp(1.7rem,5.6vw,2.3rem);font-weight:850;margin-bottom:10px}
+.lane p{color:#D7DFD9;max-width:30rem}
+.lane .go{display:inline-flex;margin-top:16px;font-weight:700;color:var(--flame2)}
+
+/* processing */
+.steps{display:grid;gap:14px;counter-reset:s}
+.step{background:var(--ink2);border:1px solid rgba(255,255,255,.07);border-radius:var(--r);padding:24px;position:relative}
+.step:before{counter-increment:s;content:counter(s);font:900 15px/1 var(--display);width:36px;height:36px;border-radius:50%;display:grid;place-items:center;background:rgba(255,131,64,.16);color:var(--flame2);margin-bottom:14px}
+.step h3{font-size:1.3rem;font-weight:800;margin-bottom:6px}
+.step p{color:#AEBBB1;font-size:.98rem}
+.step .when{display:inline-block;margin-top:12px;font-size:13px;font-weight:700;color:var(--mint)}
+
+/* rate checker */
+.checker{margin-top:34px;display:grid;gap:18px;background:linear-gradient(160deg,#1E2E24,#121B15);border:1px solid rgba(255,255,255,.09);border-radius:24px;padding:24px;box-shadow:0 30px 60px -30px rgba(0,0,0,.6)}
+.checker h3{font-size:1.6rem;font-weight:850}
+.checker .sub{color:#AEBBB1;font-size:.98rem;margin-top:6px}
+.field{display:block;margin-top:14px}
+.field span{display:block;font-size:14px;font-weight:600;color:#C9D3CB;margin-bottom:7px}
+.field .inp{display:flex;align-items:center;background:#0B110D;border:1px solid #2E3D33;border-radius:14px;padding:0 14px;transition:border .15s}
+.field .inp:focus-within{border-color:var(--flame)}
+.field b{color:#7E8B82;font-weight:600}
+.field input{flex:1;min-width:0;background:transparent;border:0;outline:0;color:#fff;font:700 1.25rem var(--body);padding:14px 8px}
+.meter{background:#0B110D;border:1px solid #26332A;border-radius:20px;padding:22px;text-align:center}
+.meter .big{font:900 clamp(3rem,13vw,4.4rem)/1 var(--display);font-stretch:110%;color:#fff;transition:color .3s}
+.meter .lbl{font-size:13px;font-weight:700;letter-spacing:.12em;text-transform:uppercase;color:#7E8B82;margin-bottom:10px}
+.bar{height:12px;border-radius:99px;background:linear-gradient(90deg,#4FAE7F 0%,#E8C547 50%,#FF8340 75%,#E5484D 100%);margin:20px 0 8px;position:relative}
+.bar i{position:absolute;top:50%;width:22px;height:22px;border-radius:50%;background:#fff;border:4px solid #0B110D;transform:translate(-50%,-50%);left:0;transition:left .5s cubic-bezier(.2,.8,.2,1);box-shadow:0 0 0 2px rgba(255,255,255,.3)}
+.bar-k{display:flex;justify-content:space-between;font-size:12px;color:#7E8B82;font-weight:600}
+.verdict{margin-top:16px;font-weight:600;color:#D7DFD9;min-height:3em}
+.verdict strong{color:var(--flame2)}
+.fine{font-size:12.5px;color:#7E8B82;margin-top:12px}
+
+/* perks */
+.perks{display:grid;gap:12px;margin-top:34px}
+.perk{display:flex;gap:14px;align-items:flex-start;padding:18px;border-radius:16px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.07)}
+.perk .ic{flex:0 0 42px;height:42px;border-radius:12px;display:grid;place-items:center;background:rgba(116,204,157,.13);font-size:20px}
+.perk h4{font:800 1.05rem/1.25 var(--display);margin-bottom:3px}
+.perk p{color:#AEBBB1;font-size:.95rem}
+
+/* websites */
+.web{background:var(--paper)}
+.shots{display:flex;gap:16px;overflow-x:auto;scroll-snap-type:x mandatory;padding:6px 20px 26px;margin:0 -20px;scrollbar-width:none}
+.shots::-webkit-scrollbar{display:none}
+.phone{flex:0 0 230px;scroll-snap-align:center}
+.phone .scr{border-radius:30px;border:8px solid #111;background:#111;overflow:hidden;aspect-ratio:390/844;box-shadow:0 30px 50px -25px rgba(0,0,0,.55)}
+.phone .scr img{width:100%;height:100%;object-fit:cover;object-position:top}
+.phone figcaption{text-align:center;font-size:14px;font-weight:700;margin-top:12px}
+.phone figcaption small{display:block;font-weight:500;color:var(--muted);font-size:12.5px}
+.price-grid{display:grid;gap:16px;margin-top:20px}
+.plan{background:var(--surface);border:1px solid var(--line);border-radius:22px;padding:26px;box-shadow:var(--shadow);position:relative}
+.plan.feat{border:2px solid var(--flame)}
+.plan .badge{position:absolute;top:-12px;right:20px;background:var(--flame);color:#1A120C;font:700 12px/1 var(--body);padding:7px 11px;border-radius:999px}
+.plan h3{font-size:1.35rem;font-weight:850}
+.plan .amt{font:900 3rem/1 var(--display);font-stretch:108%;margin:14px 0 4px}
+.plan .amt small{font:600 15px var(--body);color:var(--muted)}
+.plan ul{list-style:none;margin:16px 0 22px;display:grid;gap:9px}
+.plan li{padding-left:28px;position:relative;font-size:.98rem}
+.plan li:before{content:"";position:absolute;left:0;top:5px;width:17px;height:17px;border-radius:50%;background:var(--green) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4 8.5l2.5 2.5L12 5.5' stroke='white' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/13px no-repeat}
+.plan .btn{width:100%}
+.btn-dark{background:var(--ink);color:#fff}
+.btn-dark:hover{background:#1C2A21}
+.free-strip{margin-top:18px;background:var(--green);color:#fff;border-radius:22px;padding:22px 24px;display:grid;gap:14px;align-items:center}
+.free-strip h3{font-size:1.4rem;font-weight:850}
+.free-strip p{color:#DDEBE2;font-size:.98rem}
+
+/* story */
+.story{display:grid;gap:30px;align-items:center}
+.story .pic{border-radius:24px;overflow:hidden;aspect-ratio:4/5;box-shadow:var(--shadow);position:relative}
+.story .pic img{width:100%;height:100%;object-fit:cover}
+.story .pic span{position:absolute;left:14px;bottom:14px;background:rgba(14,21,17,.78);color:#fff;font-size:12.5px;font-weight:600;padding:7px 11px;border-radius:999px}
+.story h2{font-size:clamp(2rem,6.4vw,3rem);font-weight:850;margin:12px 0 16px}
+.story p{color:var(--muted);margin-bottom:14px;font-size:1.05rem}
+.story .sig{font-family:var(--display);font-weight:800;color:var(--text);font-size:1.1rem}
+
+/* contact */
+.contact{background:var(--ink);color:#fff;overflow:hidden;position:relative}
+.contact:before{content:"";position:absolute;width:520px;height:520px;border-radius:50%;background:radial-gradient(circle,rgba(255,131,64,.22),transparent 65%);top:-200px;right:-200px;pointer-events:none}
+.contact .grid{display:grid;gap:26px;position:relative}
+.contact h2{font-size:clamp(2.2rem,7vw,3.4rem);font-weight:900}
+.contact p{color:#AEBBB1;margin-top:14px}
+.contact .mail{display:inline-block;margin-top:18px;font-weight:700;color:var(--flame2);text-decoration:none;font-size:1.1rem}
+form.card{background:var(--ink2);border:1px solid rgba(255,255,255,.08);border-radius:22px;padding:22px}
+.seg{display:grid;grid-template-columns:1fr 1fr;gap:8px;margin-bottom:6px}
+.seg label{cursor:pointer}
+.seg input{position:absolute;opacity:0;pointer-events:none}
+.seg span{display:block;text-align:center;padding:13px 8px;border-radius:12px;border:1px solid #2E3D33;font-weight:700;font-size:14.5px;color:#C9D3CB;transition:.15s}
+.seg input:checked+span{background:var(--flame);border-color:var(--flame);color:#1A120C}
+form.card .field input{font-size:1.05rem;font-weight:600}
+form.card .btn{width:100%;margin-top:18px}
+form.card .fine{text-align:center}
+
+footer{background:#09100C;color:#7E8B82;padding:36px 0 44px;font-size:14px}
+footer .wrap{display:flex;flex-wrap:wrap;gap:14px 24px;align-items:center;justify-content:space-between}
+footer img{height:30px;width:auto;opacity:.9}
+footer a{color:#C9D3CB;text-decoration:none;font-weight:600}
+footer a:hover{color:var(--flame2)}
+
+dialog{border:0;border-radius:22px;padding:28px;max-width:400px;width:calc(100% - 32px);margin:auto;box-shadow:0 40px 80px rgba(0,0,0,.5);font-family:var(--body)}
+dialog::backdrop{background:rgba(5,9,7,.7);backdrop-filter:blur(3px)}
+dialog h3{font-family:var(--display);font-size:1.5rem;font-weight:850;margin-bottom:10px}
+dialog p{color:var(--muted);margin-bottom:18px}
+
+.rv{opacity:0;transform:translateY(18px);transition:opacity .7s,transform .7s}
+.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}html{scroll-behavior:auto}}
+
+@media (min-width:760px){
+  nav .links{display:flex}
+  .lanes{grid-template-columns:1fr 1fr}
+  .lane{min-height:480px}
+  .steps{grid-template-columns:repeat(3,1fr)}
+  .checker{grid-template-columns:1.1fr 1fr;padding:36px;gap:34px;align-items:center}
+  .perks{grid-template-columns:repeat(3,1fr)}
+  .price-grid{grid-template-columns:1fr 1fr}
+  .free-strip{grid-template-columns:1fr auto;padding:28px 32px}
+  .story{grid-template-columns:.9fr 1.1fr;gap:56px}
+  .contact .grid{grid-template-columns:1fr 1fr;align-items:center;gap:48px}
+  .shots{justify-content:center;overflow:visible}
+  section{padding:110px 0}
+}
+</style>
+</head>
+<body>
+
+<div class="ribbon">Free preview built for Revenue Fuel by Revenue Fuel · Not live yet</div>
+
+<nav>
+  <div class="wrap">
+    <a href="#top" aria-label="Revenue Fuel home"><img src="assets/logo-on-dark.png" alt="Revenue Fuel" width="59" height="34"></a>
+    <div class="links"><a href="#processing">Card processing</a><a href="#websites">Websites</a><a href="#story">About</a></div>
+    <a class="btn btn-flame btn-sm" href="#start">Get started</a>
+  </div>
+</nav>
+
+<header class="hero" id="top">
+  <div class="bg" role="img" aria-label="A local food truck open at night under a neon sign"></div>
+  <div class="wrap">
+    <div class="pill"><i></i> Cincinnati · built for local businesses</div>
+    <h1>Keep more of <em>every sale.</em></h1>
+    <p class="lead">Revenue Fuel makes card processors compete for your business, and builds websites that look like you spent thousands. One local guy, two ways to put money back in your register.</p>
+    <div class="ctas">
+      <a class="btn btn-flame" href="#processing">Get processors bidding</a>
+      <a class="btn btn-ghost" href="#websites">See my free website preview</a>
+    </div>
+    <div class="trust"><span>Free to start</span><span>No sales calls unless you ask</span><span>Real person in Cincinnati</span></div>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <div class="sec-head rv">
+      <div class="eyebrow">Two ways we fuel your business</div>
+      <h2>Lower fees. Better first impression.</h2>
+      <p>Pick one, or let us do both. Either way you deal with Jason directly, not a call center.</p>
+    </div>
+    <div class="lanes">
+      <a class="lane rv" href="#processing">
+        <div class="ph" style="background-image:url(assets/tacos.jpg)"></div>
+        <div class="in">
+          <span class="tag">Card processing</span>
+          <h3>Make the processors fight for you.</h3>
+          <p>Send one statement. Processors bid against each other and you see every offer side by side.</p>
+          <span class="go">How the bidding works →</span>
+        </div>
+      </a>
+      <a class="lane rv" href="#websites">
+        <div class="ph" style="background-image:url(assets/shop.jpg)"></div>
+        <div class="in">
+          <span class="tag g">Websites</span>
+          <h3>See your new site before you pay.</h3>
+          <p>We build a free preview of your homepage. Love it? $399 to launch, or $499 for five pages.</p>
+          <span class="go">See the website offer →</span>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+<section class="dark" id="processing">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <div class="eyebrow">Card processing</div>
+      <h2>One quote is a sales pitch. Bids are an auction.</h2>
+      <p>Processors sharpen their pencils when they know they're being compared. Every month on your old rate is money you don't get back, so let's get the bids moving.</p>
+    </div>
+    <div class="steps">
+      <div class="step rv"><h3>Send one statement</h3><p>A PDF from your processor's portal or a phone photo. Account numbers are hidden before anyone sees it.</p><span class="when">About a minute</span></div>
+      <div class="step rv"><h3>Processors bid</h3><p>Every processor gets the same package at the same time, and each one knows it's competing.</p><span class="when">2 to 3 business days</span></div>
+      <div class="step rv"><h3>You pick the winner</h3><p>Every bid in one format, ranked by what you'd actually pay. We handle the paperwork and the switch.</p><span class="when">You decide</span></div>
+    </div>
+
+    <div class="checker rv" id="checker">
+      <div>
+        <h3>What are you really paying?</h3>
+        <p class="sub">Two numbers from last month's statement. The math runs right here on this page.</p>
+        <label class="field"><span>Monthly card sales</span><div class="inp"><b>$</b><input id="sales" inputmode="decimal" value="42,000" aria-label="Monthly card sales in dollars"></div></label>
+        <label class="field"><span>Total fees that month</span><div class="inp"><b>$</b><input id="fees" inputmode="decimal" value="1,470" aria-label="Total processing fees in dollars"></div></label>
+      </div>
+      <div class="meter">
+        <div class="lbl">Your effective rate</div>
+        <div class="big" id="rate">3.50%</div>
+        <div class="bar"><i id="dot"></i></div>
+        <div class="bar-k"><span>1.5%</span><span>3%</span><span>4.5%+</span></div>
+        <p class="verdict" id="verdict"></p>
+        <a class="btn btn-flame" href="#start" style="margin-top:14px;width:100%">Get my bids</a>
+        <p class="fine">Effective rate = total fees ÷ card sales. A quick gut check, not a quote.</p>
+      </div>
+    </div>
+
+    <div class="perks">
+      <div class="perk rv"><div class="ic">📄</div><div><h4>Stuck in a contract?</h4><p>The new processor almost always covers your early termination fee. We handle that at the end.</p></div></div>
+      <div class="perk rv"><div class="ic">🖥️</div><div><h4>Need new equipment?</h4><p>Buy, lease or, with enough card volume, we fight to get you a free POS. Whatever fits your shop.</p></div></div>
+      <div class="perk rv"><div class="ic">🤝</div><div><h4>No cost to you</h4><p>If you switch, the new processor pays us. No sales calls unless you ask for one.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="web" id="websites">
+  <div class="wrap">
+    <div class="sec-head rv">
+      <div class="eyebrow">Websites</div>
+      <h2>Look like you spent thousands. Pay $399.</h2>
+      <p>Send us your Facebook, Instagram or current site. We build a free preview of your new homepage, made for phones, so you see it before you spend a dime.</p>
+    </div>
+    <div class="shots rv">
+      <figure class="phone"><div class="scr"><img src="assets/ex-tacos.png" alt="Example food truck website design on a phone" loading="lazy"></div><figcaption>Food truck<small>Example design</small></figcaption></figure>
+      <figure class="phone"><div class="scr"><img src="assets/giftcincy-mobile.png" alt="giftcincy.com on a phone" loading="lazy"></div><figcaption>giftcincy.com<small>Jason's own site</small></figcaption></figure>
+      <figure class="phone"><div class="scr"><img src="assets/ex-spa.png" alt="Example spa website design on a phone" loading="lazy"></div><figcaption>Day spa<small>Example design</small></figcaption></figure>
+    </div>
+    <div class="price-grid">
+      <div class="plan rv">
+        <h3>Express</h3>
+        <div class="amt">$399 <small>one page</small></div>
+        <p style="color:var(--muted)">+ $39.99/mo hosting &amp; upkeep</p>
+        <ul><li>A full homepage built around your business</li><li>Made for phones first</li><li>Call, order or book buttons where customers look</li></ul>
+        <a class="btn btn-dark" href="#start" data-pick="web">Start with a free preview</a>
+      </div>
+      <div class="plan feat rv">
+        <span class="badge">Best value</span>
+        <h3>Business</h3>
+        <div class="amt">$499 <small>five pages</small></div>
+        <p style="color:var(--muted)">+ $39.99/mo hosting &amp; upkeep</p>
+        <ul><li>Everything in Express</li><li>Five pages, like menu, services, about and contact</li><li>Room to grow as your business does</li></ul>
+        <a class="btn btn-flame" href="#start" data-pick="web">Start with a free preview</a>
+      </div>
+    </div>
+    <div class="free-strip rv">
+      <div><h3>Your preview is free.</h3><p>Love it? $99 gets us started, the rest when it goes live.</p></div>
+      <a class="btn btn-ghost" href="#start" data-pick="web" style="background:rgba(255,255,255,.14)">Get my free preview</a>
+    </div>
+  </div>
+</section>
+
+<section id="story">
+  <div class="wrap story">
+    <div class="pic rv"><img src="assets/hero.jpg" alt="A food truck owner working the window at night" loading="lazy"><span>Stock photo</span></div>
+    <div class="rv">
+      <div class="eyebrow">Why Revenue Fuel</div>
+      <h2>Built for the people who close up at midnight.</h2>
+      <p>Local owners get two kinds of calls: processors pitching one rate, and agencies quoting thousands for a website. Revenue Fuel flips both. Processors compete for you, and you see your website before you pay for it.</p>
+      <p>No call center, no runaround. You text or email Jason in Cincinnati and get a real answer.</p>
+      <p class="sig">Jason, Revenue Fuel</p>
+    </div>
+  </div>
+</section>
+
+<section class="contact" id="start">
+  <div class="wrap grid">
+    <div class="rv">
+      <div class="eyebrow">Get started</div>
+      <h2>Let's put money back in your register.</h2>
+      <p>Tell us what you need. Bids come back in 2 to 3 business days; website previews are built fast.</p>
+      <a class="mail" href="mailto:hello@revenuefuel.ai">hello@revenuefuel.ai →</a>
+    </div>
+    <form class="card rv" id="lead">
+      <div class="seg" role="radiogroup" aria-label="What do you need">
+        <label><input type="radio" name="need" value="bids" checked><span>Processing bids</span></label>
+        <label><input type="radio" name="need" value="web"><span>Free website preview</span></label>
+      </div>
+      <label class="field"><span>Your name</span><div class="inp"><input name="n" autocomplete="name" placeholder="First and last"></div></label>
+      <label class="field"><span>Business name</span><div class="inp"><input name="b" autocomplete="organization" placeholder="Your business"></div></label>
+      <label class="field"><span>Phone or email</span><div class="inp"><input name="c" placeholder="Best way to reach you"></div></label>
+      <button class="btn btn-flame" type="submit" id="sendbtn">Get my bids</button>
+      <p class="fine">Free. No obligation. No sales calls unless you ask.</p>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <img src="assets/logo-on-dark.png" alt="Revenue Fuel" width="52" height="30">
+    <span>Cincinnati, Ohio · <a href="mailto:hello@revenuefuel.ai">hello@revenuefuel.ai</a></span>
+    <a href="https://revenuefuel.ai">Powered by revenuefuel.ai</a>
+  </div>
+</footer>
+
+<dialog id="dlg">
+  <h3>This is a preview</h3>
+  <p>On the live site this sends your request straight to Jason. Nothing was sent from this preview.</p>
+  <button class="btn btn-dark" style="width:100%" onclick="this.closest('dialog').close()">Got it</button>
+</dialog>
+
+<script>
+(function(){
+  var s=document.getElementById('sales'),f=document.getElementById('fees'),r=document.getElementById('rate'),d=document.getElementById('dot'),v=document.getElementById('verdict');
+  function num(x){return parseFloat(String(x.value).replace(/[^0-9.]/g,''))||0}
+  function fmt(n){return n.toLocaleString('en-US',{maximumFractionDigits:0})}
+  function calc(){
+    var a=num(s),b=num(f);
+    if(!a||!b){r.textContent='–';v.textContent='Enter both numbers to see your rate.';d.style.left='0%';r.style.color='#fff';return}
+    var p=b/a*100;r.textContent=p.toFixed(2)+'%';
+    var pos=Math.max(0,Math.min(100,(p-1.5)/3*100));d.style.left=pos+'%';
+    var yr=b*12;
+    r.style.color=p<2.6?'#74CC9D':p<3.1?'#E8C547':'#FF8340';
+    if(p<2.6)v.innerHTML='Solid rate. You pay about <strong>$'+fmt(yr)+'</strong> a year. Bids will tell you if it can go lower.';
+    else if(p<3.1)v.innerHTML='Middle of the pack. That’s <strong>$'+fmt(yr)+' a year</strong> in fees. Worth getting bids.';
+    else v.innerHTML='That’s on the high side: <strong>$'+fmt(yr)+' a year</strong> in fees. Let processors fight for it.';
+  }
+  [s,f].forEach(function(el){el.addEventListener('input',calc);el.addEventListener('blur',function(){var n=num(el);if(n)el.value=fmt(n)})});
+  calc();
+
+  var form=document.getElementById('lead'),btn=document.getElementById('sendbtn');
+  function sync(){btn.textContent=form.need.value==='web'?'Get my free preview':'Get my bids'}
+  form.addEventListener('change',sync);
+  document.querySelectorAll('[data-pick="web"]').forEach(function(a){a.addEventListener('click',function(){form.querySelector('input[value=web]').checked=true;sync()})});
+  form.addEventListener('submit',function(e){e.preventDefault();document.getElementById('dlg').showModal()});
+
+  var els=document.querySelectorAll('.rv');
+  if('IntersectionObserver' in window&&!matchMedia('(prefers-reduced-motion: reduce)').matches){
+    var io=new IntersectionObserver(function(es){es.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{threshold:.12});
+    els.forEach(function(e){io.observe(e)});
+  } else els.forEach(function(e){e.classList.add('in')});
+})();
+</script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+Mary Care Services preview — image credits
+All photos are free-license stock images from Unsplash (https://unsplash.com/license). None show Mary Care Services' own work.
+
+assets/hero.jpg         https://unsplash.com/photos/white-and-brown-living-room-set-85pCvDWDMmI
+assets/floors.jpg       https://unsplash.com/photos/a-woman-mops-a-bright-modern-living-room-floor-2NcTLdFHpH8
+assets/wipe.jpg         https://unsplash.com/photos/person-wiping-surface-with-paper-towel-SnKfmC1I9fU
+assets/laundry.jpg      https://unsplash.com/photos/folded-towels-near-potted-plants-BB3dR-N5Npg
+assets/kitchen.jpg      https://unsplash.com/photos/modern-white-kitchen-with-marble-island-GliaHAJ3_5A
+assets/pantry.jpg       https://unsplash.com/photos/clear-glass-jars-on-white-shelf-nLHnx2-_sK4
+assets/stairs.jpg       https://unsplash.com/photos/woman-cleaning-stairs-in-home-FhsFUo-Wfc0
+assets/bright-room.jpg  https://unsplash.com/photos/beige-couch-and-armchair-tHkJAMcO3QE

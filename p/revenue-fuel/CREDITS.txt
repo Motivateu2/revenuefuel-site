@@ -1,7 +1,0 @@
-Revenue Fuel preview — image credits
-hero.jpg   Unsplash License · unsplash.com/photos/photo-1519861155730-0b5fbf0dd889 (stock mood shot)
-tacos.jpg  Unsplash License · unsplash.com/photos/photo-1768716575089-7ba787da9afb (stock mood shot)
-shop.jpg   Unsplash License · unsplash.com/photos/photo-1619642751034-765dfdf7c58e (stock mood shot)
-ex-tacos.png, ex-spa.png  Revenue Fuel's own example designs (fictional businesses)
-giftcincy-mobile.png      Screenshot of giftcincy.com (Jason's own site)
-logo-on-dark.png  Revenue Fuel logo

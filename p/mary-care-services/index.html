@@ -8,13 +8,13 @@
 <meta name="description" content="Mary Care Services: friendly, dependable help around the house. Tell us what you need and build your visit in a minute.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,500..900;1,9..144,500..700&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500..900&family=Playfair+Display:ital,wght@1,500;1,600;1,700&family=Figtree:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
 :root{
   --cream:#FBF5EC;--cream2:#F4EADB;--card:#fff;--ink:#1D2B26;--forest:#1F3D34;--forest2:#2B5346;
   --clay:#C4552D;--clay2:#E0734A;--clay-ink:#9A3D1C;--gold:#E9B44C;--sage:#A9C4B0;
   --muted:#5E6B64;--line:#E6D9C5;
-  --display:"Fraunces",Georgia,serif;--body:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --display:"Fraunces",Georgia,serif;--accent:"Playfair Display","Fraunces",Georgia,serif;--body:"Figtree",system-ui,-apple-system,"Segoe UI",sans-serif;
   --shadow:0 1px 2px rgba(40,25,10,.06),0 26px 50px -26px rgba(40,25,10,.38);
 }
 *{box-sizing:border-box;margin:0;padding:0}
@@ -24,7 +24,7 @@ img{max-width:100%;display:block}
 a{color:inherit}
 button{font-family:inherit}
 .wrap{max-width:1160px;margin:0 auto;padding:0 20px}
-h1,h2,h3{font-family:var(--display);line-height:1.04;letter-spacing:-.015em;font-weight:700}
+h1,h2,h3{font-family:var(--display);line-height:1.04;letter-spacing:-.015em;font-weight:700;text-wrap:balance}
 .eyebrow{font:700 13px/1 var(--body);letter-spacing:.15em;text-transform:uppercase;color:var(--clay-ink)}
 .dark .eyebrow{color:var(--gold)}
 
@@ -54,7 +54,7 @@ nav .links a:hover{color:var(--clay)}
 .pill{display:inline-flex;align-items:center;gap:8px;font:600 13px/1 var(--body);background:rgba(255,255,255,.14);border:1px solid rgba(255,255,255,.3);padding:9px 14px;border-radius:999px;margin-bottom:20px;backdrop-filter:blur(6px)}
 .pill i{width:8px;height:8px;border-radius:50%;background:var(--gold)}
 .hero h1{font-size:clamp(2.9rem,11.5vw,5.6rem);font-weight:800;max-width:12ch}
-.hero h1 em{font-style:italic;font-weight:600;color:var(--gold)}
+.hero h1 em{font-family:var(--accent);font-style:italic;font-weight:600;letter-spacing:-.005em;color:var(--gold)}
 .hero p.lead{font-size:clamp(1.06rem,2.6vw,1.28rem);color:#E9EFE9;max-width:33rem;margin:18px 0 28px}
 .ctas{display:flex;flex-wrap:wrap;gap:12px;max-width:560px}
 .ctas .btn{flex:1 1 210px}
@@ -64,7 +64,7 @@ nav .links a:hover{color:var(--clay)}
 section{padding:80px 0}
 .sec-head{max-width:40rem;margin-bottom:36px}
 .sec-head h2{font-size:clamp(2.1rem,7vw,3.3rem);margin:12px 0 14px;color:var(--forest)}
-.sec-head h2 em{font-style:italic;font-weight:600;color:var(--clay)}
+.sec-head h2 em{font-family:var(--accent);font-style:italic;font-weight:600;letter-spacing:-.005em;color:var(--clay)}
 .sec-head p{color:var(--muted);font-size:1.07rem}
 .dark{background:var(--forest);color:#fff}
 .dark .sec-head h2{color:#fff}.dark .sec-head h2 em{color:var(--gold)}
@@ -82,7 +82,7 @@ section{padding:80px 0}
 
 .steps{display:grid;gap:16px;counter-reset:s}
 .step{border:1px solid rgba(255,255,255,.14);background:rgba(255,255,255,.05);border-radius:22px;padding:26px 24px}
-.step:before{counter-increment:s;content:"0" counter(s);font:italic 600 2.3rem/1 var(--display);color:var(--gold);display:block;margin-bottom:14px}
+.step:before{counter-increment:s;content:"0" counter(s);font:italic 600 2.3rem/1 var(--accent);color:var(--gold);display:block;margin-bottom:14px}
 .step h3{font-size:1.45rem;margin-bottom:8px}
 .step p{color:#C3D2C8}
 
@@ -112,7 +112,7 @@ section{padding:80px 0}
 .gal .w{grid-column:span 2;aspect-ratio:16/9}
 
 .words{background:var(--cream2);border-radius:28px;padding:38px 26px;text-align:center}
-.words .q{font:italic 600 clamp(1.5rem,5vw,2.2rem)/1.2 var(--display);color:var(--forest);max-width:24ch;margin:0 auto 12px}
+.words .q{font:italic 500 clamp(1.5rem,5vw,2.2rem)/1.25 var(--accent);color:var(--forest);max-width:24ch;margin:0 auto 12px}
 .words p{color:var(--muted);max-width:34rem;margin:0 auto}
 
 .contact{display:grid;gap:18px}

@@ -1,0 +1,37 @@
+Southsiders Property Services preview — image credits (Revenue Fuel preview, not live)
+
+REAL — the business's own photos and logo, saved from its Facebook Page
+(facebook.com/profile.php?id=61591497780819) on 2026-11-23; source copies in
+~/revenue-fuel/website-ads/desk/photos/southsiders-property-services/. Confirm use with the owner before launch.
+Originals are small phone photos (698x930 / 524x930); each was enlarged for sharper display and given the
+same light grade (slightly lower saturation, slightly higher contrast). None are stretched.
+  assets/logo-badge.png            Their round badge logo (pines + riding mower), cropped to the circle on a
+                                   transparent background (logo-round-badge.png). Header, ticket, About, footer, dialog, favicon.
+  assets/hero-landscape-bed.jpg    Fresh-edged landscape bed and lawn in front of a brick home, full frame
+                                   (fresh-edged-landscape-bed.jpg). Hero photo; base photo for og.jpg.
+  assets/work-landscape-bed.jpg    Same photo, sky cropped off. Gallery tile 02.
+  assets/work-covered-deck.jpg     New covered deck built beside a shed (new-covered-deck-build.jpg). Bottom cropped off
+                                   to remove a tool bag and wheelbarrow. Gallery tile 01; "Any time" banner background.
+  assets/work-backyard-cleanup.jpg Backyard along a wood fence (backyard-cleanup-with-shed.jpg). Left side cropped off so
+                                   the customer's shed and its sign are not shown. Gallery tile 03.
+  assets/work-mowed-backyard.jpg   Mowed backyard (mowed-backyard.jpg), some sky cropped off. Gallery tile 04;
+                                   "Spring + summer" banner background.
+  assets/og.jpg                    1200x630 link-share image: hero-landscape-bed.jpg + their logo + their name,
+                                   services, town and phone.
+
+STOCK — Unsplash License (https://unsplash.com/license). These do NOT show Southsiders' work and are NOT in the
+"Job photos" gallery. Used only as darkened mood backgrounds. No people, company names, vehicles or uniforms in either.
+  assets/mood-fall-leaves.jpg      Fallen maple leaves on grass — Weliton Soranzo
+                                   https://unsplash.com/photos/fallen-maple-leaves-on-grass-t6YjZUDCJFM
+                                   (images.unsplash.com/photo-1789663845593-0c09bf4e5ca6)
+                                   Background of the "Fall cleanups" banner in the season picker and, very faint, of the
+                                   closing "Leaves down?" section.
+  assets/mood-snow.jpg             Snow-covered trees beside a wooden fence — Annie Nyle
+                                   https://unsplash.com/photos/HOxKiWH-2dI
+                                   (images.unsplash.com/photo-1571952388648-2d941e34485a)
+                                   Background of the "Snow removal" banner (Winter tab) only.
+  Swap either for a real fall or snow job photo (same file name) when the owner sends one.
+
+The "Job photos" gallery contains only Southsiders Property Services photos.
+No BBB or Nextdoor logo artwork is used; those facts are text only.
+Fonts: Archivo + JetBrains Mono (Google Fonts, SIL Open Font License). Icons, pine shapes and treeline: inline SVG drawn for this page.

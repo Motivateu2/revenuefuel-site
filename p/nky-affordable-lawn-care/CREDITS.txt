@@ -1,0 +1,26 @@
+NKY Affordable Lawn Care & Tree Service preview — image credits
+
+REAL (the business's own photos, saved from its Facebook Page facebook.com/NkytreeService on 2026-11-23;
+source copies in ~/revenue-fuel/website-ads/desk/photos/nky-affordable-lawn-care/). Confirm use with the owner before launch:
+  assets/hero.jpg                    Striped back lawn inside a wood rail fence (from striped-fenced-lawn.jpg, bottom
+                                     cropped to drop the concrete pad). Hero background.
+  assets/striped-fenced-lawn.jpg     Same photo, full frame. Gallery tile 1; also the base photo for og.jpg.
+  assets/striped-farmhouse-lawn.jpg  Farmhouse lawn with mowing stripes. "Lawn care" service card + gallery tile 2.
+  assets/brick-ranch-front-lawn.jpg  Sloped front lawn by brick homes. Gallery tile 3. Right edge cropped off so the
+                                     house number on the neighbouring home is not shown.
+  assets/hillside-yard-valley-view.jpg  Cleared hillside lot with valley view. "Landscaping clean up" card + gallery tile 4.
+  assets/truck-and-mowers.jpg        Their truck and two stand-on mowers. "Why call us" photo only.
+  assets/og.jpg                      1200x630 share image: striped-fenced-lawn.jpg with the business name, town and phone set on it.
+  All five were trimmed 3px per side to remove the screenshot edge line; none are stretched.
+
+STOCK (Unsplash License, https://unsplash.com/license) — NOT the business's work, NOT in the "Our work" gallery:
+  assets/stock-tree-canopy.jpg       Looking up a tree trunk into green leaves — David Vig
+                                     https://unsplash.com/photos/macro-shot-photography-of-tree-during-daytime-qwHHOC2z5Xs
+                                     (images.unsplash.com/photo-1519567770579-c2fc5436bcf9)
+                                     Used only as the background of the "Tree trimming" service card, because no
+                                     tree-work photos were available. No people, company names, vehicles or uniforms in it.
+                                     Swap for a real tree job photo (same file name) when the owner sends one.
+
+No logo exists (Facebook profile picture is a dark photo, cover is just the phone number), so the wordmark is plain
+type: "NKY" in Big Shoulders Display with "AFFORDABLE / LAWN CARE & TREE SERVICE" beside it. No logo mark was invented.
+Fonts: Big Shoulders Display + DM Sans (Google Fonts, SIL Open Font License). Icons: inline SVG drawn for this page.

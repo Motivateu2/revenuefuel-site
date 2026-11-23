@@ -1,0 +1,30 @@
+Cabinets & Carpentry Remodeling preview: image credits
+
+ALL IMAGES ARE THE BUSINESS'S OWN. No stock photos are used anywhere on this page.
+Source: the business's Facebook Page, https://www.facebook.com/Cabinets.carpentry.remodeling
+(saved 2026-11-23 to ~/revenue-fuel/website-ads/desk/photos/cabinets-carpentry-remodeling/). Confirm use with the owner before launch.
+
+JOB PHOTOS (all one kitchen job)
+  assets/kitchen-galley.jpg         after-galley-kitchen-sink-wall.jpg, 1241x866. Hero background; also the source for og.jpg.
+  assets/kitchen-sink-window.jpg    after-sink-window-backsplash.jpg, 1242x866. Gallery "The sink wall, finished".
+  assets/kitchen-range.jpg          after-range-and-subway-backsplash.jpg, 1242x866. Gallery "Subway tile behind the range".
+  assets/wet-bar.jpg                after-wet-bar-glass-cabinets.jpg, 698x930. Gallery "The wet bar, glass-front cabinets".
+  assets/kitchen-before.jpg         before-old-tan-backsplash-during-job.jpg, 1240x866. Full copy kept for reference; not shown uncropped.
+  assets/detail-tile-hardware.jpg   Crop of after-galley-kitchen-sink-wall.jpg (x600-1160, y150-866). Gallery "Tile, stone and brass".
+  assets/slider-after.jpg           Crop of after-sink-window-backsplash.jpg (x150-1110, y0-800), 960x800. Before/after slider.
+  assets/slider-before.jpg          Crop of before-old-tan-backsplash-during-job.jpg (x355-1123, y53-693) enlarged 1.25x to 960x800
+                                    so the window and sill line up with the after shot. Cropped and scaled only; nothing retouched.
+  assets/og.jpg                     1200x630 share image: kitchen-galley.jpg darkened, with the business name, their tagline
+                                    "Built with integrity. Made for you.", Hilliard, Ohio and the phone number set over it.
+
+LOGOS (theirs)
+  assets/logo-wordmark.png          logo-wordmark-from-cover.png (cut from their Facebook cover). Background lifted to white so it
+                                    blends on the page; a stray corner of the cover artwork painted out. Used in the nav and the promise section.
+  assets/logo-round.png             logo-round-338px.png (their Facebook profile picture). Used in the contact card and footer.
+
+NOT USED
+  The large kitchen picture on their Facebook cover is a polished promo image, not one of their jobs. It is not on this page.
+  No Better Business Bureau logo or seal is used; BBB accreditation is stated in text with a link to the profile.
+
+ICONS AND FONTS
+  Line icons are drawn inline (SVG) for this page. Fonts: Baskervville and Montserrat (Google Fonts, SIL Open Font License).

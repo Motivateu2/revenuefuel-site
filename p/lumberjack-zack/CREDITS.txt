@@ -1,0 +1,21 @@
+Lumberjack Zack LLC preview — image credits
+
+ALL IMAGES ARE THE BUSINESS'S OWN. No stock photos are used anywhere on this page.
+Source: Lumberjack Zack LLC Facebook Page, https://www.facebook.com/profile.php?id=100086500065486
+(saved 2026-11-23 to ~/revenue-fuel/website-ads/desk/photos/lumberjack-zack/). Confirm use with the owner, Zack Settles, before launch.
+
+  assets/hero-bucket-truck.jpg      Their lettered bucket truck set up beside a tall pine (hero)          from bucket-truck-beside-pine.jpg, 698x930
+  assets/bucket-in-canopy.jpg       Bucket truck with the boom up in the canopy (On the job)              from bucket-lift-up-in-canopy.jpg, 698x930
+  assets/pickup-logs-grindings.jpg  Wrapped pickup beside fresh-cut logs and stump grindings (On the job) from wrapped-pickup-with-fresh-cut-logs.jpg, 916x686
+  assets/after-removal.jpg          Yard after a removal, stump and stacked logs (On the job)             from after-tree-removed-stump-and-logs.jpg, 686x916
+  assets/bucket-truck-big-tree.jpg  Bucket truck under a large shade tree (On the job)                    from bucket-truck-under-big-tree.jpg, 686x916
+  assets/card.jpg                   Their own business-card graphic, shown whole and unedited (Our story) from business-card-graphic-with-logo.jpg, 742x438
+  assets/logo.jpg                   Their logo, cropped from the card graphic (nav badge, final section)  from logo-cropped-from-card.png, trimmed to 248x248
+  assets/og.jpg                     1200x630 share image: hero-bucket-truck.jpg on the right, the name,
+                                    "Tree Care & Landscaping", service area and phone set in type on the left
+
+Photos were only re-saved as JPG (no upscaling, no retouching). All are under 1000px on the long side, so
+sharper originals from the owner's phone would improve the hero on large screens.
+
+Not images: the saw-tooth section edges, tree-ring backgrounds, log-end number badges and icons are CSS / inline SVG drawn for this page.
+Fonts: Big Shoulders Display, Barlow, Barlow Condensed (Google Fonts, SIL Open Font License).

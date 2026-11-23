@@ -1,0 +1,44 @@
+Man of the House Handyman Service preview: image credits
+=========================================================
+Every photo on this page is the business's own. No stock images are used anywhere.
+
+Source for all project photos: the business's Thumbtack profile, "Projects and media" gallery
+(the pro's own uploads; customer-review photos were NOT used).
+https://www.thumbtack.com/in/indianapolis/handyman/man-handyman-service/service/418752484613193732
+Each file was downloaded from https://production-next-images-cdn.thumbtack.com/i/<ID>/width/1600.jpeg
+on 2026-11-23, then resized (longest side 1600px or less) and saved as .jpg.
+
+assets/hero-entry-light.jpg        Thumbtack image 463281653518475266  (entry pendant light, front door)
+assets/work-entry-pendant.jpg      Thumbtack image 463281653392334855
+assets/work-chandelier.jpg         Thumbtack image 463281651229220873  (cropped to the chandelier; family photos on the wall cropped out)
+assets/work-vanity-lights.jpg      Thumbtack image 463281651793395714
+assets/work-dining-chandelier.jpg  Thumbtack image 463281650255626249
+assets/svc-lighting.jpg            Thumbtack image 463281650255626249  (square crop of the same photo)
+assets/work-microwave.jpg          Thumbtack image 463281652647919625
+assets/work-bath-faucet.jpg        Thumbtack image 458845400358838287
+assets/work-bath-vanity.jpg        Thumbtack image 588691575838654466
+assets/work-kitchen-floor.jpg      Thumbtack image 463283693825032200
+assets/svc-floors.jpg              Thumbtack image 463283693831913481  (square crop)
+assets/svc-kitchen.jpg             Thumbtack image 463283694915895303  (square crop)
+assets/svc-doors.jpg               Thumbtack image 463285540518903815  (square crop)
+assets/work-door.jpg               Thumbtack image 463285541030772743
+assets/svc-assemble.jpg            Thumbtack image 588691584239984642  (square crop)
+assets/work-gazebo.jpg             Thumbtack image 588691579289673732
+assets/work-pergola.jpg            Thumbtack image 588691571993747468  (source is 750x1000)
+assets/work-playhouse.jpg          Thumbtack image 463283698392342535
+assets/work-trampoline.jpg         Thumbtack image 588691095713177605
+assets/work-garage-cabinets.jpg    Thumbtack image 588691321952100358
+assets/work-garage-racks.jpg       Thumbtack image 588691320974663692
+assets/work-tv-mount.jpg           Thumbtack image 588691577998737421
+assets/floor-1-before.jpg          Thumbtack image 469462427717869580  (bathroom floor project 469462799035383812)
+assets/floor-2-tearout.jpg         Thumbtack image 469462427773132804  (same project)
+assets/floor-3-tile.jpg            Thumbtack image 469462427758747656  (same project)
+assets/floor-4-done.jpg            Thumbtack image 469462427795898381  (same project)
+
+assets/sulaiman.jpg                Thumbtack image 422723323939397660  (the pro's own profile photo on Thumbtack, square crop)
+assets/logo.jpg                    Their Facebook profile picture (wooden "DIY" letters over a cartoon of the owner), from
+                                   desk/photos/man-of-the-house-handyman/logo-diy-cartoon-190px.png. 190px source, used small as a round badge.
+assets/og.jpg                      1200x630 share image composed from hero-entry-light.jpg and logo.jpg with the business name set in type.
+
+Fonts: Bricolage Grotesque, Inter, Caveat (Google Fonts, SIL Open Font License).
+Icons: hand-drawn inline SVG.

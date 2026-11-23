@@ -1,0 +1,24 @@
+Harmeling Custom Cuts preview — image credits
+
+REAL (Harmeling Custom Cuts Facebook Page, facebook.com/profile.php?id=100083376600956, saved 2026-11-23,
+source files in ~/revenue-fuel/website-ads/desk/photos/harmeling-custom-cuts/) — the owner's own photos;
+confirm use with Bailey before launch. Originals are 698x930; enlarged to 1200x1599 for sharper display.
+  assets/hero.jpg               Their cover photo: striped front lawn, their trailer on the street   (cover-striped-lawn-with-trailer.jpg)
+  assets/work-striped-lawn.jpg  Striped front lawn around a young tree                               (striped-front-lawn.jpg)
+  assets/work-mulch-bed.jpg     Fresh mulch bed beside a brick garage                                (fresh-mulch-bed.jpg)
+  assets/work-leaf-cleanup.jpg  Leaf cleanup in a backyard, crew member at work                      (leaf-removal-crew.jpg)
+  assets/work-shed-pad.jpg      Gravel shed pad installation                                         (gravel-pad-install.jpg)
+  assets/work-backyard.jpg      Backyard after cleanup                                               (backyard-after-cleanup.jpg)
+  assets/work-fall-tree.jpg     Tree in fall color, leaves on the lawn, crew member at work          (fall-tree-cleanup.jpg)
+  assets/truck-trailer.jpg      Their truck, trailer and mower at dusk                               (truck-trailer-sunset.jpg)
+  assets/logo-shield.png        Their logo badge, cut out of its white circle onto a transparent background (logo-from-facebook-342px.png)
+  assets/og.jpg                 Link-share image, 1200x630: their cover photo + their logo + their name and phone
+
+STOCK (Unsplash License, https://unsplash.com/license) — NOT Harmeling's work. Used only as the darkened
+background of the "Snow removal" card, never in the gallery. Swap in a real snow job photo when they have one.
+  assets/snow-mood.jpg          Snow-covered trees and houses on a winter day — Emma
+                                https://unsplash.com/photos/snow-covered-trees-and-houses-on-a-winter-day-6VY-LAcGCRk
+                                (images.unsplash.com/photo-1771023169205-42953f5d30cc)
+
+The gallery ("Recent work") contains only Harmeling Custom Cuts photos.
+No BBB seal or logo image is used; BBB facts are text only.

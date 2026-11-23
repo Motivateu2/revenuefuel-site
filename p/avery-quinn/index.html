@@ -1,0 +1,638 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Avery Quinn LLC · Handyman &amp; Renovations · Cincinnati</title>
+<meta name="description" content="Avery Quinn LLC: drywall, painting, shelves, gates, blinds and full rehabs across Greater Cincinnati. Every job quoted up front, never by the hour. Call or text (513) 225-6337.">
+<meta name="theme-color" content="#0e0e0d">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;1,500;1,600&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#0e0e0d; --ink-2:#1a1a18; --ink-3:#26251f;
+  --ivory:#f4f0e8; --paper:#ebe5d9; --paper-2:#e2dbcc;
+  --sage:#7e8f82; --sage-d:#56665a; --sage-l:#c9d3c8;
+  --brass:#c3a56e;
+  --muted:#6c6a62; --line:rgba(14,14,13,.12);
+  --serif:'Playfair Display',Georgia,serif; --sans:'Manrope',system-ui,-apple-system,sans-serif;
+  --r:18px; --shadow:0 18px 40px -18px rgba(14,14,13,.35);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{font-family:var(--sans);background:var(--ivory);color:var(--ink);line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img{display:block;max-width:100%}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+h1,h2,h3,.stat b,.score b,.how .n,.big-num{font-variant-numeric:lining-nums}
+h1,h2,h3{font-family:var(--serif);font-weight:500;line-height:1.06;letter-spacing:-.01em;text-wrap:balance}
+em.acc{font-family:var(--serif);font-style:italic;font-weight:500}
+.wrap{width:100%;max-width:1180px;margin:0 auto;padding:0 20px}
+.eyebrow{font:700 11.5px/1 var(--sans);letter-spacing:.22em;text-transform:uppercase;color:var(--sage-d)}
+.eyebrow.lt{color:var(--sage-l)}
+.sec{padding:76px 0}
+.sec-h{max-width:640px;margin-bottom:34px}
+.sec-h h2{font-size:clamp(34px,8.6vw,54px);margin-top:14px}
+.sec-h p{color:var(--muted);margin-top:14px;font-size:16.5px}
+
+/* buttons */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:54px;padding:0 24px;border-radius:999px;font:700 15.5px/1 var(--sans);letter-spacing:.01em;transition:transform .2s,box-shadow .2s,background .2s}
+.btn svg{width:19px;height:19px;flex:none}
+.btn-pri{background:var(--ivory);color:var(--ink);box-shadow:0 12px 30px -10px rgba(0,0,0,.55)}
+.btn-pri:hover{transform:translateY(-2px)}
+.btn-ghost{border:1.5px solid rgba(244,240,232,.45);color:var(--ivory)}
+.btn-ghost:hover{background:rgba(244,240,232,.08)}
+.btn-ink{background:var(--ink);color:var(--ivory);box-shadow:var(--shadow)}
+.btn-ink:hover{transform:translateY(-2px)}
+.btn-line{border:1.5px solid var(--ink);color:var(--ink)}
+
+/* ribbon + nav */
+.ribbon{background:var(--sage-d);color:var(--ivory);font-size:12.5px;text-align:center;padding:8px 16px;font-weight:600;letter-spacing:.01em}
+.ribbon b{font-weight:800}
+.nav{position:absolute;left:0;right:0;z-index:20}
+.nav .wrap{display:flex;align-items:center;justify-content:space-between;padding-top:18px}
+.mark{display:flex;flex-direction:column;color:var(--ivory);line-height:1}
+.mark b{font:500 21px/1 var(--serif);letter-spacing:.28em}
+.mark small{font:500 9.5px/1 var(--serif);letter-spacing:.34em;margin-top:6px;opacity:.85}
+.nav-call{display:inline-flex;align-items:center;gap:8px;height:42px;padding:0 16px;border-radius:999px;background:rgba(244,240,232,.12);border:1px solid rgba(244,240,232,.3);color:var(--ivory);font-weight:700;font-size:14px;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.nav-call svg{width:16px;height:16px}
+.nav-call .num{display:none}
+
+/* hero */
+.hero{position:relative;min-height:min(100svh,860px);background:var(--ink);color:var(--ivory);display:flex;align-items:flex-end;overflow:hidden}
+.hero-img{position:absolute;inset:0;background:url(assets/hero.jpg) 50% 40%/cover no-repeat;transform:scale(1.04)}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,14,13,.55) 0%,rgba(14,14,13,.15) 30%,rgba(14,14,13,.72) 62%,rgba(14,14,13,.97) 100%)}
+.hero .wrap{position:relative;z-index:2;padding-top:130px;padding-bottom:44px}
+.rating{display:inline-flex;align-items:center;gap:10px;padding:8px 14px 8px 12px;border-radius:999px;background:rgba(14,14,13,.5);border:1px solid rgba(244,240,232,.18);font-size:13px;font-weight:600;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px)}
+.stars{color:var(--brass);letter-spacing:2px;font-size:13px}
+.hero h1{font-size:clamp(44px,12.4vw,92px);margin-top:20px;max-width:820px}
+.hero h1 em{color:var(--sage-l)}
+.hero p.lede{font-size:17px;color:rgba(244,240,232,.82);max-width:540px;margin-top:18px}
+.hero-cta{display:flex;flex-direction:column;gap:12px;margin-top:28px;max-width:420px}
+.hero-note{margin-top:16px;font-size:13px;color:rgba(244,240,232,.6)}
+
+/* proof strip */
+.proof{background:var(--ink);color:var(--ivory);border-top:1px solid rgba(244,240,232,.1)}
+.proof .wrap{display:grid;grid-template-columns:1fr 1fr;gap:0}
+.stat{padding:22px 4px 22px 0;border-bottom:1px solid rgba(244,240,232,.1)}
+.stat:nth-child(odd){padding-right:14px;border-right:1px solid rgba(244,240,232,.1)}
+.stat:nth-child(even){padding-left:16px}
+.stat:nth-last-child(-n+2){border-bottom:0}
+.stat b{display:block;font:500 32px/1 var(--serif)}
+.stat b i{font-style:normal;color:var(--brass);font-size:22px;margin-left:2px}
+.stat span{display:block;font-size:12.5px;color:rgba(244,240,232,.62);margin-top:8px;line-height:1.35}
+
+/* services */
+.svc-grid{display:grid;grid-template-columns:1fr;gap:16px}
+.svc{position:relative;border-radius:var(--r);overflow:hidden;background:var(--ink);color:var(--ivory);min-height:250px;display:flex;align-items:flex-end;box-shadow:var(--shadow)}
+.svc .ph{position:absolute;inset:0;background-size:cover;background-position:center;transition:transform .6s}
+.svc:hover .ph{transform:scale(1.05)}
+.svc::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(14,14,13,0) 25%,rgba(14,14,13,.88) 100%)}
+.svc .tx{position:relative;z-index:2;padding:22px}
+.svc h3{font-size:27px}
+.svc p{font-size:14.5px;color:rgba(244,240,232,.78);margin-top:6px;max-width:360px}
+.tag{position:absolute;z-index:3;top:14px;left:14px;font:700 10.5px/1 var(--sans);letter-spacing:.14em;text-transform:uppercase;padding:7px 10px;border-radius:999px;background:var(--ivory);color:var(--ink)}
+.tag.real{background:var(--sage);color:var(--ivory)}
+
+/* holiday */
+.holiday{background:var(--ink);color:var(--ivory);overflow:hidden}
+.holiday .wrap{display:grid;grid-template-columns:1fr;gap:0;padding:0}
+.hol-img{min-height:300px;background:url(assets/lights.jpg) 50% 55%/cover}
+.hol-tx{padding:44px 20px 52px}
+.hol-tx h2{font-size:clamp(36px,9vw,54px);margin-top:14px}
+.hol-tx h2 em{color:var(--brass)}
+.hol-tx p{color:rgba(244,240,232,.75);margin-top:14px;max-width:460px}
+.hol-tx .btn{margin-top:24px}
+
+/* picker */
+.picker{background:var(--paper)}
+.pk{display:grid;grid-template-columns:1fr;gap:22px}
+.pk-card{background:var(--ivory);border-radius:24px;padding:22px 18px;box-shadow:0 1px 0 var(--line),0 20px 44px -28px rgba(14,14,13,.4)}
+.step{display:flex;align-items:center;gap:10px;margin:4px 0 14px}
+.step i{font:800 13px/1 var(--sans);font-style:normal;width:28px;height:28px;border-radius:50%;background:var(--ink);color:var(--ivory);display:inline-grid;place-items:center;flex:none}
+.step h3{font-size:22px}
+.step+.jobs{margin-bottom:0}
+.jobs{display:grid;grid-template-columns:repeat(3,1fr);gap:8px}
+.job{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:8px;text-align:center;padding:14px 6px 12px;min-height:94px;border-radius:14px;background:#fff;border:1.5px solid var(--line);font-size:12.5px;font-weight:700;line-height:1.2;transition:all .18s}
+.job svg{width:26px;height:26px;stroke:var(--sage-d);fill:none;stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
+.job[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:var(--ivory);transform:translateY(-1px)}
+.job[aria-pressed=true] svg{stroke:var(--sage-l)}
+.job[aria-pressed=true]::after{content:"";position:absolute;top:8px;right:8px;width:16px;height:16px;border-radius:50%;background:var(--sage) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M4.5 8.2l2.3 2.3 4.7-5' fill='none' stroke='%23fff' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/16px}
+.divide{height:1px;background:var(--line);margin:22px 0 18px}
+.chips{display:flex;flex-wrap:wrap;gap:8px}
+.chip{height:42px;padding:0 16px;border-radius:999px;border:1.5px solid var(--line);background:#fff;font-size:14px;font-weight:700;transition:all .18s}
+.chip[aria-pressed=true]{background:var(--sage-d);border-color:var(--sage-d);color:var(--ivory)}
+.fields{display:grid;grid-template-columns:1fr;gap:10px}
+.fields label{display:block;font-size:12px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);margin-bottom:6px}
+.fields input,.fields textarea{width:100%;font:500 16px var(--sans);color:var(--ink);background:#fff;border:1.5px solid var(--line);border-radius:12px;padding:12px 14px;outline:none}
+.fields input:focus,.fields textarea:focus{border-color:var(--sage-d)}
+.fields textarea{min-height:84px;resize:vertical}
+
+.phone{position:relative;background:var(--ink);border-radius:30px;padding:16px 14px 18px;color:var(--ivory);box-shadow:0 30px 60px -30px rgba(14,14,13,.7)}
+.ph-top{display:flex;align-items:center;gap:10px;padding:2px 4px 14px;border-bottom:1px solid rgba(244,240,232,.1)}
+.ph-top img{width:38px;height:38px;border-radius:50%;object-fit:cover}
+.ph-top b{display:block;font-size:14.5px}
+.ph-top small{display:block;font-size:12px;color:rgba(244,240,232,.55)}
+.thread{padding:18px 2px 6px;min-height:170px;display:flex;flex-direction:column;align-items:flex-end;gap:8px}
+.bubble{max-width:92%;background:#3d6b52;background:linear-gradient(180deg,#5f7a66,#4b6553);color:#fff;padding:12px 14px;border-radius:20px 20px 6px 20px;font-size:14.5px;line-height:1.45;white-space:pre-wrap;word-wrap:break-word}
+.bubble.empty{background:rgba(244,240,232,.08);color:rgba(244,240,232,.5);font-style:normal}
+.meta{font-size:11.5px;color:rgba(244,240,232,.45)}
+.count{display:flex;justify-content:space-between;align-items:center;font-size:13px;color:rgba(244,240,232,.65);padding:12px 4px 14px;border-top:1px solid rgba(244,240,232,.1);margin-top:12px}
+.count b{color:var(--ivory)}
+.ph-btns{display:grid;grid-template-columns:1fr;gap:10px}
+.ph-btns .btn{width:100%}
+.ph-btns .btn-ghost{min-height:48px;font-size:14px}
+.ph-tip{font-size:12.5px;color:rgba(244,240,232,.55);margin-top:12px;text-align:center}
+
+/* how */
+.how-grid{display:grid;grid-template-columns:1fr;gap:14px;counter-reset:s}
+.how{padding:26px 22px;border-radius:var(--r);background:#fff;border:1px solid var(--line)}
+.how .n{font:500 44px/1 var(--serif);color:var(--sage)}
+.how h3{font-size:24px;margin-top:12px}
+.how p{color:var(--muted);margin-top:8px;font-size:15px}
+.how q{display:block;margin-top:12px;font:italic 500 15.5px/1.45 var(--serif);color:var(--ink)}
+
+/* away owners */
+.away{background:var(--sage-d);color:var(--ivory);border-radius:26px;padding:36px 22px;display:grid;grid-template-columns:1fr;gap:22px;position:relative;overflow:hidden}
+.away::before{content:"";position:absolute;width:420px;height:420px;border-radius:50%;right:-180px;top:-200px;border:1px solid rgba(244,240,232,.15)}
+.away::after{content:"";position:absolute;width:300px;height:300px;border-radius:50%;right:-120px;top:-140px;border:1px solid rgba(244,240,232,.12)}
+.away h2{font-size:clamp(30px,7.6vw,44px);margin-top:12px;position:relative}
+.away p{color:rgba(244,240,232,.85);margin-top:12px;position:relative}
+.away ul{list-style:none;display:grid;gap:10px;position:relative}
+.away li{display:flex;gap:12px;align-items:flex-start;font-weight:600;font-size:15px;background:rgba(14,14,13,.18);padding:14px 16px;border-radius:14px}
+.away li svg{width:20px;height:20px;flex:none;margin-top:1px;stroke:var(--sage-l);fill:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round}
+
+/* reviews */
+.reviews{background:var(--ink);color:var(--ivory)}
+.reviews .sec-h p{color:rgba(244,240,232,.65)}
+.score{display:flex;align-items:center;gap:18px;margin-top:22px}
+.score b{font:500 64px/1 var(--serif)}
+.score .stars{font-size:18px}
+.score small{display:block;font-size:13px;color:rgba(244,240,232,.6);margin-top:4px}
+.rv-row{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 20px 18px;margin:0 -20px;scrollbar-width:none}
+.rv-row::-webkit-scrollbar{display:none}
+.rv{flex:0 0 84%;scroll-snap-align:start;background:var(--ink-2);border:1px solid rgba(244,240,232,.1);border-radius:var(--r);padding:24px 22px;display:flex;flex-direction:column;justify-content:space-between;gap:22px}
+.rv blockquote{font:500 21px/1.35 var(--serif)}
+.rv blockquote::before{content:"\201C";display:block;font:600 52px/0.6 var(--serif);color:var(--sage);margin-bottom:10px}
+.rv footer{display:flex;align-items:center;justify-content:space-between;gap:10px;font-size:13px;color:rgba(244,240,232,.6)}
+.rv footer b{color:var(--ivory);font-weight:700}
+.rv-hint{font-size:12.5px;color:rgba(244,240,232,.45);margin-top:4px}
+
+/* gallery */
+.gal{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.gal figure{position:relative;border-radius:14px;overflow:hidden;background:var(--paper-2);aspect-ratio:4/5}
+.gal figure.wide{grid-column:span 2;aspect-ratio:16/10}
+.gal img{width:100%;height:100%;object-fit:cover;filter:brightness(1.1) contrast(1.06) saturate(1.04)}
+.gal figcaption{position:absolute;left:10px;bottom:10px;right:10px;font-size:12px;font-weight:700;color:var(--ivory);background:rgba(14,14,13,.62);padding:7px 10px;border-radius:9px;backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);width:max-content;max-width:calc(100% - 20px)}
+.gal-note{font-size:13px;color:var(--muted);margin-top:14px}
+.gal-note a{color:var(--sage-d);font-weight:700;border-bottom:1.5px solid var(--sage-l)}
+
+/* contact */
+.contact{background:var(--paper)}
+.ct{display:grid;grid-template-columns:1fr;gap:20px}
+.ct-main{background:var(--ink);color:var(--ivory);border-radius:26px;padding:34px 22px;position:relative;overflow:hidden}
+.ct-main h2{font-size:clamp(36px,9vw,58px);margin-top:12px}
+.ct-main h2 em{color:var(--sage-l)}
+.big-num{display:block;font:500 clamp(30px,8.4vw,46px)/1.1 var(--serif);margin-top:20px;letter-spacing:.01em}
+.ct-main .row{display:flex;flex-direction:column;gap:10px;margin-top:22px}
+.ct-side{display:grid;gap:12px}
+.info{background:var(--ivory);border:1px solid var(--line);border-radius:var(--r);padding:20px}
+.info h4{font:700 11.5px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--sage-d)}
+.info p{margin-top:10px;font-size:15px}
+.pays{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.pays span{font-size:13px;font-weight:700;padding:7px 12px;border-radius:999px;background:#fff;border:1px solid var(--line)}
+.info a.ig{display:inline-flex;align-items:center;gap:8px;font-weight:700;margin-top:10px}
+.info a.ig svg{width:18px;height:18px}
+
+/* footer */
+.foot{background:var(--ink);color:rgba(244,240,232,.7);padding:46px 0 120px;font-size:13.5px}
+.foot .wrap{display:flex;flex-direction:column;gap:22px;align-items:flex-start}
+.foot img{width:92px;height:92px;border-radius:10px;box-shadow:0 0 0 6px var(--sage)}
+.foot .credit a{color:var(--ivory);font-weight:700;border-bottom:1px solid rgba(244,240,232,.3)}
+
+/* sticky bar */
+.bar{position:fixed;left:12px;right:12px;bottom:max(12px,env(safe-area-inset-bottom));z-index:40;display:grid;grid-template-columns:1fr 1.35fr;gap:8px;padding:8px;border-radius:999px;background:rgba(14,14,13,.9);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);box-shadow:0 16px 40px -12px rgba(0,0,0,.6);transform:translateY(140%);transition:transform .35s}
+.bar.show{transform:none}
+.bar a{height:48px;border-radius:999px;display:flex;align-items:center;justify-content:center;gap:8px;font-weight:800;font-size:14.5px;color:var(--ivory)}
+.bar a svg{width:17px;height:17px}
+.bar a.q{background:var(--ivory);color:var(--ink)}
+
+/* dialog + toast */
+dialog{border:0;border-radius:24px;padding:0;max-width:440px;width:calc(100% - 32px);background:var(--ivory);color:var(--ink);margin:auto}
+dialog::backdrop{background:rgba(14,14,13,.72);backdrop-filter:blur(4px)}
+.dlg{padding:28px 24px 24px}
+.dlg h3{font-size:28px;margin-top:10px}
+.dlg p{color:var(--muted);margin-top:10px;font-size:15px}
+.dlg .bubble{margin:16px 0 4px auto;max-width:100%;font-size:14px}
+.dlg .btn{width:100%;margin-top:18px}
+.toast{position:fixed;left:50%;bottom:90px;transform:translate(-50%,20px);opacity:0;background:var(--ink);color:var(--ivory);padding:12px 18px;border-radius:999px;font-weight:700;font-size:14px;z-index:60;transition:all .3s;pointer-events:none}
+.toast.on{opacity:1;transform:translate(-50%,0)}
+
+.stat b,.score b,.big-num,.step i{font-variant-numeric:lining-nums}
+.how .n{font:800 15px/1 var(--sans)!important;letter-spacing:.16em;color:var(--sage-d)!important}
+.eyebrow{line-height:1.5}
+.rv footer{flex-direction:column;align-items:flex-start;gap:2px}
+
+/* reveal */
+@media (prefers-reduced-motion:no-preference){
+  .rise{opacity:0;transform:translateY(22px);transition:opacity .7s,transform .7s}
+  .rise.in{opacity:1;transform:none}
+  .hero-img{animation:slowzoom 18s ease-out both}
+  @keyframes slowzoom{from{transform:scale(1.12)}to{transform:scale(1.04)}}
+}
+
+/* tablet / desktop */
+@media (min-width:720px){
+  .wrap{padding:0 32px}
+  .sec{padding:104px 0}
+  .hero-cta{flex-direction:row;max-width:none}
+  .proof .wrap{grid-template-columns:repeat(4,1fr)}
+  .stat,.stat:nth-child(odd),.stat:nth-child(even){padding:30px 22px;border-bottom:0;border-right:1px solid rgba(244,240,232,.1)}
+  .stat:first-child{padding-left:0}
+  .stat:last-child{border-right:0}
+  .stat b{font-size:40px}
+  .svc-grid{grid-template-columns:repeat(2,1fr)}
+  .svc{min-height:300px}
+  .holiday .wrap{grid-template-columns:1fr 1fr;max-width:none}
+  .hol-img{min-height:460px}
+  .hol-tx{padding:70px 56px;align-self:center}
+  .jobs{grid-template-columns:repeat(4,1fr)}
+  .fields{grid-template-columns:1fr 1fr}
+  .fields .full{grid-column:span 2}
+  .how-grid{grid-template-columns:repeat(3,1fr)}
+  .away{grid-template-columns:1.1fr 1fr;padding:56px 48px;align-items:center}
+  .rv-row{display:grid;grid-template-columns:repeat(3,1fr);overflow:visible;margin:0;padding:4px 0 0}
+  .rv-hint{display:none}
+  .gal{grid-template-columns:repeat(4,1fr);grid-auto-rows:280px;gap:14px}
+  .gal figure{aspect-ratio:auto}
+  .gal figure.wide{grid-column:span 2;aspect-ratio:auto}
+  .gal figure.tall{grid-row:span 2}
+  .ct{grid-template-columns:1.25fr 1fr}
+  .ct-main{padding:52px 48px}
+  .ct-main .row{flex-direction:row}
+  .foot{padding-bottom:50px}
+  .foot .wrap{flex-direction:row;align-items:center;justify-content:space-between}
+  .nav-call .num{display:inline}
+}
+@media (min-width:1000px){
+  .hero .wrap{padding-bottom:70px}
+  .svc-grid{grid-template-columns:repeat(3,1fr)}
+  .pk{grid-template-columns:1.45fr 1fr;align-items:start;gap:28px}
+  .phone{position:sticky;top:24px}
+  .bar{display:none}
+}
+</style>
+<style>
+/* iPhone frame (modern iPhone: 390x844 screen, Dynamic Island) */
+.phone{aspect-ratio:390/844;width:min(300px,100%);margin-inline:auto;padding:10px!important;border-radius:54px!important;background:linear-gradient(145deg,#4a4f57 0%,#1c1f24 38%,#2c3037 70%,#5a5f66 100%)!important;box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.22),0 0 0 1px #07080a,0 60px 90px -36px rgba(0,0,0,.85)!important}
+.phone::before{content:"";position:absolute;left:-3px;top:22%;width:3px;height:12%;border-radius:2px 0 0 2px;background:#2a2e34;box-shadow:0 -54px 0 0 #2a2e34}
+.phone::after{content:"";position:absolute;right:-3px;top:27%;width:3px;height:15%;border-radius:0 2px 2px 0;background:#2a2e34}
+.phone .screen{position:relative;height:100%;border-radius:44px;overflow:hidden;display:flex;flex-direction:column;background:var(--ink);color:var(--ivory);padding:54px 14px 26px}
+.phone .screen::after{content:"";position:absolute;left:50%;bottom:8px;transform:translateX(-50%);width:36%;height:5px;border-radius:5px;background:rgba(255,255,255,.75)}
+.phone .thread{flex:1;min-height:0;overflow:hidden}
+.ios-island{position:absolute;top:11px;left:50%;transform:translateX(-50%);width:32%;height:28px;border-radius:20px;background:#000;z-index:3}
+.ios-status{position:absolute;top:17px;left:30px;right:24px;display:flex;justify-content:space-between;align-items:center;font:600 14px/1 -apple-system,BlinkMacSystemFont,"SF Pro Text",sans-serif;color:#fff;z-index:2}
+.ios-ic{display:inline-flex;gap:5px;align-items:center}
+.ios-ic i{display:block;background:currentColor}
+.ios-ic .sig{width:16px;height:10px;clip-path:polygon(0 70%,22% 70%,22% 100%,0 100%,0 70%,26% 50%,48% 50%,48% 100%,26% 100%,26% 50%,52% 28%,74% 28%,74% 100%,52% 100%,52% 28%,78% 0,100% 0,100% 100%,78% 100%,78% 0)}
+.ios-ic .wifi{width:15px;height:11px;clip-path:polygon(50% 100%,0 30%,15% 15%,50% 0,85% 15%,100% 30%)}
+.ios-ic .bat{width:24px;height:11px;border-radius:3px;background:transparent;border:1.5px solid currentColor;position:relative}
+.ios-ic .bat::after{content:"";position:absolute;inset:1.5px 4px 1.5px 1.5px;border-radius:1.5px;background:currentColor}
+@media (max-width:420px){.phone{width:min(280px,78vw)}.ios-island{width:30%;height:25px}.ios-status{left:24px;right:20px;font-size:13px;top:16px}.ios-ic{gap:3px}.ios-ic .sig{width:14px}.ios-ic .wifi{width:13px}.ios-ic .bat{width:21px}}
+</style>
+</head>
+<body>
+
+<div class="ribbon">Free preview built for <b>Avery Quinn LLC</b> by Revenue Fuel · Not live yet</div>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="mark" href="#top" aria-label="Avery Quinn Construction Co."><b>AVERY QUINN</b><small>CONSTRUCTION CO.</small></a>
+    <a class="nav-call" href="tel:+15132256337"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg>Call<span class="num">&nbsp;(513) 225-6337</span></a>
+  </div>
+</header>
+
+<main id="top">
+<section class="hero">
+  <div class="hero-img" role="img" aria-label="Hand tools hung on a dark workshop wall (stock photo)"></div>
+  <div class="wrap">
+    <div class="rating"><span class="stars">★★★★★</span>4.9 · 60 reviews on Thumbtack</div>
+    <h1>The handyman who stays <em class="acc">until it’s finished.</em></h1>
+    <p class="lede">Drywall, paint, shelves, gates, blinds and full rehabs across Greater Cincinnati. Every job quoted up front, never billed by the hour.</p>
+    <div class="hero-cta">
+      <a class="btn btn-pri" href="#picker"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>Text for a quote</a>
+      <a class="btn btn-ghost" href="tel:+15132256337"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg>Call (513) 225-6337</a>
+    </div>
+    <p class="hero-note">Residential &amp; commercial · Apple Pay, Zelle, cash or check</p>
+  </div>
+</section>
+
+<section class="proof" aria-label="At a glance">
+  <div class="wrap">
+    <div class="stat"><b>4.9<i>★</i></b><span>from 60 reviews on Thumbtack</span></div>
+    <div class="stat"><b>83</b><span>times hired through Thumbtack</span></div>
+    <div class="stat"><b>20 yrs</b><span>“of experience as craftsmen”</span></div>
+    <div class="stat"><b>Checked</b><span>background check on file with Thumbtack</span></div>
+  </div>
+</section>
+
+<section class="sec" id="services">
+  <div class="wrap">
+    <div class="sec-h rise">
+      <div class="eyebrow">What Logan fixes</div>
+      <h2>One call for the <em class="acc">whole list.</em></h2>
+      <p>Many reviews mention a handful of projects knocked out in one visit. Here’s what tends to be on those lists.</p>
+    </div>
+    <div class="svc-grid">
+      <article class="svc rise"><div class="ph" style="background-image:url(assets/svc-drywall.jpg)"></div><div class="tx"><h3>Drywall &amp; texture</h3><p>Patches, extensive repairs, ceiling texture removal, boxing in beams.</p></div></article>
+      <article class="svc rise"><div class="ph" style="background-image:url(assets/svc-paint.jpg)"></div><div class="tx"><h3>Painting &amp; trim</h3><p>Walls and trim, finished clean so the room is ready to live in.</p></div></article>
+      <article class="svc rise"><div class="ph" style="background-image:url(assets/svc-install.jpg)"></div><div class="tx"><h3>Shelves, fixtures &amp; installs</h3><p>Floating shelves, mirrors, light fixtures moved or hung, dog doors.</p></div></article>
+      <article class="svc rise"><span class="tag real">Real job</span><div class="ph" style="background-image:url(assets/work-1.jpg);filter:brightness(1.12)"></div><div class="tx"><h3>Blinds &amp; windows</h3><p>Blinds and window treatments, measured and mounted level.</p></div></article>
+      <article class="svc rise"><span class="tag real">Real job</span><div class="ph" style="background-image:url(assets/work-3.jpg);background-position:50% 30%"></div><div class="tx"><h3>Gates, rails &amp; patios</h3><p>Gates hung, porch handrails, shade sails and back-patio upgrades.</p></div></article>
+      <article class="svc rise"><div class="ph" style="background-image:url(assets/svc-rehab.jpg)"></div><div class="tx"><h3>Rehabs &amp; punch lists</h3><p>A whole house to bring back, or ten small jobs knocked out in one visit.</p></div></article>
+    </div>
+  </div>
+</section>
+
+<section class="holiday" aria-label="Holiday lights">
+  <div class="wrap">
+    <div class="hol-img" role="img" aria-label="A house lit with holiday lights (stock photo)"></div>
+    <div class="hol-tx rise">
+      <div class="eyebrow lt">This time of year</div>
+      <h2>Holiday lights, <em class="acc">up and down.</em></h2>
+      <p>Avery Quinn installs and removes holiday lighting. Skip the ladder and the cold this year: send a photo of the house and get a quote.</p>
+      <button class="btn btn-pri" type="button" data-pick="lights">Ask about holiday lights</button>
+    </div>
+  </div>
+</section>
+
+<section class="sec picker" id="picker">
+  <div class="wrap">
+    <div class="sec-h rise">
+      <div class="eyebrow">Get a quote in 30 seconds</div>
+      <h2>What needs <em class="acc">fixing?</em></h2>
+      <p>Tap everything on your list. We’ll write the text for you, so Logan has what he needs to quote the job.</p>
+    </div>
+    <div class="pk">
+      <div class="pk-card">
+        <div class="step"><i>1</i><h3>Pick the jobs</h3></div>
+        <div class="jobs" id="jobs"></div>
+        <div class="divide"></div>
+        <div class="step"><i>2</i><h3>Where is it?</h3></div>
+        <div class="chips" data-group="where">
+          <button type="button" class="chip" aria-pressed="true" data-v="at my home">My home</button>
+          <button type="button" class="chip" aria-pressed="false" data-v="at a rental I own">A rental I own</button>
+          <button type="button" class="chip" aria-pressed="false" data-v="at a property I own out of town (I don’t live in Cincinnati)">Out-of-town property</button>
+          <button type="button" class="chip" aria-pressed="false" data-v="at my business">My business</button>
+        </div>
+        <div class="divide"></div>
+        <div class="step"><i>3</i><h3>When?</h3></div>
+        <div class="chips" data-group="when">
+          <button type="button" class="chip" aria-pressed="false" data-v="as soon as possible">ASAP</button>
+          <button type="button" class="chip" aria-pressed="true" data-v="sometime this week">This week</button>
+          <button type="button" class="chip" aria-pressed="false" data-v="sometime this month">This month</button>
+          <button type="button" class="chip" aria-pressed="false" data-v="no rush, just planning">Just planning</button>
+        </div>
+        <div class="divide"></div>
+        <div class="step"><i>4</i><h3>A few details</h3></div>
+        <div class="fields">
+          <div><label for="f-name">Your first name</label><input id="f-name" autocomplete="given-name" placeholder="e.g. Sarah"></div>
+          <div><label for="f-area">Neighborhood or ZIP</label><input id="f-area" placeholder="e.g. Northside, 45223"></div>
+          <div class="full"><label for="f-note">Anything else? (optional)</label><textarea id="f-note" placeholder="e.g. Two holes in the hallway wall and the bathroom ceiling needs paint."></textarea></div>
+        </div>
+      </div>
+
+      <aside class="phone" id="phone" aria-label="Your text to Logan">
+        <div class="screen">
+        <div class="ios-status" aria-hidden="true"><span>9:41</span><span class="ios-ic"><i class="sig"></i><i class="wifi"></i><i class="bat"></i></span></div><div class="ios-island" aria-hidden="true"></div>
+        <div class="ph-top"><img src="assets/logo.jpg" alt="Avery Quinn logo"><div><b>Logan · Avery Quinn</b><small>(513) 225-6337</small></div></div>
+        <div class="thread"><div class="bubble empty" id="bubble">Tap a job and your text writes itself here.</div><div class="meta" id="meta">Draft</div></div>
+        <div class="count"><span><b id="n">0</b> jobs on the list</span><span>Quoted per job, not hourly</span></div>
+        <div class="ph-btns">
+          <button class="btn btn-pri" type="button" id="send"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 2 11 13"/><path d="M22 2 15 22l-4-9-9-4z"/></svg>Text this to Logan</button>
+          <button class="btn btn-ghost" type="button" id="copy">Copy the text</button>
+        </div>
+        <p class="ph-tip">Tip: add a photo or two when you send it. It makes quoting faster.</p>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="how">
+  <div class="wrap">
+    <div class="sec-h rise">
+      <div class="eyebrow">How it works</div>
+      <h2>A price for the job, <em class="acc">not the clock.</em></h2>
+    </div>
+    <div class="how-grid">
+      <div class="how rise"><div class="n">STEP 1</div><h3>Send the list</h3><p>Call or text what needs doing, with photos if you have them. Please reach out before booking so the job can be scoped.</p></div>
+      <div class="how rise"><div class="n">STEP 2</div><h3>Get one quoted price</h3><p>Every job is estimated up front.</p><q>We estimate all jobs and do not work for an hourly rate.</q></div>
+      <div class="how rise"><div class="n">STEP 3</div><h3>Logan gets it done</h3><p>On the day, the list gets worked until it’s finished.</p><q>We are clean, detail oriented and committed to your satisfaction.</q></div>
+    </div>
+
+    <div class="away rise" style="margin-top:22px">
+      <div>
+        <div class="eyebrow lt">Own property here, live elsewhere?</div>
+        <h2>Your Cincinnati place, <em class="acc">looked after.</em></h2>
+        <p>Avery Quinn offers services for out-of-town property owners, plus residential work and consulting. Text the address and the list, and Logan quotes it.</p>
+      </div>
+      <ul>
+        <li><svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg>Rentals and a parent’s or family home</li>
+        <li><svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg>Whole-home rehab or a single repair</li>
+        <li><svg viewBox="0 0 24 24"><path d="M20 6 9 17l-5-5"/></svg>Pay by Zelle or Apple Pay from anywhere</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="sec reviews" id="reviews">
+  <div class="wrap">
+    <div class="sec-h rise">
+      <div class="eyebrow lt">What customers say</div>
+      <h2>Hired 83 times. <em class="acc">Here’s why.</em></h2>
+      <div class="score"><b>4.9</b><div><span class="stars">★★★★★</span><small>60 reviews on Thumbtack · 98% five stars</small></div></div>
+    </div>
+    <div class="rv-row">
+      <article class="rv"><blockquote>He knows how to do everything and takes the extra care that many people don’t.</blockquote><footer><span><b>Curtis S.</b> · home rehab</span><span>Thumbtack review</span></footer></article>
+      <article class="rv"><blockquote>He wanted to make sure he didn’t leave until it was all finished.</blockquote><footer><span><b>Amber H.</b> · handyman</span><span>Thumbtack review</span></footer></article>
+      <article class="rv"><blockquote>He completed my task with less than 24hrs notice, on a Sunday, in a snow storm.</blockquote><footer><span><b>Jessica B.</b> · floating shelves</span><span>Thumbtack review</span></footer></article>
+      <article class="rv"><blockquote>He was professional, prompt, and great at communication.</blockquote><footer><span><b>Lauren H.</b> · drywall &amp; paint</span><span>Thumbtack review</span></footer></article>
+      <article class="rv"><blockquote>Efficient with his use of time and priced reasonably.</blockquote><footer><span><b>Vickey T.</b> · gate</span><span>Thumbtack review</span></footer></article>
+      <article class="rv"><blockquote>He went above and beyond and neighbors took notice as well!</blockquote><footer><span><b>Leigh A.</b> · porch &amp; patio</span><span>Thumbtack review</span></footer></article>
+    </div>
+    <p class="rv-hint">Swipe for more →</p>
+  </div>
+</section>
+
+<section class="sec" id="work">
+  <div class="wrap">
+    <div class="sec-h rise">
+      <div class="eyebrow">From the job file</div>
+      <h2>Real jobs, <em class="acc">real homes.</em></h2>
+      <p>Straight from Avery Quinn’s own project photos.</p>
+    </div>
+    <div class="gal">
+      <figure class="wide rise"><img src="assets/work-1.jpg" alt="New blinds across a wide picture window" loading="lazy"><figcaption>Blinds · picture window</figcaption></figure>
+      <figure class="tall rise"><img src="assets/work-3.jpg" alt="Patio with a new shade sail" loading="lazy"><figcaption>Patio shade sail</figcaption></figure>
+      <figure class="tall rise"><img src="assets/work-4.jpg" alt="Looking up at the installed shade sail" loading="lazy"><figcaption>Under the sail</figcaption></figure>
+      <figure class="wide rise"><img src="assets/work-2.jpg" alt="Blinds installed in a kitchen window" loading="lazy"><figcaption>Blinds · kitchen window</figcaption></figure>
+    </div>
+    <p class="gal-note">More work on Instagram: <a href="https://www.instagram.com/averyquinnco/" target="_blank" rel="noopener">@averyquinnco</a></p>
+  </div>
+</section>
+
+<section class="sec contact" id="contact">
+  <div class="wrap ct">
+    <div class="ct-main rise">
+      <div class="eyebrow lt">Get a quote</div>
+      <h2>Tell Logan what <em class="acc">needs fixing.</em></h2>
+      <a class="big-num" href="tel:+15132256337">(513) 225-6337</a>
+      <div class="row">
+        <a class="btn btn-pri" href="tel:+15132256337"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg>Call now</a>
+        <a class="btn btn-ghost" href="#picker"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg>Build my text</a>
+      </div>
+    </div>
+    <div class="ct-side">
+      <div class="info rise"><h4>Where</h4><p>Greater Cincinnati, based in 45214. Homes, rentals and businesses.</p></div>
+      <div class="info rise"><h4>How pricing works</h4><p>Every job is estimated before work starts. No hourly meter.</p></div>
+      <div class="info rise"><h4>Ways to pay</h4><div class="pays"><span>Apple Pay</span><span>Zelle</span><span>Cash</span><span>Check</span></div></div>
+      <div class="info rise"><h4>Follow along</h4><a class="ig" href="https://www.instagram.com/averyquinnco/" target="_blank" rel="noopener"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><rect x="3" y="3" width="18" height="18" rx="5"/><circle cx="12" cy="12" r="4"/><circle cx="17.5" cy="6.5" r=".6" fill="currentColor"/></svg>@averyquinnco</a></div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer class="foot">
+  <div class="wrap">
+    <img src="assets/logo.jpg" alt="Avery Quinn Construction Co. logo">
+    <div>
+      <div>© Avery Quinn LLC · Construction services, renovations &amp; repair · Cincinnati, Ohio</div>
+      <div class="credit" style="margin-top:8px"><a href="https://revenuefuel.ai">Powered by revenuefuel.ai</a></div>
+    </div>
+  </div>
+</footer>
+
+<nav class="bar" id="bar" aria-label="Quick contact">
+  <a href="tel:+15132256337"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1 1 .4 1.9.7 2.8a2 2 0 0 1-.5 2.1L8 9.9a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.8.7a2 2 0 0 1 1.7 2z"/></svg>Call</a>
+  <a class="q" href="#picker"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/></svg><span>Text for a quote</span></a>
+</nav>
+
+<dialog id="dlg">
+  <div class="dlg">
+    <div class="eyebrow">Preview only · nothing was sent</div>
+    <h3 id="dlg-h">Your text is ready.</h3>
+    <p id="dlg-p">On the live site, this button opens your phone’s Messages app with this text already addressed to Logan at (513) 225-6337. You just hit send.</p>
+    <div class="bubble" id="dlg-b"></div>
+    <button class="btn btn-ink" type="button" onclick="document.getElementById('dlg').close()">Got it</button>
+  </div>
+</dialog>
+<div class="toast" id="toast">Copied. Paste it into a text to (513) 225-6337.</div>
+
+<script>
+(function(){
+  var I = {
+    drywall:'<rect x="3" y="4" width="18" height="16" rx="1"/><path d="M3 12h18M12 4v8M8 12v8M16 12v8"/>',
+    paint:'<rect x="3" y="3" width="15" height="6" rx="1.5"/><path d="M18 6h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1h-8v3"/><rect x="10.5" y="14" width="3" height="7" rx="1"/>',
+    shelves:'<path d="M3 7h18M3 15h18"/><path d="M6 7v3M18 7v3M6 15v3M18 15v3"/><rect x="7" y="3" width="3" height="4"/><rect x="13" y="11" width="4" height="4"/>',
+    lights:'<path d="M12 2v5"/><path d="M6 13a6 6 0 0 1 12 0z"/><path d="M10 16a2 2 0 0 0 4 0"/>',
+    blinds:'<rect x="4" y="3" width="16" height="18" rx="1"/><path d="M4 7h16M4 11h16M4 15h16M17 3v18"/>',
+    gates:'<path d="M3 21V9l3-3 3 3v12M15 21V9l3-3 3 3v12M9 11h6M9 17h6"/>',
+    patio:'<path d="M3 8l18-4-6 12z"/><path d="M3 8v13M21 4v17M15 16v5"/>',
+    dogdoor:'<rect x="5" y="2" width="14" height="20" rx="1"/><rect x="8.5" y="13" width="7" height="7" rx="2"/><circle cx="16" cy="9" r=".8"/>',
+    xmas:'<path d="M2 6c3 3 6 4 10 4s7-1 10-4"/><path d="M6 8.5v2M12 10v2M18 8.5v2"/><ellipse cx="6" cy="12.5" rx="1.6" ry="2.2"/><ellipse cx="12" cy="14" rx="1.6" ry="2.2"/><ellipse cx="18" cy="12.5" rx="1.6" ry="2.2"/>',
+    rehab:'<path d="M3 11l9-7 9 7"/><path d="M5 10v10h14V10"/><path d="M10 20v-5h4v5"/>',
+    list:'<path d="M9 6h11M9 12h11M9 18h11"/><path d="M4 6l1 1 2-2M4 12l1 1 2-2M4 18l1 1 2-2"/>',
+    other:'<path d="M14.7 6.3a4 4 0 0 0-5.4 5.2L3 17.8V21h3.2l6.3-6.3a4 4 0 0 0 5.2-5.4l-2.5 2.5-2.5-.5-.5-2.5z"/>'
+  };
+  var JOBS = [
+    ['drywall','Drywall & texture','drywall / texture repair'],
+    ['paint','Painting & trim','painting (walls / trim)'],
+    ['shelves','Shelves & mirrors','shelves or mirrors hung'],
+    ['lights','Light fixtures','a light fixture moved or hung'],
+    ['blinds','Blinds & shades','blinds / window treatments'],
+    ['gates','Gates & handrails','a gate or handrail'],
+    ['patio','Patio & shade sails','patio work / shade sail'],
+    ['dogdoor','Dog door','a dog door installed'],
+    ['xmas','Holiday lights','holiday lights put up (and taken down)'],
+    ['rehab','Whole-house rehab','a bigger rehab'],
+    ['list','A list of small jobs','a list of small jobs'],
+    ['other','Something else','something else (details below)']
+  ];
+  var jobsEl = document.getElementById('jobs');
+  JOBS.forEach(function(j){
+    var b = document.createElement('button');
+    b.type='button'; b.className='job'; b.setAttribute('aria-pressed','false'); b.dataset.k=j[0];
+    b.innerHTML = '<svg viewBox="0 0 24 24" aria-hidden="true">'+I[j[0]]+'</svg>'+j[1].replace('&','&amp;');
+    b.addEventListener('click', function(){ b.setAttribute('aria-pressed', b.getAttribute('aria-pressed')==='true'?'false':'true'); build(); });
+    jobsEl.appendChild(b);
+  });
+  document.querySelectorAll('.chips').forEach(function(g){
+    g.addEventListener('click', function(e){
+      var c = e.target.closest('.chip'); if(!c) return;
+      g.querySelectorAll('.chip').forEach(function(x){ x.setAttribute('aria-pressed', x===c?'true':'false'); });
+      build();
+    });
+  });
+  ['f-name','f-area','f-note'].forEach(function(id){ document.getElementById(id).addEventListener('input', build); });
+
+  function val(group){ var c=document.querySelector('[data-group="'+group+'"] [aria-pressed=true]'); return c?c.dataset.v:''; }
+  function list(a){ return a.length<2 ? a.join('') : a.slice(0,-1).join(', ')+' and '+a[a.length-1]; }
+  var msg = '';
+  function build(){
+    var picked = Array.prototype.filter.call(jobsEl.children, function(b){return b.getAttribute('aria-pressed')==='true';})
+      .map(function(b){ return JOBS.filter(function(j){return j[0]===b.dataset.k;})[0][2]; });
+    var name = document.getElementById('f-name').value.trim();
+    var area = document.getElementById('f-area').value.trim();
+    var note = document.getElementById('f-note').value.trim();
+    document.getElementById('n').textContent = picked.length;
+    var q=document.querySelector('.bar .q span'); if(q){ q.textContent = picked.length ? 'See my text · '+picked.length+(picked.length>1?' jobs':' job') : 'Text for a quote'; q.parentNode.setAttribute('href', picked.length ? '#phone' : '#picker'); }
+    var bub = document.getElementById('bubble');
+    if(!picked.length && !note){ msg=''; bub.className='bubble empty'; bub.textContent='Tap a job and your text writes itself here.'; document.getElementById('meta').textContent='Draft'; return; }
+    msg = 'Hi Logan' + (name ? ', this is '+name : '') + '! I found Avery Quinn online and would like a quote' +
+      (picked.length ? ' for '+list(picked) : '') + ' ' + val('where') + (area ? ' in '+area : '') + '. Timing: ' + val('when') + '.' +
+      (note ? '\n\n'+note : '') + '\n\nI can send photos. Thanks!';
+    bub.className='bubble'; bub.textContent = msg;
+    document.getElementById('meta').textContent = 'To (513) 225-6337 · not sent';
+  }
+
+  var dlg = document.getElementById('dlg');
+  document.getElementById('send').addEventListener('click', function(){
+    if(!msg){ jobsEl.scrollIntoView({behavior:'smooth',block:'center'}); jobsEl.animate && jobsEl.animate([{transform:'translateX(0)'},{transform:'translateX(-6px)'},{transform:'translateX(6px)'},{transform:'translateX(0)'}],{duration:300}); return; }
+    document.getElementById('dlg-b').textContent = msg;
+    if(dlg.showModal) dlg.showModal(); else alert('Preview only. Nothing was sent.');
+  });
+  dlg.addEventListener('click', function(e){ if(e.target===dlg) dlg.close(); });
+  document.getElementById('copy').addEventListener('click', function(){
+    var t = msg || 'Hi Logan! I found Avery Quinn online and would like a quote.';
+    function done(){ var el=document.getElementById('toast'); el.classList.add('on'); setTimeout(function(){el.classList.remove('on');},2200); }
+    if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(t).then(done, done); } else { done(); }
+  });
+
+  // "Ask about holiday lights" pre-selects that job
+  document.querySelectorAll('[data-pick]').forEach(function(btn){
+    btn.addEventListener('click', function(){
+      var key = btn.dataset.pick==='lights' ? 'xmas' : btn.dataset.pick;
+      var t = jobsEl.querySelector('[data-k="'+key+'"]'); if(t) t.setAttribute('aria-pressed','true');
+      build(); document.getElementById('picker').scrollIntoView({behavior:'smooth'});
+    });
+  });
+
+  // sticky bar after hero
+  var bar = document.getElementById('bar'), hero = document.querySelector('.hero');
+  function onScroll(){ bar.classList.toggle('show', window.scrollY > hero.offsetHeight*0.7); }
+  window.addEventListener('scroll', onScroll, {passive:true}); onScroll();
+
+  // reveal
+  var els = document.querySelectorAll('.rise');
+  if('IntersectionObserver' in window){
+    var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if(e.isIntersecting){ e.target.classList.add('in'); io.unobserve(e.target);} }); }, {rootMargin:'0px 0px -8% 0px'});
+    els.forEach(function(el){ io.observe(el); });
+  } else { els.forEach(function(el){ el.classList.add('in'); }); }
+  setTimeout(function(){ els.forEach(function(el){ el.classList.add('in'); }); }, 2500);
+})();
+</script>
+</body>
+</html>

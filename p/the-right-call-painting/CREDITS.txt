@@ -1,0 +1,22 @@
+The Right Call Painting & Preservation preview — image credits
+
+REAL (The Right Call Facebook page, facebook.com/profile.php?id=100090392026262, saved 2026-11-23) — owner's photos; confirm use with Randy before launch:
+  assets/before.jpg   Wall stripped to bare plaster, before repair   (from fb-wall-before.png, 655px)
+  assets/after.jpg    Same wall patched and primed, before final paint (from fb-wall-after-patched.png, 655px)
+  assets/work-5.jpg   Copy of after.jpg, used on the "Surface prep & repairs" card
+  Logo: rebuilt in HTML/CSS/SVG (Montserrat + Kaushan Script, navy/royal blue/red) from the logo on their Facebook flyer
+        (logo-from-flyer.png). The flyer is marked "AI content" on Facebook; the man pictured on it is NOT used anywhere.
+
+STOCK (Unsplash License, https://unsplash.com/license) — NOT The Right Call's work. Swap in real job photos with the same file names:
+  assets/hero.jpg     Two painters on ladders, lavender clapboard house — Ricky Singh
+                      https://unsplash.com/photos/BdsRtr03Wko  (images.unsplash.com/photo-1574359411659-15573a27fd0c)
+  assets/work-1.jpg   Interior painting: roller, yellow wall — Ali Mkumbwa
+                      https://unsplash.com/photos/1iho4gvI4-g  (photo-1688372199140-cade7ae820fe)
+  assets/work-2.jpg   Exterior painting: man on ladder, red building — Simon Lohmann
+                      https://unsplash.com/photos/jGuuX9DvLv0  (photo-1774977737078-7ccc2ac697e6)
+  assets/work-3.jpg   Commercial painting card: paint roller on a wall — Andrew Itaga (Unsplash, images.unsplash.com/photo-1693985120993-e9b203ce7631)
+                      https://unsplash.com/photos/T2z_b6PzlZk  (photo-1764351897043-0bbbe0c8b048)
+  assets/work-4.jpg   Pressure washing: washing a driveway — The ProClean Team
+                      https://unsplash.com/photos/a-man-in-a-blue-shirt-is-washing-a-driveway-kQHsQmLLV2I  (photo-1707897283727-31befe824066)
+  assets/work-6.jpg   Decks: crew building a wooden deck — TROY ALLEN
+                      https://unsplash.com/photos/construction-workers-building-a-wooden-deck-outdoors-Dbn68nqrA14  (photo-1773430272653-375174373c4f)

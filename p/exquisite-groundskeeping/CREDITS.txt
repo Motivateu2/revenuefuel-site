@@ -1,0 +1,22 @@
+Exquisite Groundskeeping preview — image credits
+
+REAL (the business's own material)
+assets/logo.png           Exquisite Groundskeeping logo — from their Facebook page / Mailchimp landing page (via desk/photos/exquisite-groundskeeping/logo.png)
+assets/hero.jpg           Exquisite Groundskeeping Facebook page — striped lawn with their orange Scag mower (fb-striped-lawn-mower.png)
+assets/work-1.jpg         Exquisite Groundskeeping Facebook page — same photo as hero.jpg (gallery copy)
+assets/svc-mulch.jpg      Exquisite Groundskeeping Facebook page — mulch ring, their branded truck behind (fb-mulch-ring-truck.png)
+assets/work-2.jpg         Exquisite Groundskeeping Facebook page — same photo as svc-mulch.jpg (gallery copy)
+
+STOCK (free-license Unsplash, https://unsplash.com/license; photographer credited on each page).
+These do NOT show Exquisite Groundskeeping's work. Swap in more Facebook job photos using the same filenames.
+assets/svc-lawn.jpg       https://unsplash.com/photos/man-using-string-trimmer-on-lawn-xWAsrLw_1hk
+assets/svc-trees.jpg      https://unsplash.com/photos/an-arborist-pruning-a-trees-branches-gD3RgatPHsE
+assets/svc-cleanup.jpg    https://unsplash.com/photos/a-large-tree-with-lots-of-leaves-on-the-ground-YwlgKRaQXe4
+assets/svc-snow.jpg       https://unsplash.com/photos/person-using-snow-blower-in-front-of-brick-house-QpuckrL3QmM
+assets/svc-hauling.jpg    https://unsplash.com/photos/pJ71xqnMKVs
+assets/work-3.jpg         https://unsplash.com/photos/backyard-patio-with-adirondack-chairs-fire-pit-and-flowers-0Dw2xI3GLbI
+assets/work-4.jpg         https://unsplash.com/photos/a-garden-with-hedges-and-flowers-in-the-middle-564_sJMgSt0
+assets/work-5.jpg         https://unsplash.com/photos/stone-steps-ascend-through-a-lush-garden-with-purple-flowers-3EqaI6cGCrQ
+assets/work-6.jpg         https://unsplash.com/photos/a-long-green-lawn-lined-with-trees-and-bushes-JMWqAmRnXUg
+
+The yard-plan illustration and icons are original SVG drawn for this preview.

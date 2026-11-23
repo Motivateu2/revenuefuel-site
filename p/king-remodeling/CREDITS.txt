@@ -1,0 +1,20 @@
+King Remodeling and Handyman Services preview: image credits
+
+REAL PHOTOS: King Remodeling Facebook page
+(facebook.com/people/King-Remodeling-and-Handyman-Services/61585696030665/, collected 2026-11-23 into
+~/revenue-fuel/website-ads/desk/photos/king-remodeling/). The business's own photos. Confirm with James before launch.
+  assets/hero.jpg    covered-porch-lit.png           lit covered porch (tagged "a King Remodeling project")
+  assets/work-1.jpg  kitchen-backsplash-install.png  crew installing a backsplash (tagged "King on the job")
+  assets/work-3.jpg  porch-deck-new.png              new two-level deck + stairs (white strip at bottom cropped off)
+  assets/work-5.jpg  stone-fireplace.png             stacked-stone fireplace wall
+
+STOCK: Unsplash (https://unsplash.com/license). NOT King's work, tagged "Idea photo" on the page.
+Swap in real King photos at the same filenames when available.
+  assets/work-2.jpg  Smart Renovations https://unsplash.com/photos/modern-bathroom-with-glass-enclosed-shower-and-marble-walls-Ies-rhvusTs   (Bathrooms)
+  assets/work-4.jpg  Troy Mortier      https://unsplash.com/photos/a-house-frame-is-under-construction-YkBh2hujkGE   (Home additions)
+  assets/work-6.jpg  Ryno Marais       https://unsplash.com/photos/a-man-using-a-power-drill-on-a-piece-of-wood-dQyi9-yObiM   (Repairs & honey-do lists)
+  assets/craft.jpg   Simone Impei      https://unsplash.com/photos/man-drilling-on-a-wooden-plank-using-a-power-drill-eZaKj3xAzTE   (dim background behind "How a King job starts")
+
+Fonts: Archivo and Playfair Display via Google Fonts (SIL Open Font License).
+Crown mark: simple inline SVG drawn for this preview (not the business's logo).
+Map: Google Maps embed centered on Walton, KY 41094 (city only, no street address).

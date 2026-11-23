@@ -1,0 +1,18 @@
+Groomes Property Management and Landscaping — preview image credits (Revenue Fuel, not live)
+
+REAL — Groomes Lawn Care Facebook page (facebook.com/groomeslawncare), the business's own photos/logo.
+Saved by Jason from the page on 2026-11-23. Confirm the owner is fine with us using them before launch.
+  assets/logo.png         their logo ("GROOMES PROPERTY Management & Landscaping · Work speaks for itself!"), cropped to the artwork, resized to 640px
+  assets/work-2.jpg       crew member cutting a fallen tree with a chainsaw (Tree removal card, Fall scene, gallery)
+  assets/tree-before.jpg  the same fallen tree beside a stone wall and deck, before removal (gallery)
+  assets/work-4.jpg       freshly striped lawn (Lawn care card, Summer scene, gallery); Facebook viewer UI cropped off and photo straightened ~12 degrees
+  assets/truck.jpg        their pickup with door sign, enclosed trailer and walk-behind mower (Why Groomes card, gallery); top browser bar cropped off
+
+STOCK — Unsplash (https://unsplash.com/license). These do NOT show Groomes' own work.
+Replace by saving a real photo over the same file name.
+  assets/hero.jpg    snowblower clearing a snowy residential street   https://unsplash.com/photos/man-using-snow-thrower-4dFY1LqMOk8
+  assets/work-1.jpg  person shoveling a driveway (Snow removal)        https://unsplash.com/photos/person-shoveling-snow-TDiWmXb9-qk
+  assets/work-3.jpg  house with lawn and landscaping (Landscaping)     https://unsplash.com/photos/a-house-with-a-lawn-and-landscaping-in-front-of-it-IBJAFSXmBhw
+  assets/work-5.jpg  lit garden path at night (Exterior lighting)      https://unsplash.com/photos/Ck72L7dVTCs
+  assets/work-6.jpg  hands pressing fresh sod (Fertilization)          https://unsplash.com/photos/person-pressing-fresh-sod-into-soil-5xML_2EClnA
+  assets/band.jpg    house lit at night in the snow (closing banner)   https://unsplash.com/photos/aKuWBsO4meY

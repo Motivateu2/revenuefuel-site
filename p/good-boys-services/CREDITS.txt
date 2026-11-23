@@ -1,0 +1,28 @@
+Good Boys Services, LLC preview — image credits
+
+ALL IMAGES ARE THE BUSINESS'S OWN. No stock photos are used anywhere on this page.
+
+REAL (Good Boys Services' Facebook Page, facebook.com/GoodBoysCleaningServices, saved 2026-11-23 to
+~/revenue-fuel/website-ads/desk/photos/good-boys-services/) — spaces they cleaned; confirm use with the owner before launch:
+
+  assets/loft-lounge.jpg    from cleaned-loft-lounge.jpg (698x930). Cropped to the left 455px so the client's wall mural
+                            (business name and logo) is fully out of frame. Used: hero, gallery, og.jpg.
+  assets/loft-seating.jpg   from cleaned-loft-long-view.jpg (1258x866 screenshot). Cropped to the seating, floor, table
+                            and windows (x445-978, y230-866); the mural wall, the black side bars and the viewer arrows
+                            are out of frame. Used: gallery.
+  assets/bar-counter.jpg    from cleaned-bar-counter.jpg (698x930). Full frame. One small edit: the tiny drink-brand
+                            label on the countertop mini fridge (about 36x26px) is softly blurred. Used: holiday
+                            section, gallery, small inset in the desktop hero.
+  assets/kitchenette.jpg    from cleaned-kitchenette.jpg (698x930). Cropped to the counter, sink and cabinets
+                            (y338-930); the shelves with product boxes and logo mugs are out of frame. Used: gallery.
+  assets/logo.png           logo-285px.png exactly as given (285x285, their gray background). Used: "Good to know"
+                            section on desktop.
+  assets/logo-wordmark.png  the same logo file, only trimmed to the wordmark area (268x84); no pixels changed.
+                            Used: nav, footer, "Good to know" section on phones, og.jpg.
+  assets/og.jpg             1200x630 share image: loft-lounge.jpg + logo-wordmark.png + the business name in type.
+
+Photo files were enlarged 2x (Lanczos, light sharpening) so they stay smooth on phone screens; the originals are
+small Facebook saves (698px wide). Ask the owner for the full-size originals before launch.
+
+Icons, the string of lights and the two-ring "glasses" marks are drawn in inline SVG/CSS for this page (not stock).
+Fonts: Young Serif, Plus Jakarta Sans, Playfair Display (Google Fonts, SIL Open Font License).

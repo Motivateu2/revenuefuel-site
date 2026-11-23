@@ -1,0 +1,40 @@
+Higher Standards Lawn & Landscaping preview — image credits
+
+No stock photos are used anywhere on this page. Every photograph is the business's own material.
+Confirm use with the owner before launch.
+
+REAL, from their Facebook Page (facebook.com/HigherStandardsKY, saved 2026-11-23, supplied in
+~/revenue-fuel/website-ads/desk/photos/higher-standards-lawn-landscaping/):
+  assets/logo.jpg             Gold script logo on deep green (logo-gold-on-green.png, converted to jpg). Used as a badge; not redrawn.
+  assets/work-bed-brick.jpg   Their job: stone-edged planting bed along a brick wall (bed-stone-edging-brick-house-lights.jpg). "Our work" gallery.
+  assets/work-bed-siding.jpg  Their job: curved stone-edged bed behind a house (bed-stone-edging-siding-house.jpg). "Our work" gallery.
+  assets/fence-lattice.jpg    Posted on their Page to show fencing; looks like an older catalog-style picture and may NOT be their install
+                              (fence-lattice-top-cedar.jpg). Used ONLY inside the Fencing service card, captioned by fence style, never as "our work".
+  assets/fence-arbor.jpg      Same caveat (fence-gate-with-arbor.jpg). Fencing service card only.
+
+REAL, from their Nextdoor business page (https://nextdoor.com/pages/higher-standards-lawn-services-louisville-ky/, fetched 2026-11-23):
+  assets/hero.jpg             Their Nextdoor cover photo: mulched front-entry beds with blue spruce. Hero background, share image, last gallery tile.
+                              https://us1-photo.nextdoor.com/business_cover/f6/6e/f66ed8a8040750c0312299e4f72af08e.jpeg
+  assets/work-mulch.jpg       Nextdoor photo gallery: fresh mulch bed at a front walk.
+                              https://us1-photo.nextdoor.com/business_gallery/79/aa/79aa92ac7f460955e7b60903e5380ac9.jpeg
+  assets/rock-before.jpg      Nextdoor photo gallery: top half of their own before/after collage (bare dirt bed).
+  assets/rock-after.jpg       Bottom half of the same collage (white stone bed with flowers). Cropped on the left to leave out the
+                              homeowner's security-company yard sign.
+                              https://us1-photo.nextdoor.com/business_gallery/7a/1f/7a1fc9d068d20f91afc2faa013c05cf9.jpeg
+  assets/leaf-before.jpg      Nextdoor photo gallery: top half of their own leaf-cleanup before/after collage.
+  assets/leaf-after.jpg       Bottom half of the same collage, scaled about 1.18x and shifted so the house lines up with the "before"
+                              for the drag-to-compare slider. Nothing else was altered.
+                              https://us1-photo.nextdoor.com/business_gallery/c0/da/c0dae43ae14249316e6e0c3ac31d3025.jpeg
+  assets/og.jpg               1200x630 share image built from hero.jpg + logo.jpg with the name and phone set on top.
+
+DRAWN FOR THIS PAGE (not photos, not their work):
+  The night-time house with string lights in the Holiday lighting section is an inline SVG illustration, labelled on the page
+  as "A drawing to play with, not a photo of a job." The string of bulbs across the top of the hero and all icons are inline SVG.
+
+NOT USED (saved from Nextdoor, left out on purpose):
+  Porch before/after collage (business_gallery/d8/e2/...): unclear what work was done.
+  Pool/patio photo (post_photos/69/b5/...): unclear what it shows.
+  Services infographic (post_photos/28/f2/...): AI-style graphic; used only as a source for their service wording.
+  Flat yellow logo (entity_page_profile/...): the gold Facebook logo was used instead, as directed.
+
+Fonts: Playfair Display and Manrope (Google Fonts, SIL Open Font License).

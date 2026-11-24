@@ -1,0 +1,22 @@
+All-States Property Maintenance LLC preview: image credits
+
+THEIR OWN PHOTOS (saved from their Facebook profile, facebook.com/all.states.property, by the desk team;
+originals in ~/revenue-fuel/website-ads/desk/photos/all-states-property/)
+  assets/leaf-vac.jpg    Their leaf-vac trailer on a leaf-covered driveway (leaf-vac-trailer-job.jpg),
+                         bottom 15% cropped off (trash-bin lid). Used: phone hero background, desktop hero card.
+  assets/before.jpg      Narrow side yard before the gravel install (side-yard-BEFORE-overgrown.jpg),
+                         upscaled to 804x900. Before/after slider.
+  assets/after.jpg       Same side yard after (side-yard-AFTER-gravel.jpg), scaled 1.12x and cropped so the
+                         AC units/back fence line up with the "before" shot, then 804x900. Before/after slider.
+                         Nothing added or retouched.
+  assets/mulch-bed.jpg   Mulch tree ring with edging (mulch-tree-ring-small.jpg, 222x166). Small thumbnail on
+                         the "Mulch beds & edging" service row only.
+  assets/og.jpg          1200x630 share image built from leaf-vac.jpg + their name set in Archivo/Public Sans.
+
+STOCK (Unsplash license, mood only, never in "our work")
+  assets/mood-leaves.jpg Fallen maple leaves on grass, Weliton Soranzo
+                         https://unsplash.com/photos/fallen-maple-leaves-on-grass-t6YjZUDCJFM
+                         Darkened background of the desktop hero and of the "leaves are down" section.
+                         (Copied from the af-landscaping preview's assets; same file.)
+
+Icons: hand-drawn inline SVG. Fonts: Archivo, Public Sans (Google Fonts, OFL).

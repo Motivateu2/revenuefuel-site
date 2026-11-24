@@ -1,0 +1,17 @@
+Crown Dinero Service's LLC preview: image credits
+
+All photos on this page are the business's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61565791087002) on 2026-11-24. No stock photos are used.
+
+assets/patio-install-crew.jpg  <- paver-patio-install-crew.jpg (crew member sweeping in a new paver patio). Used as-is.
+assets/patio-finished.jpg      <- paver-patio-finished.jpg (finished paver patio). Cropped: left 10% removed (A/C unit).
+assets/tree-ring-bed.jpg       <- tree-ring-river-rock-bed.jpg (tree ring bed). Cropped: bottom 35% removed (tools on lawn).
+assets/log-rounds.jpg          <- log-rounds-tree-removed.jpg (log rounds after a removal). Used as-is.
+assets/stump-cleanup.jpg       <- stump-cleanup-crew.jpg (stump cut low, crew raking branches). Used as-is.
+assets/hero-blur.jpg           <- blurred, darkened version of paver-patio-install-crew.jpg (desktop hero background).
+assets/og.jpg                  <- 1200x630 share image made from patio-install-crew.jpg + log-rounds.jpg with the business name set in Roboto Slab.
+
+Logo: the crown + shield badge is an SVG rebuilt by hand from their Facebook profile logo
+(logo-from-profile.jpg: "Crown Dinero Services LLC · Landscaping & Construction"). Not a copy of the original file.
+Drainage illustration in the Services section is a simple hand-drawn SVG, not a photo.
+Fonts: Roboto Slab, Archivo, Archivo Narrow (Google Fonts, OFL).

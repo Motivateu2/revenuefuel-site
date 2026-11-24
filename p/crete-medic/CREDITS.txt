@@ -1,0 +1,19 @@
+Crete Medic LLC preview: image credits
+
+All photos on this page are Crete Medic LLC's own, saved from their Facebook Page
+(https://www.facebook.com/people/CRETE-MEDIC/61577846366087/) on 2026-11-24
+into ~/revenue-fuel/website-ads/desk/photos/crete-medic/. No stock photos are used.
+
+assets/spa-deck.jpg        <- stamped-spa-coping-pool-deck.jpg (top 52px cropped to remove Facebook viewer icons). Hero.
+assets/garage-before.jpg   <- garage-floor-BEFORE.jpg (half of their own before/after composite). Slider.
+assets/garage-after.jpg    <- garage-floor-AFTER-flake.jpg (other half of the same composite). Slider.
+assets/pool-before.jpg     <- pool-deck-BEFORE.jpg (their composite). Slider.
+assets/pool-after.jpg      <- pool-deck-AFTER.jpg (their composite). Slider + Pool decks card.
+assets/walkway-before.jpg  <- walkway-BEFORE.jpg (their composite). Side-by-side pair.
+assets/walkway-after.jpg   <- walkway-AFTER.jpg (their composite). Side-by-side pair + Patios card.
+assets/flake-floor.jpg     <- flake-garage-floor-wide.jpg. Garage floor coatings card.
+assets/stained-floor.jpg   <- stained-concrete-kitchen-floor.jpg. Basements & stained concrete card.
+assets/og.jpg              <- built from spa-deck.jpg with their name set in type (1200x630, link preview).
+
+Logo mark: redrawn in SVG/CSS after their Facebook profile logo (red cross + trowel on black). Not their original file.
+Fonts: Google Fonts (Archivo, Inter, Kaushan Script, Russo One), SIL Open Font License.

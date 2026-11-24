@@ -1,0 +1,16 @@
+Semper Fi Construction preview — image credits
+
+All photos are Semper Fi Construction's own, saved from their Facebook Page
+(https://www.facebook.com/people/Semperficonstruction/61586203392840/) on 2026-11-24.
+
+assets/deck-new.jpg          — new deck with railings (Facebook carousel arrows cropped off the sides)
+assets/deck-rails.jpg        — same deck, boards and railings (top 72px cropped: vehicle and person removed)
+assets/kitchen-before.jpg    — kitchen before (Facebook viewer icons cropped from the top)
+assets/kitchen-after.jpg     — kitchen after (viewer icons cropped; children's drawings on the fridge blurred)
+assets/bath-before.jpg       — bathroom before
+assets/bath-after-vanity.jpg — bathroom after, vanity and shower
+assets/bath-after-wide.jpg   — bathroom after, wide view
+assets/tile-in-progress.jpg  — tile tub surround mid-install
+assets/og.jpg                — share image made from deck-new.jpg with their name set on it
+
+No stock photos are used. Icons are inline SVG drawn for this page. Fonts: Google Fonts (Barlow Condensed, Inter, Saira Stencil One).

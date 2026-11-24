@@ -1,0 +1,14 @@
+Cut By Cut Tree Service preview: image credits
+
+All photos below are Cut By Cut Tree Service's own, saved from their Facebook Page (https://www.facebook.com/cutbycut) on 2026-11-24.
+- assets/hardwood-logs-in-trailer.jpg   (hero, gallery)  original
+- assets/storm-tree-on-pickup.jpg       (storm section, gallery)  original
+- assets/fallen-tree-backyard.jpg       (services, final call band background, gallery)  original
+- assets/roof-after-limb-removal.jpg    (season section, gallery)  cropped to remove a person and a car at left
+- assets/backyard-cleared-after-removal.jpg (services, gallery)  original
+- assets/stump-ground.jpg               (services, gallery)  cropped from stump-ground-front-yard.jpg to the bottom strip; yard signs removed
+- assets/brush-load.jpg                 (services, gallery)  cropped from dump-truck-loaded-brush.jpg to the brush load; license plate and another company's mud-flap name removed
+- assets/og.jpg                         link preview image, built from hardwood-logs-in-trailer.jpg with their name set on it
+
+No stock photography is used. The ring logo mark is drawn in SVG for this preview (no logo exists).
+Fonts: Big Shoulders Display, Inter, Playfair Display (Google Fonts, SIL Open Font License).

@@ -1,0 +1,15 @@
+Peak Performance Roofing & General Contracting preview — image credits
+
+REAL (their Facebook Page, facebook.com/profile.php?id=61587626592521, saved 2026-11-24) — the business's own photos; confirm use with the owner before launch:
+  assets/new-roof-rear.jpg    Rear of a blue bungalow with a new dark shingle roof (from new-roof-bungalow-rear.jpg) — hero + gallery
+  assets/van-on-the-job.jpg   Their van with the Peak Performance magnet and (816) 715-2221, parked at a re-roofed bungalow (from company-van-new-roof.jpg)
+  assets/new-shingles.jpg     New shingles meeting the low-slope roll roofing (from new-shingles-closeup.jpg)
+  assets/hailstones.jpg       A hand holding large hailstones after a storm (from hailstones-kc-storm.jpg)
+  assets/hail-hit.jpg         Chalk-circled hail hit on a shingle (from hail-hit-marked-shingle.jpg)
+  assets/og.jpg               1200x630 share image built from new-roof-rear.jpg with the business name set on it
+
+LOGO: rebuilt in inline SVG + Oswald type (black + metallic gold) after the logo on their Facebook flyer. The flyer image (and the man pictured on it) is NOT used.
+
+STOCK: none.
+
+FONTS: Oswald, Inter, Playfair Display (Google Fonts, SIL Open Font License).

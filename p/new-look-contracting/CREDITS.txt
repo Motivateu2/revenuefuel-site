@@ -1,0 +1,25 @@
+New Look Contracting LLC preview: image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN (New Look Contracting LLC Facebook Page, facebook.com/newlookcontractingllc/,
+saved 2026-11-24 into ~/revenue-fuel/website-ads/desk/photos/new-look-contracting/). Confirm use with Cody Miller before launch.
+No stock photos are used anywhere on the page.
+
+  assets/home-front.jpg       Two-gable custom home under construction, long front porch (hero, stage 02, OG image)
+                              from custom-home-front-zip-wrap.jpg, 1241px, unchanged crop
+  assets/home-wraparound.jpg  Custom home with wraparound porch, under construction (service 01, stage 03, closing band)
+                              from custom-home-wraparound-porch.jpg, 1241px
+  assets/aerial-framing.jpg   Drone shot of framing and trusses (service 05, stage 01)
+                              from aerial-framing-trusses.jpg; top 112px cropped off (Facebook photo-viewer bar)
+  assets/deck-stairs.jpg      Pressure-treated deck with stairs (gallery)
+                              from deck-and-stairs.jpg; top 64px cropped off (Facebook zoom icon)
+  assets/pool-deck.jpg        Raised deck around an above-ground pool (service 03, gallery)
+                              from pool-deck.jpg; top 64px cropped off (Facebook zoom icon)
+  assets/deck-boards.jpg      Deck boards and railing detail (gallery)
+                              from deck-boards-railing.jpg
+  assets/porch-rail.jpg       White porch railing on stone front steps (service 04, gallery)
+                              from porch-rail-stone-steps.jpg
+  assets/og.jpg               1200x630 share image: home-front.jpg + their name set in HTML/CSS, rendered with headless Chrome
+
+Logo: the NL roof mark and "NEW LOOK / CONTRACTING LLC" wordmark are rebuilt in SVG/CSS (Anton + Fredoka, black/red/white)
+from their Facebook cover (logo-from-cover.jpg). The bitmap itself is not used (it has a mouse pointer in it).
+Not used: the dark board-and-batten "modern farmhouse" photo on their Page (possibly an inspiration image, not their build).

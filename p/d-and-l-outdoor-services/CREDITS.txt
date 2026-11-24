@@ -1,0 +1,24 @@
+D&L Outdoor Services preview — image credits
+
+THEIRS (D and L Outdoor Services Facebook Page, facebook.com/p/D-and-L-Outdoor-Services-61574995146534/, saved 2026-11-24
+into ~/revenue-fuel/website-ads/desk/photos/d-and-l-outdoor-services/) — the owner's photos; confirm use with Dustin before launch:
+  assets/crew-on-giant-log.jpg              Crew of four on a huge felled trunk (hero, gallery, og.jpg)
+  assets/two-lifts-crown-removal.jpg        Two climbers in aerial lifts taking down a tree ("Dangerous trees" band, gallery)
+  assets/lift-over-backyard-removal.jpg     Green spider lift over a backyard removal (gallery)
+  assets/crew-truck-and-lift-roadside.jpg   Wrapped D&L truck + green lift + crew (gallery)
+  assets/logo-badge.jpg                     Their D&L badge logo, cropped from their Facebook banner (nav, builder phone, "Why D&L", footer, og.jpg)
+  assets/snow-flyer.jpg                     Their own "Snow is coming!" flyer (shown as a flyer in the snow section, not as a work photo)
+  assets/og.jpg                             Built for this preview from crew-on-giant-log.jpg + logo-badge.jpg + their name/tagline/phone (1200x630)
+  NOT used: brand-banner.jpg as a photo (its left climber photo and right truck may be stock). Only its text was used.
+
+STOCK (Unsplash License, https://unsplash.com/license) — mood backgrounds only, never in the gallery, NOT D&L's work.
+No company names, logos, lettered vehicles or uniforms readable in frame:
+  assets/snow-night.jpg   Artem Balashevsky, snow-covered parking lot at night with street lights (Vitebsk)
+                          https://unsplash.com/photos/a-snow-covered-parking-lot-at-night-with-street-lights-lXmWTFFKgnc
+                          (images.unsplash.com/photo-1701809922861-6f650117c966) — darkened background of the snow section
+  assets/firewood.jpg     Clay Banks, a stack of neatly cut firewood (Callicoon, NY)
+                          https://unsplash.com/photos/a-stack-of-neatly-cut-firewood-6nq2yHwaUyQ
+                          (images.unsplash.com/photo-1761655622268-3707c5467749) — background of the "Firewood for sale" card
+                          Swap for a photo of their own firewood when they have one.
+
+Logo note: favicon and pine treeline are simple SVG shapes drawn for this preview in their colors.

@@ -1,0 +1,22 @@
+K's & G's Mowing LLC preview: image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN, saved from the K's & G's Mowing LLC Facebook Page
+(https://www.facebook.com/profile.php?id=61586678227727) into desk/photos/ks-and-gs-mowing/ on 2026-11-24.
+Confirm use with Brittani before launch. No stock images are used anywhere on the page.
+
+  assets/hero-driveway.jpg    from snow-cleared-driveway.jpg (1241px). Two small house-number areas
+                              (main house above the door, neighbor house at right) softly blurred.
+                              Used: hero, gallery, og.jpg.
+  assets/snow-blower.jpg      from snow-blower-driveway.jpg, cropped to the lower 70% (y 264-878) so the
+                              house number "5518" above the porch is removed. Used: residential card,
+                              gallery, closing call-to-action background.
+  assets/sidewalk.jpg         from snow-cleared-sidewalk.jpg. Used: property-manager card, gallery.
+  assets/flowerbed-bench.jpg  from flowerbed-edging-bench.jpg. Used: fall-cleanup tab, gallery.
+  assets/stone-wall-bed.jpg   from stone-wall-bed-in-progress.jpg. Used: lawn & beds tab, gallery.
+  assets/bed-edging.jpg       from garden-bed-block-edging.jpg. Used small: bigger-jobs tab, gallery.
+  assets/og.jpg               1200x630 share image rendered from hero-driveway.jpg with the business name set on it.
+
+NOT USED: services-card.jpg (facts only; it also shows a second phone number), logo-from-card.jpg
+(low-res; the logo is rebuilt in HTML/CSS/SVG with Kaushan Script + Inter in their charcoal and grass green).
+
+Fonts: Google Fonts (Archivo, Inter, Kaushan Script, Playfair Display), SIL Open Font License.

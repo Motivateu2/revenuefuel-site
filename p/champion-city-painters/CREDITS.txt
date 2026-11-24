@@ -1,0 +1,15 @@
+All photos are the business's own, saved from the Champion City Painters And Remodeling Facebook Page
+(https://www.facebook.com/profile.php?id=61561372779048) on 2026-11-23. One job: covered patio to four-season sunroom, Dayton, OH, Aug-Oct 2026.
+
+assets/sunroom-finished-interior.jpg       - FB Page photo (finished sunroom interior)
+assets/sunroom-finished-exterior.jpg       - FB Page photo (finished sunroom exterior)
+assets/porch-framing-in-progress.jpg       - FB Page photo (patio being framed in)
+assets/rotted-ceiling-before.jpg           - FB Page photo (rotted ceiling joists)
+assets/sunroom-interior-windows-framed.jpg - FB Page photo (windows in, interior)
+assets/porch-enclosure-framing.jpg         - FB Page photo (framing under the patio roof)
+assets/exterior-crew-installing-windows.jpg- FB Page photo (crew setting windows)
+assets/ba-before.jpg                       - crop of porch-framing-in-progress.jpg (before/after slider)
+assets/ba-after.jpg                        - crop of sunroom-finished-exterior.jpg (before/after slider)
+assets/og.jpg                              - 1200x630 share image made from sunroom-finished-interior.jpg + business name
+
+No stock photos used. Fonts: Outfit and Inter (Google Fonts, OFL). Icons: hand-drawn inline SVG.

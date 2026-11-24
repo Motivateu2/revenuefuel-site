@@ -1,0 +1,16 @@
+Total Lawn and Roofing LLC — image credits (preview built 2026-11-23)
+
+THEIR OWN PHOTOS (saved from the business's Facebook Page:
+https://www.facebook.com/people/Total-Lawn-and-Roofing-LLC/100090246294396/ ;
+originals in ~/revenue-fuel/website-ads/desk/photos/total-lawn-and-roofing/)
+  assets/roof-shingle-ridge.jpg     new grey architectural shingle roof and ridge   (new-shingle-roof-ridge.jpg)
+  assets/crew-new-build.jpg         crew on a new farmhouse, lift + cutting trim     (crew-new-build-lift-trim.jpg)
+  assets/metal-roof-commercial.jpg  blue standing-seam metal roof going on, brick commercial building (blue-metal-roof-commercial-in-progress.jpg)
+  assets/crew-door-framing.jpg      crew member in logo shirt repairing door framing (crew-member-repairing-door-framing.jpg)
+  assets/logo-yard-sign.jpg         their yard sign / logo, "Veteran owned"          (logo-yard-sign-veteran-owned.jpg)
+  assets/og.jpg                     1200x630 share image made from crew-new-build.jpg + logo-yard-sign.jpg
+
+STOCK: none used.
+
+DRAWN FOR THE PAGE (no external source): the small sign-style mark (SVG, redrawn after
+their yard sign), line icons, the mowed-stripe panel texture and the stylised service-area map.

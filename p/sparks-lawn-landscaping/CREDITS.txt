@@ -1,0 +1,19 @@
+Image credits: Sparks Lawn & Landscaping LLC preview
+All images are the business's own. No stock photos are used.
+
+From their Facebook Page (https://www.facebook.com/SparksLawnLLC/), saved to desk/photos/sparks-lawn-landscaping/ on 2026-11-23, black lightbox bars cropped off:
+- assets/cleanup-before.jpg      <- overgrown-yard-BEFORE.jpg (yard cleanup, before)
+- assets/cleanup-after.jpg       <- same-yard-cleaned-AFTER.jpg (same yard, after)
+- assets/stripes-mower-shadow.jpg <- striped-lawn-big-yard-mower-shadow.jpg
+- assets/stripes-fenced-backyard.jpg <- striped-lawn-fenced-backyard.jpg
+
+From their Thumbtack profile "Projects and media" (https://www.thumbtack.com/in/decatur/lawn-care/sparks-lawn-care/service/575915576464547848), resized to 1200x1600:
+- assets/hero-stripes-mower.jpg  <- https://production-next-images-cdn.thumbtack.com/i/575917553960353798/width/1600.jpeg
+- assets/stripes-wide-yard.jpg   <- https://production-next-images-cdn.thumbtack.com/i/575917553905721348/width/1600.jpeg
+- assets/stripes-ranch-yard.jpg  <- https://production-next-images-cdn.thumbtack.com/i/575917554726600707/width/1600.jpeg
+- assets/front-yard-walk.jpg     <- https://production-next-images-cdn.thumbtack.com/i/575917554408636423/width/1600.jpeg
+- assets/logo.png (their logo, background cut to the oval) <- https://production-next-images-cdn.thumbtack.com/i/576027112342487050/width/1024/aspect/1-1.jpeg
+
+Made for this preview:
+- assets/og.jpg: 1200x630 share image built from stripes-wide-yard.jpg + their logo, with the business name set in Big Shoulders Display.
+Fonts: Google Fonts (Big Shoulders Display, Manrope, Playfair Display), SIL Open Font License.

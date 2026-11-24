@@ -1,0 +1,17 @@
+Buckeye Property Rescue preview — image credits
+
+REAL (Buckeye Property Rescue Facebook Page, facebook.com/p/Buckeye-Property-Rescue-61580130042756/, saved 2026-11-23 to
+~/revenue-fuel/website-ads/desk/photos/buckeye-property-rescue/) — the owner's own photos; confirm use with Dustin before launch.
+Kept at their original size (463–747px wide), re-saved as JPG:
+  assets/siding-before.jpg       from siding-mildew-before.jpg            mildewed white siding (before)
+  assets/porch-before-wash.jpg   from porch-siding-before-wash.jpg        porch wall siding with mildew (before)
+  assets/siding-washing.jpg      from siding-mid-wash-pressure-washer.jpg siding mid-wash, pressure washer on driveway (during)
+  assets/house-after.jpg         from house-side-after-refresh.jpg        clean siding, dark trim (after)
+  assets/porch-floor-before.jpg  from porch-floor-peeling-before.jpg      peeling porch floor (before)
+  assets/porch-after.jpg         from porch-painted-after.jpg             painted porch floor/skirting, white rails (after)
+  assets/logo.png                from logo-round-206px.png                their round logo, corners masked to a circle
+  assets/og.jpg                  1200x630 share image built from porch-after.jpg + logo.png, text set in Archivo/Inter (SIL OFL)
+
+NOT USED: truck-and-sign-COVER-possibly-edited.jpg (appears digitally edited/AI-made).
+
+STOCK: none. The skyline silhouette and icons are drawn in SVG for this page.

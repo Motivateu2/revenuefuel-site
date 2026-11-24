@@ -1,0 +1,16 @@
+L&H Solutions preview · image credits
+
+All photos are L&H Solutions' own job photos, saved from their Facebook Page
+(https://www.facebook.com/p/LH-solutions-LLC-100090394453264/) into
+~/revenue-fuel/website-ads/desk/photos/lh-solutions/ and re-saved here (no upscaling).
+
+assets/paver-walkway-finished-front.jpg   L&H Solutions Facebook post, Nov 20 2026 (hero, latest-job "After", OG image)
+assets/paver-walkway-closeup.jpg          L&H Solutions Facebook post, Nov 20 2026 (specialty card, gallery)
+assets/paver-walkway-being-laid.jpg       L&H Solutions Facebook post, Nov 20 2026 (latest-job "In progress", gallery)
+assets/retaining-wall-steps-closeup.jpg   L&H Solutions Facebook Page (specialty card, gallery)
+assets/retaining-wall-curve-firepit.jpg   L&H Solutions Facebook Page (gallery)
+assets/retaining-wall-under-deck-wide.jpg L&H Solutions Facebook Page (gallery)
+assets/og.jpg                             Composite made for this preview from paver-walkway-finished-front.jpg + their name
+
+No stock photos used. Icons and the paver logo mark are simple inline SVG drawn for this preview.
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, OFL).

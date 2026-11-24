@@ -1,0 +1,20 @@
+Image credits: Dunlap's Lawn Care preview
+
+All photos are the business's own, saved from the Dunlap's Lawn Care Facebook Page
+(https://www.facebook.com/Dunlapslawncare) and supplied in
+~/revenue-fuel/website-ads/desk/photos/dunlaps-lawn-care/ (gathered 2026-11-23).
+Copied into assets/ and re-saved as JPEG (originals are 292-500px wide; not upscaled).
+
+assets/island-bed-before.jpg             Dunlap's Lawn Care, Facebook Page (before photo of island bed)
+assets/island-bed-after-mulch-plants.jpg Dunlap's Lawn Care, Facebook Page (after photo, same bed)
+assets/new-bed-under-window-blue-sky.jpg Dunlap's Lawn Care, Facebook Page
+assets/stone-edged-bed-front-walk.jpg    Dunlap's Lawn Care, Facebook Page
+assets/stone-edged-bed-brick-home.jpg    Dunlap's Lawn Care, Facebook Page
+assets/trimmed-shrubs-stone-edge.jpg     Dunlap's Lawn Care, Facebook Page
+assets/french-drain-trench-install.jpg   Dunlap's Lawn Care, Facebook Page
+assets/french-drain-river-rock.jpg       Dunlap's Lawn Care, Facebook Page
+assets/og.jpg                            Composite made for this preview from new-bed-under-window-blue-sky.jpg
+                                         and stone-edged-bed-front-walk.jpg (both theirs), with set type
+
+No stock photos are used. Icons are inline SVG drawn for this page.
+Fonts: Archivo, Inter, Playfair Display, Yellowtail (Google Fonts, SIL Open Font License).

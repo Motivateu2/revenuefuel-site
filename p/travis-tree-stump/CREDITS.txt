@@ -1,0 +1,15 @@
+Image credits: Travis Tree & Stump LLC preview
+
+All photos and the logo belong to Travis Tree & Stump LLC. They were saved from the business's own Facebook Page
+(https://www.facebook.com/TravisTree1998/) on 2026-11-23 and stored in ~/revenue-fuel/website-ads/desk/photos/travis-tree-stump/.
+
+assets/hero.jpg     <- two-bucket-crews-pruning.jpg (two crew members pruning from bucket trucks). Upscaled 1.5x to 1494px wide, light sharpen.
+assets/removal.jpg  <- bucket-truck-removal-fall.jpg (bucket truck taking down a tree beside a house)
+assets/pruning.jpg  <- bucket-truck-crew-backyard.jpg (bucket truck and crew in a backyard)
+assets/crew.jpg     <- crew-cutting-big-trunk.jpg (crew member cutting a large trunk)
+assets/storm.jpg    <- storm-fallen-tree-on-fence.jpg (storm-snapped tree on a fence)
+assets/logo.png     <- logo-round-206px.png (their round logo; white corners made transparent)
+assets/og.jpg       <- built from hero.jpg + logo.png with the business name set on it (1200x630)
+
+No stock photos are used. The stump-grinder graphic on the Stump grinding card is an inline SVG drawn for this page.
+Fonts: Big Shoulders Display, Inter, Playfair Display (Google Fonts, SIL Open Font License).

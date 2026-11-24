@@ -1,0 +1,19 @@
+Across the Board Roofing preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN, saved from the Across the Board Roofing Facebook Page
+(https://www.facebook.com/people/Across-the-Board-Roofing/61575055021215/) on 2026-11-23,
+via ~/revenue-fuel/website-ads/desk/photos/across-the-board-roofing/. Re-saved as JPG, no upscaling (sources are 532–762px wide).
+Confirm use with the owner before launch.
+
+  assets/brick-home-new-roof.jpg                 hero framed photo; also on og.jpg
+  assets/gutter-full-of-leaves-before.jpg        winter section ("Found")
+  assets/shingle-roof-clean-gutter-fall.jpg      winter section ("Clear") and gallery
+  assets/soffit-fascia-gutter-corner.jpg         gallery (large tile)
+  assets/new-white-soffit-downspout-after.jpg    gallery
+  assets/old-dark-fascia-before.jpg              gallery (shown as finished work, NOT as a "before")
+  assets/soffit-fascia-garage-side.jpg           gallery
+  assets/og.jpg                                  1200x630 link preview, built from brick-home-new-roof.jpg + page typography
+
+NO STOCK PHOTOS are used. Hero background (shingle texture), icons and the roofline mark are CSS/SVG drawn for this page.
+Their real logo (horse over roofline) is NOT used; it was not available as a file.
+Fonts: Barlow Condensed, Inter, Playfair Display (Google Fonts, SIL Open Font License).

@@ -1,0 +1,18 @@
+Image credits: Steel City Home Improvement preview
+
+All photos on this page belong to Steel City Home Improvement. They were saved from the
+business's own Facebook Page (https://www.facebook.com/profile.php?id=61570092471405) on
+2026-11-24, into ~/revenue-fuel/website-ads/desk/photos/steel-city-home-improvement/,
+then resized/re-encoded for the web. No stock photography is used.
+
+assets/walkway-curve.jpg         <- stamped-walkway-curve.jpg (their Facebook Page)
+assets/walkway-river-rock.jpg    <- stamped-walkway-river-rock.jpg (their Facebook Page)
+assets/walkway-to-porch.jpg      <- stamped-walkway-to-porch.jpg (their Facebook Page; top 16% cropped earlier to remove a house number)
+assets/basement-1-gravel.jpg     <- basement-gravel-base-BEFORE.jpg (their Facebook Page)
+assets/basement-2-poured.jpg     <- basement-new-slab-wet.jpg (their Facebook Page)
+assets/basement-3-finished.jpg   <- basement-finished-slab-AFTER.jpg (their Facebook Page)
+assets/og.jpg                    <- built for this preview from walkway-curve.jpg + walkway-river-rock.jpg with the business name set on it
+
+Graphics: the "Steel City" wordmark, skyline badge and skyline/bridge silhouette are simple SVG
+drawings made for this preview (a rebuild in the spirit of their black/gold skyline logo, not their actual logo file).
+Fonts: Big Shoulders Display and Archivo (Google Fonts, SIL Open Font License).

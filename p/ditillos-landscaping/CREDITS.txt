@@ -1,0 +1,20 @@
+Ditillo's Landscaping LLC preview: image credits
+
+All photographs are the business's own, saved from the Ditillo's Landscaping LLC Facebook Page
+(https://www.facebook.com/ditilloslandscapingllc) into ~/revenue-fuel/website-ads/desk/photos/ditillos-landscaping/ and cropped/resized here.
+
+assets/snow-lot.jpg            <- snow-plowed-lot.jpg (left 200px cropped off to remove another company's dumpster logo)
+assets/storm-pine.jpg          <- storm-uprooted-pine.jpg
+assets/bucket-lift.jpg         <- bucket-lift-tree-top.jpg
+assets/river-rock-bed.jpg      <- river-rock-bed-ring.jpg (lower 65% kept, person on porch cropped out)
+assets/dozer-grading.jpg       <- dozer-grading.jpg (truck roof/windshield edge and mirror cropped out)
+assets/wall-corner-before.jpg  <- retaining-wall-before-after-graphic.jpg (their own before/after graphic, bottom-left photo)
+assets/wall-corner-after.jpg   <- retaining-wall-before-after-graphic.jpg (bottom-right photo)
+assets/wall-deck-before.jpg    <- timber-wall-BEFORE-top.jpg (logo overlap cropped off)
+assets/wall-deck-after.jpg     <- timber-wall-AFTER-top.jpg (logo overlap cropped off)
+assets/og.jpg                  <- built for link previews from snow-lot.jpg + the badge redrawn in SVG
+
+Logo: redrawn in inline SVG from their round badge (logo-badge.jpg), colors green #0E5B33 / red #C8102E / white.
+Illustrations (Christmas-lights house, gutter with leaves, string-light garland, river line): drawn in SVG/CSS for this page.
+No stock photography used.
+Fonts: Archivo and Inter (Google Fonts, SIL Open Font License).

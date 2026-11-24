@@ -16,6 +16,8 @@
   var ENDPOINT = "https://revenuefuel.goatcounter.com/count";
   window.goatcounter = window.goatcounter || {};
   window.goatcounter.endpoint = ENDPOINT;
+  // Count by page only: Messenger adds ?fbclid=... to every link, which would split one page into many rows.
+  window.goatcounter.path = function () { return location.pathname; };
 
   var s = document.createElement("script");
   s.async = true;

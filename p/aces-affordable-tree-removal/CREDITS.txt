@@ -1,0 +1,17 @@
+Ace's Affordable Tree Removal Services: image credits
+
+All photos are the business's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61554822466900) on 2026-11-24.
+No stock photos are used.
+
+assets/hero-crane.jpg      their crane lifting a big trunk section (crane-lifting-big-trunk.jpg), unedited
+assets/crew-street.jpg     bucket truck + crane at a street job (crew-bucket-and-crane-street.jpg), unedited
+assets/pine-bucket.jpg     climber in the bucket on a pine (bucket-truck-pine-removal.jpg), unedited
+assets/big-elm.jpg         big elm alley job (big-elm-alley-crew-trucks.jpg): Facebook viewer bar removed, left 32% cropped (pickup + plate), trailer plate blurred
+assets/log-rounds.jpg      log rounds + crane (log-rounds-crane-cleanup.jpg): house number blurred
+assets/truck-full.jpg      their lettered bucket truck (lettered-bucket-truck.jpg): old phone number on the boom blurred
+assets/truck-lettering.jpg same truck, cropped to the logo + services box (boom number blurred and cropped out)
+assets/og.jpg              1200x630 share image built from hero-crane.jpg + their name set in Georgia Bold / Arial Black
+
+Logo: rebuilt as a simple SVG shield + climber from the logo on their truck (not their original artwork).
+Fonts: Google Fonts (Archivo, Inter, Playfair Display, Source Serif 4), SIL Open Font License.

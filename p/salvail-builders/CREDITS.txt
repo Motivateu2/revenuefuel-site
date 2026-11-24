@@ -1,0 +1,16 @@
+Salvail Builders LLC preview · image credits
+
+All photos are Salvail Builders LLC's own, saved from their Facebook Page
+(https://www.facebook.com/zsalvail87/) on 2026-11-24, resized only:
+
+assets/hero-deck.jpg          new raised deck with black balusters and stairs (their photo)
+assets/fence-before.jpg       old red board fence, "Before" label is theirs (their photo)
+assets/fence-after.jpg        same fence line, new wood privacy fence (their photo)
+assets/vinyl-fence.jpg        white vinyl privacy fence with plantings (their photo)
+assets/second-story-deck.jpg  second-story deck on a grey two-story home (their photo)
+assets/pool-deck-stairs.jpg   pool deck stairs beside a white vinyl fence (their photo)
+assets/og.jpg                 link-preview card made from assets/hero-deck.jpg with their name set on it
+
+No stock photos are used. The hard-hat wordmark, shed illustration, service-area map
+and tape-measure graphics are drawn in SVG/CSS for this preview.
+Fonts: Google Fonts (Big Shoulders Display, Inter), OFL.

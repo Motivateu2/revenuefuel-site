@@ -1,0 +1,28 @@
+A&F Landscaping LLC preview: image credits
+
+REAL (A&F Landscaping LLC's own Facebook Page, https://www.facebook.com/profile.php?id=100071681434149,
+saved 2026-11-24 into ~/revenue-fuel/website-ads/desk/photos/af-landscaping/). The owner's photos; confirm use with Frank before launch.
+Nothing retouched; re-saved as JPEG at original size (all under 1600px).
+  assets/hero-mulch-bed.jpg    Black-mulch bed with boulders and shrubs along a curved aggregate patio (planted-mulch-bed-boulders.jpg, 934x664)
+                               Used: hero, "Mulching & bed design" card, gallery, og.jpg
+  assets/tiered-wall-beds.jpg  Terraced mulch beds above a block retaining wall, wood stairs (tiered-wall-mulch-beds.jpg, 934x664)
+                               Used: "Landscape design" card, "A&F standard" photo, gallery
+  assets/fire-pit.jpg          Stone fire-pit ring on a new gravel pad (fire-pit-gravel-patio.jpg, 536x714)
+                               Used: "Fire pits & gravel patios" card, gallery
+  assets/retaining-wall.jpg    Stepped block retaining wall along a driveway (block-retaining-wall-steps.jpg, 536x714)
+                               Used: "Retaining walls" card, gallery
+  assets/bed-prep-crew.jpg     New oval bed being prepped in a front lawn, crew + trailer far in background (front-bed-prep-crew.jpg, 536x714)
+                               Used: gallery only
+  assets/og.jpg                1200x630 share image: hero-mulch-bed.jpg + redrawn tree mark + name/phone set in the page fonts.
+
+LOGO: tree mark redrawn in inline SVG (forest green tree on a pale-yellow circle), after the tree-on-pale-yellow logo on
+their Facebook Page. Not their exact artwork; swap in the real logo file when Frank sends it.
+
+STOCK (Unsplash License, https://unsplash.com/license), NOT A&F's work, never in the "Our work" gallery:
+  assets/mood-fall-leaves.jpg  Fallen maple leaves on grass, Weliton Soranzo
+                               https://unsplash.com/photos/fallen-maple-leaves-on-grass-t6YjZUDCJFM
+                               (images.unsplash.com/photo-1789663845593-0c09bf4e5ca6), resized to 1600px
+                               Used only as the darkened background of the "Leaves down?" fall band.
+
+Fonts: DM Serif Display, Manrope, Playfair Display (Google Fonts, SIL Open Font License).
+Icons and the service-area map are drawn in SVG for this page (the map is a stylized sketch, not a real map).

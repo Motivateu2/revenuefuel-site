@@ -1,0 +1,20 @@
+Washed by the Blood LLC preview: image credits
+
+THEIRS (saved from the Washed by the Blood LLC Facebook Page, facebook.com/people/Washed-by-the-Blood-LLC/61564145065744/, 2026-11-24). The business's own photos/logo; confirm use with Zach before launch:
+  assets/logo.png, assets/logo-sm.png   Their badge logo (from logo-veteran-owned.jpg); black background knocked out, resized
+  assets/work-kitchen.jpg               Kitchen, Proctorville OH job (from kitchen-fresh-paint-proctorville.jpg)
+  assets/work-bedroom.jpg               Bay-window bedroom, same job (from bay-window-bedroom-proctorville.jpg)
+  assets/og.jpg                         Made for link previews from work-kitchen.jpg + their logo + their name (1200x630)
+
+STOCK (Unsplash License, https://unsplash.com/license). NOT Washed by the Blood's work, never in the "Recent work" section.
+No other company names, logos, vehicle lettering or uniforms visible. Swap in real job photos at the same file names when available:
+  assets/hero.jpg          White New England house with a US flag on the porch, autumn (Woodstock, VT): Craig Tidball
+                           https://unsplash.com/photos/white-and-gray-wooden-house-with-us-flag-li04pzk21LI  (images.unsplash.com/photo-1517087799209-ffb8d2962f40)
+  assets/svc-interior.jpg  Paint roller on a white wall: Andrew Itaga
+                           https://unsplash.com/photos/T2z_b6PzlZk  (images.unsplash.com/photo-1693985120993-e9b203ce7631)
+  assets/svc-drywall.jpg   Hands with drywall knife and compound: Sasun Bughdaryan
+                           images.unsplash.com/photo-1768839725085-829e6ac7ac26
+  assets/svc-exterior.jpg  Gray and white house with a wraparound porch
+                           https://unsplash.com/photos/gray-wooden-house-178j8tJrNlc  (images.unsplash.com/photo-1570129477492-45c003edd2be)
+  assets/svc-washing.jpg   White and navy siding, porch and front door
+                           https://unsplash.com/photos/a-white-house-with-a-black-front-door-_lfGDMDIJq0  (images.unsplash.com/photo-1631458325834-8f678e48912c)

@@ -1,0 +1,20 @@
+SelRahc Renovations Co. preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN, saved from their Facebook Page (https://www.facebook.com/SelRahcRenovationsCo/) on 2026-11-24
+(source copies in ~/revenue-fuel/website-ads/desk/photos/selrahc-renovations/). Confirm use with Charles before launch.
+
+  assets/hero-river-rock.jpg   Crop of the AFTER photo from their "Shower Floor River Rock Mosaic" card
+                               (shower-floor-river-rock-before-after-card.jpg, region x30-720, y352-902; 690x550). Hero + og.jpg background.
+  assets/river-rock-card.jpg   Their full designed card "Shower Floor / River Rock Mosaic" (after photo, before inset, their logo), 750x930. Portfolio feature.
+  assets/wall1-before.jpg      Intercom removal, wall 1, BEFORE (intercom-1-BEFORE.jpg, split from their "Intercom Removal" before/after card). Slider.
+  assets/wall1-after.jpg       Intercom removal, wall 1, AFTER  (intercom-1-AFTER.jpg). Slider.
+  assets/wall2-before.jpg      Intercom removal, wall 2, BEFORE (intercom-2-BEFORE.jpg). Slider tab 2.
+  assets/wall2-after.jpg       Intercom removal, wall 2, AFTER  (intercom-2-AFTER.jpg). Slider tab 2.
+  assets/og.jpg                1200x630 share image: hero-river-rock.jpg + their wordmark rebuilt in type (rendered locally with headless Chrome).
+
+LOGO: "SELRAHC / RENOVATIONS CO" wordmark and gold "SRC" house monogram rebuilt in HTML/SVG (Cormorant Garamond + Manrope)
+      from logo-crop-from-card.jpg (220px); the low-res image itself is not used.
+
+STOCK: none.
+
+NOT USED: their "Elevate your space" navy-wainscot before/after graphic (carries an AI-image watermark; not a real job).

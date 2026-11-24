@@ -1,0 +1,15 @@
+TradeZ Inc. preview — image credits
+
+REAL (TradeZ Inc. Facebook Page, facebook.com/TradeZInc, saved 2026-11-24 into ~/revenue-fuel/website-ads/desk/photos/tradez-inc/) — the business's own photos; confirm use with TradeZ before launch:
+  assets/tree-chimney.jpg   Climber in harness working a big tree beside a brick chimney over a roof   (from climber-by-chimney.jpg) — hero
+  assets/tree-roof.jpg      Climber high in a bare tree over a shingled roof                          (from climber-over-roof.jpg) — "Trees touching your roof" section
+  assets/tree-removal.jpg   Felled trunk beside a fresh-cut stump, farm field behind                  (from big-trunk-down-fresh-stump.jpg; right edge cropped to remove a worker's legs) — Tree removal card
+  assets/stump-grinder.jpg  Orange stump grinder working a stump                                       (from stump-grinder-working.jpg) — Stump grinding card
+  assets/lawn.jpg           Freshly striped lawn, their red truck + trailer in the background          (from striped-lawn-wide.jpg) — Lawn care card
+  assets/crew-truck.jpg     Two crew members in orange beside the lettered TradeZ truck                (from crew-with-lettered-truck.jpg) — "Who shows up" section; people NOT named
+  assets/og.jpg             1200x630 share image built from crew-truck.jpg + the business name/slogan/phone set in Anton
+
+STOCK: none. Every photo on the page is TradeZ's own.
+
+Logo: NOT reproduced. The small tree mark and "TRADEZ INC." wordmark are simple stand-ins drawn in SVG/CSS in their colors (black, safety orange, white); swap in their real tree-and-excavator logo file at launch.
+Fonts: Anton, Barlow Condensed, Inter (Google Fonts, SIL Open Font License).

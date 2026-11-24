@@ -1,0 +1,21 @@
+Grass Girl Lawn Care preview: image credits
+
+ALL IMAGES ARE GRASS GIRL LAWN CARE'S OWN (saved from their Facebook Page, https://www.facebook.com/GrassGirlLawnCare/, on 2026-11-24;
+source files in ~/revenue-fuel/website-ads/desk/photos/grass-girl-lawn-care/). Confirm use with the owner before launch.
+No stock photography is used anywhere on the page.
+
+Real job photos (gallery + hero):
+  assets/yard-shed-flex.jpg     Crew member flexing in front of a freshly striped back yard with shed (from striped-yard-shed-flex.jpg, 694x930, unchanged). Hero, gallery, og.jpg.
+  assets/yard-on-mower.jpg      Selfie from the mower over a striped yard (from striped-yard-on-mower.jpg, 694x930, unchanged). Gallery.
+  assets/curved-stripes.jpg     Curved stripe pattern, cropped to 540x700 to remove the face at the right edge (from curved-stripes-selfie.jpg). Gallery.
+
+Brand art (their illustrated graphics; used only as logo/feature art, never as job photos):
+  assets/snow-removal-art.jpg   "Grass Girl Snow Removal / Call the Girls 412-713-6482" graphic (from logo-snow-removal-call-the-girls.jpg). Snow section feature card.
+  assets/woman-owned-art.jpg    "Proud to be woman owned / Grass Girl Lawn Care / Support women-owned businesses" graphic (from logo-woman-owned-lawn-care.jpg). Who-we-are section.
+  assets/mascot.jpg             240x240 crop of the mascot's head and flexed arm from logo-woman-owned-lawn-care.jpg. Nav logo, favicon, estimate card, og.jpg.
+  assets/mascot-logo.jpg        Mascot + "Grass Girl Lawn Care" wordmark crop from logo-woman-owned-lawn-care.jpg. Footer.
+
+Generated:
+  assets/og.jpg                 1200x630 share image, rendered from yard-shed-flex.jpg + mascot.jpg with the business name set in Archivo (Google Fonts, OFL).
+
+Icons: hand-drawn inline SVG in index.html. Fonts: Archivo + DM Sans via Google Fonts (SIL Open Font License).

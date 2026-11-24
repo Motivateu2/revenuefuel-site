@@ -1,0 +1,14 @@
+Image credits: Dave's Painting and Home Improvement LLC preview
+
+All photos below are the business's own, saved from its Facebook Page (https://www.facebook.com/davetcoffman/) on 2026-11-24, resized only:
+- assets/freestanding-tub.jpg            (master-bath remodel, finished; hero)
+- assets/double-vanity-gold-mirrors.jpg  (master-bath remodel, finished)
+- assets/glass-shower-gold-hardware.jpg  (master-bath remodel, finished)
+- assets/master-bath-wide-skylight.jpg   (master-bath remodel, nearly finished)
+- assets/floor-joists-before.jpg         (living-room floor job, before)
+- assets/new-plank-floor-going-in.jpg    (same room, during)
+- assets/brick-porch-front.jpg           (exterior; used only as an uncaptioned background)
+
+assets/og.jpg: 1200x630 share image made from freestanding-tub.jpg and double-vanity-gold-mirrors.jpg with the business name set on it.
+
+No stock photos are used. Fonts: Google Fonts (Archivo, Inter, Playfair Display). Icons: hand-drawn inline SVG.

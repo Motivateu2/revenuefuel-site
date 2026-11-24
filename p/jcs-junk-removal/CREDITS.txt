@@ -1,0 +1,13 @@
+JC's Junk Removal preview: image credits
+
+REAL (JC's Junk Removal Facebook Page, facebook.com/jcsjunk, saved 2026-11-24 to desk/photos/jcs-junk-removal/) — owner's photos; confirm use before launch:
+  assets/sofa-truck.jpg    Sectional sofa loaded in their pickup bed (hero, furniture card, gallery)   from sofa-loaded-in-truck.jpg
+  assets/truck-debris.jpg  White pickup loaded with boards, a window and bagged debris                from truck-loaded-debris.jpg
+  assets/shed-before.jpg   Shed before cleanout; a personal/other-brand banner ("Fighting to live the dream") BLURRED   from shed-BEFORE.jpg
+  assets/shed-after.jpg    Same shed after cleanout                                                   from shed-AFTER.jpg
+  assets/flyer.jpg         Their services flyer, cropped above the bottom bar so the email address is not shown   from services-flyer.jpg
+  assets/og.jpg            1200x630 link-preview image: sofa-truck.jpg + their name set in type (made for this preview)
+  Logo: wordmark rebuilt in HTML/CSS (Barlow Condensed italic, yellow/white/lime/navy) from their logo-badge.jpg.
+        The AI-looking bin/appliance illustration from the logo is NOT used (it appears only inside the small flyer thumbnail).
+
+STOCK: none used.

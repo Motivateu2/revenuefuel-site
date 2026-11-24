@@ -1,0 +1,18 @@
+Marco Makes It Happen Services LLC preview: image credits
+
+ALL images on this page are the business's own (saved from the Marco Makes It Happen Services Facebook Page,
+https://www.facebook.com/p/Marco-Makes-It-Happen-Services-100087926760634/, on 2026-11-24). No stock photos are used.
+Confirm use with D'Marco before launch.
+
+  assets/hero.jpg          from leaves-cleared-street-view.jpg (leaf-season street, blue sky). Hero, gallery "Out on the route this fall", OG image.
+  assets/fall-cleanup.jpg  from leaves-BEFORE-front-yard.jpg, right 18% cropped off to remove a parked car's front licence plate.
+                           Fall Clean-Up card + gallery "Leaf season". (A person's shadow is visible; left in.)
+  assets/lawn.jpg          from clean-front-lawn.jpg, right 10% cropped off to remove a white van. Lawn Maintenance card + gallery.
+  assets/bed-before.jpg    from raised-bed-BEFORE.jpg (real before photo; same bed as bed-after). Before/after slider.
+  assets/bed-after.jpg     from raised-bed-AFTER.jpg, 3px trimmed top and bottom to match bed-before's size. Slider, Landscaping card, gallery.
+  assets/mascot.jpg        cropped from services-flyer.jpg: their cartoon logo character (head and torso only, email address cropped out). About section badge.
+  assets/og.jpg            1200x630 share image built from hero.jpg with the wordmark set in HTML (Archivo) and rendered with headless Chrome.
+
+Wordmark: rebuilt in HTML/CSS (Archivo 900, yellow #F6EB16 block, black stacked type) from the logo on their flyer.
+Icons: simple inline SVGs drawn for this page.
+Fonts: Archivo and Inter (Google Fonts, SIL Open Font License).

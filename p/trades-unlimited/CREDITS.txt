@@ -1,0 +1,13 @@
+All photos on this page are Trades Unlimited LLC's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61566987546553) on 2026-11-24. No stock images are used.
+
+assets/living-room.jpg    Repainted living room with ceiling fan (Facebook Page photo)
+assets/bedroom.jpg        Repainted bedroom with wood closet doors (Facebook Page photo)
+assets/drywall.jpg        Drywall patch beside a door (Facebook Page photo)
+assets/pole-barn.jpg      Pole barn interior finish (Facebook Page photo)
+assets/picnic-tables.jpg  Two new picnic tables (Facebook Page photo)
+assets/tractor.jpg        Restored Allis-Chalmers tractor (Facebook Page photo)
+assets/og.jpg             1200x630 share image made by Revenue Fuel from tractor.jpg + their name
+
+Fonts: Archivo and Inter from Google Fonts (SIL Open Font License).
+Icons: hand-drawn inline SVG.

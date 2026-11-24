@@ -1,0 +1,16 @@
+KR Contracting LLC preview — image credits
+
+ALL PHOTOS ARE KR CONTRACTING'S OWN (saved from their Facebook Page, facebook.com/profile.php?id=100090270013565, 2026-11-24; source copies in ~/revenue-fuel/website-ads/desk/photos/kr-contracting/). Confirm use with Ken before launch.
+  assets/porch-after.jpg   New clear fir porch floor (from porch-floor-AFTER-fir.jpg, 436x602, unchanged) — hero, before/after, og image
+  assets/porch-before.jpg  Old painted porch floor being torn out (from porch-floor-BEFORE-tearout.jpg, 393x524, unchanged)
+  assets/bath-remodel.jpg  Full bathroom remodel (from bathroom-remodel-full.jpg, 436x602, unchanged)
+  assets/vanity.jpg        Green vanity + medicine cabinets (from green-vanity-quartz.jpg, top 15.5% cropped to remove an outlet with a hanging cord)
+  assets/shower.jpg        Shower surround + glass door (from shower-glass-door.jpg, unchanged)
+  assets/deck.jpg          New deck with picket rail (cropped out of their own flyer deck-flyer-their-own.jpg, rows 202-410 only: removes their flyer text/logo and the house number by the door)
+  assets/og.jpg            1200x630 share image: porch-after.jpg + business name set in HTML, rendered with headless Chrome
+
+Checked every photo: no faces, no license plates; the only house number (deck photo) is cropped out.
+
+STOCK: none used.
+LOGO: rebuilt as a CSS "KR" badge in their red/navy; their flag-toolbox badge image is not used.
+Fonts: Google Fonts (Big Shoulders Display, Zilla Slab, Inter, Caveat), SIL Open Font License.

@@ -1,0 +1,15 @@
+Done Right Lawn Maintenance preview: image credits
+
+All photos are the business's own, saved from their Facebook Page
+(https://www.facebook.com/1DoneRightLawnMaintenance) on 2026-11-24.
+Resized/sharpened for the web; no other edits except where noted.
+
+assets/hero-curved-walk.jpg       <- striped-lawn-curved-walk-wide.jpg (Facebook Page)
+assets/sidewalk-stripes-tall.jpg  <- striped-lawn-sidewalk-tall.jpg (Facebook Page)
+assets/diamond-corner-lot.jpg     <- diamond-stripes-corner-lot.jpg (Facebook Page)
+assets/fall-cut-trailer.jpg       <- fall-cut-their-trailer.jpg (Facebook Page); parked truck's front bumper lightly blurred
+assets/street-stripes.jpg         <- striped-lawn-street-wide.jpg (Facebook Page)
+assets/og.jpg                     <- composed from hero-curved-walk.jpg with the business name set on it (Revenue Fuel)
+
+No stock photos used. Icons, wordmark and the A+ seal graphic are original CSS/SVG.
+Fonts: Archivo and Inter (Google Fonts, SIL Open Font License).

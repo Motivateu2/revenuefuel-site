@@ -1,0 +1,13 @@
+AAH Concrete preview: image credits
+
+All photos are AAH Concrete's own, saved from their Facebook Page (https://www.facebook.com/AAHConcrete) on 2026-11-24 by the Revenue Fuel desk:
+- assets/breaking-out-old-concrete.jpg: crew breaking out an old slab (process step 1)
+- assets/gravel-base-compactor.jpg: plate compactor on new gravel base (process step 2)
+- assets/formed-patio-pad.jpg: fresh pad in its forms (process step 3)
+- assets/finishing-slab-by-hand.jpg: hand-finishing a slab edge (hero, process step 4)
+- assets/new-driveway-fresh-pour.jpg: new driveway (Driveways card, desktop hero inset)
+- assets/long-sidewalk-finished.jpg: long new sidewalk (Sidewalks card, closing section background)
+- assets/og.jpg: share image built by Revenue Fuel from finishing-slab-by-hand.jpg
+
+No stock photography used. Wordmark, icons, concrete texture and the service-area map are drawn in code (SVG/CSS).
+Fonts: Archivo, Inter, JetBrains Mono (Google Fonts, SIL Open Font License).

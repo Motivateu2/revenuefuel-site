@@ -1,0 +1,18 @@
+ClearTree LLC preview · image credits
+
+THEIR OWN PHOTOS (saved from the ClearTree LLC Facebook Page, https://www.facebook.com/cleartreewv/, via desk/photos/cleartree/)
+  assets/hero-lift.jpg   lift-street-tree-removal.jpg  (hero, removal card)
+  assets/aerial.jpg      aerial-view-from-lift.jpg     (Clear difference section, gallery)
+  assets/round.jpg       giant-round-chainsaw.jpg      (hero triptych, gallery)
+  assets/climber.jpg     climber-in-canopy.jpg         (hero triptych, trimming card, gallery)
+  assets/cottage.jpg     cottage-yard-after-removal.jpg (gallery; no house number legible, their own yard sign visible)
+  Logo: rebuilt as inline SVG from their crest (logo-crest.jpg). Not a copy of the file.
+  assets/og.jpg          made from hero-lift + round + climber with their name set on it.
+
+STOCK (Unsplash license, mood background only, not in the gallery)
+  assets/snow-night.jpg  Artem Balashevsky, snow-covered parking lot at night with street lights
+                         https://unsplash.com/photos/a-snow-covered-parking-lot-at-night-with-street-lights-lXmWTFFKgnc
+                         (images.unsplash.com/photo-1701809922861-6f650117c966), darkened background of the snow-plowing section.
+                         No company names, logos or vehicle lettering visible.
+
+NOT USED: their snowplow flyer art (stock/AI truck and mountains) — facts only.

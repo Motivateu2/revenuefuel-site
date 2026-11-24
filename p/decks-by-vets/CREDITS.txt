@@ -1,0 +1,14 @@
+Images: Decks By Vets And More LLC preview
+
+All photos are the business's own, saved from their Facebook Page (https://www.facebook.com/decksbyvetsandmore/) into ~/revenue-fuel/website-ads/desk/photos/decks-by-vets/:
+- assets/deck-stairs.jpg      <- second-story-composite-deck-stairs.jpg (hero, gallery, OG image)
+- assets/two-tone-stairs.jpg  <- two-tone-stairs-aluminum-rail.jpg
+- assets/composite-deck.jpg   <- composite-deck-black-rail-privacy.jpg (also the dimmed final-CTA background)
+- assets/stoop-fall.jpg       <- composite-stoop-sunroom-fall.jpg
+- assets/pergola-deck.jpg     <- pergola-deck-blue-house.jpg
+- assets/privacy-fence.jpg    <- new-privacy-fence.jpg
+
+assets/og.jpg: 1200x630 composed by Revenue Fuel from deck-stairs.jpg + text (font: Archivo, SIL Open Font License, Google Fonts).
+
+No stock photography used. Icons and the wordmark are hand-drawn inline SVG.
+Web fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL OFL).

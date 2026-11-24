@@ -1,0 +1,16 @@
+Image credits: Guzay's Painting & Services preview (slug: guzays-painting)
+
+All photos on this page are the business's own, saved from their Facebook Page
+(https://www.facebook.com/Guzayspaintingandservices/) into
+~/revenue-fuel/website-ads/desk/photos/guzays-painting/ on 2026-11-24. No stock photos are used.
+
+assets/tudor-front.jpg      <- tudor-front-with-yard-sign.jpg (their photo; mobile hero, gallery, unchanged size 719x1568)
+assets/tudor-side-wide.jpg  <- tudor-side-trim-stucco-wide.jpg (their photo; desktop hero, gallery)
+assets/tudor-gable.jpg      <- tudor-gable-repainted.jpg (their photo; gallery, closing section background, phone mockup card)
+assets/sash-before.jpg      <- window-sash-BEFORE.jpg (their photo; cropped to the window for the before/after slider)
+assets/sash-after.jpg       <- window-sash-AFTER.jpg (their photo; cropped to the window for the before/after slider)
+assets/og.jpg               <- built from tudor-side-trim-stucco-wide.jpg (their photo) with the business name set over it, 1200x630
+
+Not used: logo-their-flyer.jpg (their flyer art looks AI-generated; used for facts only). The "GUZAY'S" wordmark
+and the rainbow stripe are rebuilt in CSS/type, echoing the paint-splash colors of their logo.
+Icons: hand-drawn inline SVG. Fonts: Archivo, DM Sans, Playfair Display (Google Fonts, OFL).

@@ -1,0 +1,13 @@
+Detailed By Duncan Powerwashing LLC preview: image credits
+
+REAL (Detailed By Duncan Powerwashing LLC Facebook Page, facebook.com/getingitclean, saved to desk/photos/detailed-by-duncan/ on 2026-11-24). These are the owner's photos; confirm use with the owner before launch:
+  assets/lift-wall.jpg       Scissor lift washing a historic painted brick wall (from scissor-lift-ghost-sign-wall.jpg). The old painted phone number "363-7030" on the wall is blurred out.
+  assets/before.jpg          Commercial stucco corner with algae and rust streaks (from stucco-corner-BEFORE.jpg)
+  assets/after.jpg           Same stucco building, cleaned (from stucco-corner-AFTER.jpg)
+  assets/parapet-before.jpg  Streaked stucco parapet, before (from stucco-parapet-dirty-BEFORE.jpg)
+  assets/streaks-before.jpg  Long streaks on a commercial wall, before (from stucco-wall-long-streaks.jpg)
+  assets/og.jpg              1200x630 share image: lift-wall.jpg plus the business name and phone, set in Archivo/Inter
+
+Logo: rebuilt as inline SVG/CSS from their DBD logo (dbd-logo.jpg). The original file is not shipped.
+STOCK: none. No Unsplash or other stock images are used.
+Fonts: Archivo and Inter (Google Fonts, SIL Open Font License).

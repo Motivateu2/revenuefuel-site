@@ -1,0 +1,18 @@
+Image credits: D.R. Lawn Services LLC preview
+
+All photos and the logo are the business's own, saved from the D.R. Lawn Services LLC Facebook Page
+(https://www.facebook.com/people/DR-Lawn-Services-LLC/61560285462997/) on 2026-11-24
+(local copies: ~/revenue-fuel/website-ads/desk/photos/dr-lawn-services/). No stock photography is used.
+
+assets/lawn-farmhouse.jpg     from striped-lawn-farmhouse.jpg (hero, gallery). Unchanged size.
+assets/lawn-wide-sky.jpg      from striped-lawn-wide-sky.jpg (mowing card, gallery, closing section background).
+assets/lawn-corner-lot.jpg    from fresh-cut-corner-lot.jpg (gallery).
+assets/lawn-white-brick.jpg   from striped-lawn-white-brick.jpg: right edge cropped off (x>905) to remove the parked pickup,
+                              and the house number on the wall blurred (gallery).
+assets/zero-turn-mower.jpg    from zero-turn-mower-new-build.jpg: Facebook viewer black bars/UI cropped off (Why D.R. section).
+assets/logo-card.jpg          from logo-card.jpg, their logo card (Meet the owner section).
+assets/logo-badge.jpg         crop of logo-card.jpg showing only the logo badge (hero badge on desktop, phone mockup avatar).
+assets/og.jpg                 1200x630 share image built from lawn-farmhouse.jpg with the business name set in Barlow Condensed.
+
+Fonts: Barlow Condensed and Inter (Google Fonts, SIL Open Font License).
+Icons: hand-drawn inline SVG.

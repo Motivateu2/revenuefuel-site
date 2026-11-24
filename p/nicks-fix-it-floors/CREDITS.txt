@@ -1,0 +1,15 @@
+Nick's Fix-it Floors & More preview: image credits
+
+All photos are the business's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61552503247687) by the Revenue Fuel desk on 2026-11-24.
+Source folder: ~/revenue-fuel/website-ads/desk/photos/nicks-fix-it-floors/
+
+assets/basement-before.jpg        <- basement-BEFORE-bare.jpg (bottom 5px black bar cropped, light sharpen)
+assets/basement-framed.jpg        <- basement-framing-in-progress.jpg (bottom 5px black bar cropped, light sharpen)
+assets/basement-after.jpg         <- basement-AFTER-finished-lvp.jpg (bottom 5px black bar cropped, light sharpen)
+assets/game-room-barn-doors.jpg   <- basement-barn-door-game-room.jpg (light sharpen)
+assets/og.jpg                     <- composed 1200x630 share image: basement-after.jpg on a drawn plank background with the business name
+
+Checked every photo: no faces, house numbers or license plates visible.
+No stock photography used. Plank background, icons and wordmark are drawn in CSS/SVG.
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL OFL).

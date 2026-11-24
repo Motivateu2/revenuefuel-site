@@ -1,0 +1,686 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Skruck Tree Solutions LLC · Tree Service · Massillon, OH</title>
+<meta name="description" content="Family-owned tree service in Massillon, Ohio: tree removal, trimming and structural support, plus leaf removal and full yard cleanups. Call (330) 649-1407.">
+<meta name="theme-color" content="#12301f">
+<meta property="og:title" content="Skruck Tree Solutions LLC · Tree removal, trimming &amp; yard cleanups · Massillon, OH">
+<meta property="og:description" content="A family-owned tree service with over 13 years of experience, serving Massillon, Canton, Akron and Stark County.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://revenuefuel.ai/p/skruck-tree-solutions/">
+<meta property="og:image" content="https://revenuefuel.ai/p/skruck-tree-solutions/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%2312301f'/%3E%3Cg fill='none' stroke='%23f6efe2' stroke-width='3.2'%3E%3Cellipse cx='32' cy='33' rx='22' ry='21'/%3E%3Cellipse cx='31' cy='33' rx='15' ry='14.5'/%3E%3Cellipse cx='31.5' cy='33.5' rx='8' ry='7.5'/%3E%3C/g%3E%3Ccircle cx='31.5' cy='33.5' r='2.6' fill='%23c98a3d'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=DM+Sans:opsz,wght@9..40,400;9..40,500;9..40,600;9..40,700&family=Playfair+Display:ital,wght@1,600;1,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --forest:#12301f;
+  --forest-2:#1a3f2a;
+  --forest-3:#24533a;
+  --moss:#3f7a4c;
+  --leaf:#9fcf7a;
+  --bark:#5e4129;
+  --bark-2:#7a5636;
+  --copper:#c98a3d;
+  --copper-2:#b07428;
+  --cream:#f6efe2;
+  --paper:#fbf8f1;
+  --line:#e4d9c4;
+  --ink:#17201a;
+  --muted:#5b6558;
+  --on-dark:#cfd9cc;
+  --display:"Big Shoulders Display", "Arial Narrow", Impact, sans-serif;
+  --body:"DM Sans", system-ui, -apple-system, sans-serif;
+  --accent:"Playfair Display", Georgia, serif;
+  --wrap:min(1180px, 100% - 32px);
+  --r:20px;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img{max-width:100%;display:block}
+a{color:inherit}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--copper);outline-offset:3px;border-radius:8px}
+.wrap{width:var(--wrap);margin-inline:auto}
+h1,h2,h3{font-family:var(--display);font-weight:900;letter-spacing:.005em;line-height:.95;margin:0;text-transform:uppercase;text-wrap:balance}
+em.acc{font-family:var(--accent);font-style:italic;font-weight:600;text-transform:none;letter-spacing:-.01em}
+.eyebrow{display:inline-flex;align-items:center;gap:10px;font:700 12.5px/1.3 var(--body);letter-spacing:.16em;text-transform:uppercase;color:var(--moss);margin:0 0 14px}
+.eyebrow::before{content:"";width:22px;height:3px;border-radius:3px;background:var(--copper)}
+.sec{padding:clamp(70px,9vw,118px) 0;position:relative}
+.sec-head{display:flex;flex-wrap:wrap;align-items:end;justify-content:space-between;gap:16px 40px;margin-bottom:clamp(30px,4vw,50px)}
+.sec-head h2{font-size:clamp(2.6rem,6vw,4.6rem);max-width:14ch}
+.sec-head p{margin:0;max-width:33em;color:var(--muted)}
+.ico{width:20px;height:20px;flex:none}
+
+/* buttons */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:54px;padding:0 24px;border-radius:999px;font:700 16.5px/1 var(--body);text-decoration:none;border:0;cursor:pointer;transition:transform .15s ease, background .15s ease, box-shadow .15s ease;white-space:nowrap}
+.btn:active{transform:scale(.98)}
+.btn-main{background:var(--copper);color:#1d1208;box-shadow:0 14px 30px -12px rgba(201,138,61,.75)}
+.btn-main:hover{background:#d89a4c}
+.btn-ghost{background:rgba(246,239,226,.1);color:var(--cream);box-shadow:inset 0 0 0 1.5px rgba(246,239,226,.45)}
+.btn-ghost:hover{background:rgba(246,239,226,.18)}
+.btn-dark{background:var(--forest);color:var(--cream)}
+.btn-dark:hover{background:var(--forest-3)}
+
+/* ribbon + nav */
+.ribbon{background:var(--bark);color:#f3e6d2;font:600 13px/1.35 var(--body);text-align:center;padding:8px 14px}
+.nav{position:sticky;top:0;z-index:40;background:rgba(18,48,31,.9);backdrop-filter:saturate(1.3) blur(12px);-webkit-backdrop-filter:saturate(1.3) blur(12px);border-bottom:1px solid rgba(255,255,255,.08)}
+.nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;height:68px}
+.brand{display:flex;align-items:center;gap:11px;text-decoration:none;color:var(--cream);min-width:0}
+.mark{width:42px;height:42px;flex:none}
+.brand b{display:block;font:900 27px/.9 var(--display);letter-spacing:.02em;text-transform:uppercase}
+.brand small{display:block;font:700 10.5px/1 var(--body);letter-spacing:.2em;text-transform:uppercase;color:var(--leaf);margin-top:4px;white-space:nowrap}
+.nav-links{display:flex;align-items:center;gap:26px}
+.nav-links a:not(.btn){color:var(--on-dark);text-decoration:none;font-weight:600;font-size:15px}
+.nav-links a:not(.btn):hover{color:#fff}
+.nav .btn{min-height:44px;padding:0 18px;font-size:15px}
+@media (max-width:860px){.nav-links a:not(.btn){display:none}}
+@media (max-width:420px){.nav .btn span.lg{display:none}.nav .btn{padding:0 15px}}
+
+/* hero */
+.hero{position:relative;overflow:hidden;color:var(--cream);background:var(--forest);isolation:isolate}
+.hero-bg{position:absolute;inset:0;z-index:-2;background:url(assets/climber.jpg) 58% 0/cover no-repeat}
+.hero::before{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(12,34,21,.1) 0%,rgba(12,34,21,.3) 24%,rgba(12,34,21,.78) 40%,rgba(12,34,21,.92) 56%,#12301f 100%)}
+.hero .wrap{display:grid;align-items:end;min-height:min(86svh,760px);padding:300px 0 44px}
+.hero-copy{max-width:640px}
+.hero .eyebrow{color:var(--leaf)}
+.hero h1{font-size:clamp(3.4rem,13.5vw,7rem);line-height:.9;margin-bottom:18px;text-shadow:0 2px 24px rgba(0,0,0,.35)}
+.hero h1 em.acc{display:block;font-size:.62em;line-height:1.05;color:#f1d7ac;margin-top:6px}
+.hero p.lede{font-size:clamp(17px,2.2vw,19.5px);color:#e4eadf;margin:0 0 26px;max-width:34em}
+.cta-row{display:flex;flex-wrap:wrap;gap:12px}
+.badges{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px;padding:0;list-style:none}
+.badges li{display:inline-flex;align-items:center;gap:8px;font:600 13.5px/1 var(--body);padding:9px 13px;border-radius:999px;background:rgba(246,239,226,.1);box-shadow:inset 0 0 0 1px rgba(246,239,226,.22);color:#eef2ea}
+.badges svg{width:16px;height:16px;color:var(--leaf)}
+.hero-card{display:none}
+@media (min-width:980px){
+  .hero-bg{filter:blur(18px) saturate(1.1);transform:scale(1.15);opacity:.55}
+  .hero::before{background:linear-gradient(90deg,rgba(18,48,31,.97) 0%,rgba(18,48,31,.9) 45%,rgba(18,48,31,.55) 100%)}
+  .hero .wrap{grid-template-columns:1.15fr .85fr;gap:60px;align-items:center;min-height:auto;padding:64px 0 80px}
+  .hero-card{display:block;position:relative;justify-self:end;width:min(400px,100%);margin:0}
+  .hero-card img{width:100%;aspect-ratio:538/714;object-fit:cover;border-radius:28px;box-shadow:0 40px 80px -30px rgba(0,0,0,.7),0 0 0 1px rgba(255,255,255,.08)}
+  .hero-card figcaption{position:absolute;left:-28px;bottom:34px;background:var(--cream);color:var(--ink);border-radius:16px;padding:14px 18px;font:600 14px/1.35 var(--body);box-shadow:0 20px 40px -18px rgba(0,0,0,.6)}
+  .hero-card figcaption b{display:block;font:900 22px/1 var(--display);text-transform:uppercase;color:var(--forest)}
+}
+
+/* leaf season */
+.season{position:relative;overflow:hidden;background:#2b1a0e;color:var(--cream);isolation:isolate}
+.season::before{content:"";position:absolute;inset:0;z-index:-2;background:url(assets/leaves-stock.jpg) center 70%/cover no-repeat}
+.season::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(32,18,8,.82),rgba(32,18,8,.9))}
+.season .wrap{display:grid;gap:34px;padding:clamp(64px,8vw,104px) 0}
+.season .eyebrow{color:#f1c37f}
+.season h2{font-size:clamp(2.8rem,8.5vw,5.2rem);max-width:12ch}
+.season h2 em.acc{color:#f1c37f}
+.season p{color:#eadfcd;max-width:34em;margin:16px 0 0}
+.now-list{display:grid;gap:12px;margin:0;padding:0;list-style:none}
+.now-list li{display:flex;gap:14px;align-items:flex-start;background:rgba(251,248,241,.08);border:1px solid rgba(251,248,241,.16);border-radius:18px;padding:18px 18px;backdrop-filter:blur(4px)}
+.now-list .tag{flex:none;font:800 11px/1 var(--body);letter-spacing:.14em;text-transform:uppercase;background:var(--copper);color:#1d1208;border-radius:999px;padding:7px 10px;margin-top:2px}
+.now-list .tag.alt{background:rgba(246,239,226,.16);color:var(--cream)}
+.now-list b{display:block;font:900 24px/1 var(--display);text-transform:uppercase;letter-spacing:.01em}
+.now-list span.s{display:block;color:#dccfb9;font-size:15px;margin-top:6px;line-height:1.45}
+@media (min-width:900px){.season .wrap{grid-template-columns:1fr 1fr;align-items:center;gap:70px}}
+
+/* services */
+.svc-grid{display:grid;gap:18px}
+.svc{position:relative;border-radius:var(--r);overflow:hidden;background:#fff;box-shadow:0 1px 0 var(--line),0 24px 50px -34px rgba(23,32,26,.45);display:flex;flex-direction:column}
+.svc .ph{aspect-ratio:4/3;overflow:hidden;background:var(--forest-2)}
+.svc .ph img{width:100%;height:100%;object-fit:cover}
+.svc .bd{padding:22px 22px 24px}
+.svc h3{font-size:30px;margin-bottom:8px;color:var(--forest)}
+.svc p{margin:0;color:var(--muted);font-size:16px}
+.svc .num{position:absolute;top:14px;left:14px;font:800 12px/1 var(--body);letter-spacing:.14em;color:var(--cream);background:rgba(18,48,31,.82);padding:7px 10px;border-radius:999px}
+.svc.text{background:var(--forest);color:var(--cream);justify-content:space-between}
+.svc.text h3{color:var(--cream)}
+.svc.text p{color:var(--on-dark)}
+.svc.text .rings{display:block;width:120px;height:120px;margin:58px auto 0;color:var(--leaf);opacity:.9}
+.svc.text .num{background:rgba(246,239,226,.12)}
+.more{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px;align-items:center}
+.more span.lbl{font-weight:700;color:var(--muted);font-size:14.5px;margin-right:4px}
+.chip{display:inline-flex;align-items:center;gap:8px;padding:10px 14px;border-radius:999px;background:#fff;border:1px solid var(--line);font-weight:600;font-size:14.5px;color:var(--ink)}
+.chip i{width:7px;height:7px;border-radius:50%;background:var(--copper)}
+@media (min-width:700px){.svc-grid{grid-template-columns:1fr 1fr}}
+@media (min-width:1060px){.svc-grid{grid-template-columns:repeat(4,1fr)}.svc .ph{aspect-ratio:4/4.4}}
+
+/* story */
+.story{background:var(--cream);overflow:hidden}
+.story .wrap{display:grid;gap:40px;align-items:center}
+.story-ph{position:relative}
+.story-ph img{width:100%;aspect-ratio:536/544;object-fit:cover;object-position:60% 50%;border-radius:26px;box-shadow:0 30px 60px -34px rgba(23,32,26,.6)}
+.story-ph .stamp{position:absolute;left:-6px;bottom:-22px;width:132px;height:132px;border-radius:50%;background:var(--forest);color:var(--cream);display:grid;place-items:center;text-align:center;box-shadow:0 18px 36px -16px rgba(0,0,0,.55);border:4px solid var(--cream)}
+.story-ph .stamp b{display:block;font:900 46px/.85 var(--display)}
+.story-ph .stamp small{display:block;font:700 10.5px/1.2 var(--body);letter-spacing:.12em;text-transform:uppercase;color:var(--leaf);margin-top:6px}
+.story h2{font-size:clamp(2.6rem,6.5vw,4.6rem);margin-bottom:18px;color:var(--forest)}
+.story p{margin:0 0 16px;color:#384236;max-width:36em}
+.story blockquote{margin:24px 0 0;padding:4px 0 4px 20px;border-left:4px solid var(--copper);font:600 italic clamp(24px,3.4vw,30px)/1.2 var(--accent);color:var(--bark)}
+.story blockquote cite{display:block;margin-top:8px;font:600 13.5px/1.3 var(--body);font-style:normal;color:var(--muted)}
+.facts{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin-top:28px}
+.facts div{background:var(--paper);border:1px solid var(--line);border-radius:16px;padding:14px 12px}
+.facts b{display:block;font:900 26px/1 var(--display);color:var(--forest);text-transform:uppercase}
+.facts span{display:block;font-size:13px;line-height:1.3;color:var(--muted);margin-top:6px}
+@media (min-width:920px){.story .wrap{grid-template-columns:.9fr 1.1fr;gap:80px}}
+
+/* reviews */
+.reviews{background:var(--forest);color:var(--cream);overflow:hidden}
+.reviews .eyebrow{color:var(--leaf)}
+.reviews .sec-head p{color:var(--on-dark)}
+.rv-grid{display:grid;gap:18px}
+.rv{background:var(--forest-2);border:1px solid rgba(255,255,255,.08);border-radius:var(--r);padding:28px 24px;display:flex;flex-direction:column;gap:18px}
+.rv .stars{display:flex;gap:3px;color:#f1c37f}
+.rv .stars svg{width:19px;height:19px}
+.rv q{quotes:none;font:600 italic clamp(22px,3vw,26px)/1.3 var(--accent);color:#fff6e7}
+.rv p{margin:0;color:var(--on-dark);font-size:16px}
+.rv .who{margin-top:auto;display:flex;align-items:center;gap:12px;font-weight:700}
+.rv .who i{width:40px;height:40px;border-radius:50%;display:grid;place-items:center;background:var(--copper);color:#1d1208;font:900 18px/1 var(--display);font-style:normal}
+.rv .who small{display:block;font-weight:500;color:var(--on-dark);font-size:13.5px}
+.bbb-note{margin-top:22px;display:flex;align-items:center;gap:10px;color:var(--on-dark);font-size:14.5px}
+.bbb-note svg{width:22px;height:22px;color:var(--leaf);flex:none}
+@media (min-width:860px){.rv-grid{grid-template-columns:1fr 1fr}}
+
+/* gallery */
+.gal{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.gal figure{margin:0;position:relative;border-radius:16px;overflow:hidden;background:var(--forest-2)}
+.gal img{width:100%;height:100%;object-fit:cover}
+.gal figcaption{position:absolute;left:10px;right:10px;bottom:10px;color:#fff;font:600 13px/1.3 var(--body);text-shadow:0 1px 8px rgba(0,0,0,.7)}
+.gal figure::after{content:"";position:absolute;inset:auto 0 0 0;height:55%;background:linear-gradient(0deg,rgba(0,0,0,.55),transparent);pointer-events:none}
+.gal figcaption{z-index:1}
+.gal .g1{grid-column:1/-1;aspect-ratio:934/668}
+.gal .g2{aspect-ratio:3/4}
+.gal .g3{aspect-ratio:3/4}
+.gal .g4{grid-column:1/-1;aspect-ratio:538/295}
+.gal .g5{grid-column:1/-1;aspect-ratio:4/3}
+.gal .g5 img{object-position:50% 40%}
+.gal .g3 img{object-position:50% 30%}
+@media (min-width:900px){
+  .gal{grid-template-columns:repeat(6,1fr);grid-auto-rows:150px;gap:14px}
+  .gal figure{aspect-ratio:auto!important}
+  .gal .g1{grid-column:1/4;grid-row:span 3}
+  .gal .g2{grid-column:4/5;grid-row:span 3}
+  .gal .g3{grid-column:5/7;grid-row:span 3}
+  .gal .g4{grid-column:1/4;grid-row:span 2}
+  .gal .g5{grid-column:4/7;grid-row:span 2}
+}
+
+/* quote builder */
+.quote{background:var(--paper);overflow:hidden}
+.q-wrap{display:grid;gap:40px;align-items:start}
+.q-form{background:#fff;border-radius:24px;padding:clamp(22px,3.5vw,36px);box-shadow:0 1px 0 var(--line),0 30px 60px -40px rgba(23,32,26,.5)}
+.q-step{margin-bottom:24px}
+.q-step > b{display:flex;align-items:center;gap:10px;font:900 22px/1 var(--display);text-transform:uppercase;color:var(--forest);margin-bottom:12px}
+.q-step > b i{font:800 12px/1 var(--body);font-style:normal;width:26px;height:26px;border-radius:50%;display:grid;place-items:center;background:var(--forest);color:var(--cream)}
+.picks{display:flex;flex-wrap:wrap;gap:8px}
+.pick{position:relative}
+.pick input{position:absolute;opacity:0;inset:0;margin:0;cursor:pointer}
+.pick span{display:inline-flex;align-items:center;gap:8px;padding:11px 14px;border-radius:12px;border:1.5px solid var(--line);background:var(--paper);font-weight:600;font-size:15px;cursor:pointer;transition:all .15s ease;user-select:none}
+.pick span::before{content:"";width:16px;height:16px;border-radius:5px;border:1.5px solid #b9ad97;background:#fff;flex:none;transition:all .15s ease}
+.pick input:checked + span{border-color:var(--forest);background:#eaf1e6;color:var(--forest)}
+.pick input:checked + span::before{background:var(--forest) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3E%3Cpath d='M3.5 8.5l3 3 6-7' fill='none' stroke='%23fff' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/12px no-repeat;border-color:var(--forest)}
+.pick input:focus-visible + span{outline:3px solid var(--copper);outline-offset:2px}
+.pick.wint span{border-style:dashed}
+.pick.wint input:checked + span{border-style:solid}
+.f-row{display:grid;gap:12px}
+.f-row label{display:block;font-weight:600;font-size:14px;color:var(--muted);margin-bottom:6px}
+.f-row input,.f-row select,.f-row textarea{width:100%;border:1.5px solid var(--line);border-radius:12px;padding:13px 14px;background:var(--paper);font-size:16px}
+.f-row textarea{min-height:92px;resize:vertical}
+.f-row input:focus,.f-row select:focus,.f-row textarea:focus{outline:none;border-color:var(--forest);background:#fff}
+@media (min-width:560px){.f-row.two{grid-template-columns:1fr 1fr}}
+.q-actions{display:flex;flex-wrap:wrap;gap:10px;margin-top:22px}
+.q-actions .btn{flex:1 1 200px}
+.q-help{font-size:14px;color:var(--muted);margin:12px 0 0}
+
+/* phone */
+.q-phone{display:flex;flex-direction:column;align-items:center;gap:16px}
+.q-phone .cap{font-size:14px;color:var(--muted);text-align:center;max-width:300px;margin:0}
+.callcard,.phone{position:relative;aspect-ratio:390/844;width:min(300px,100%);padding:10px;border-radius:54px;background:linear-gradient(145deg,#4a4f57 0%,#1c1f24 38%,#2c3037 70%,#5a5f66 100%);box-shadow:inset 0 0 0 1.5px rgba(255,255,255,.22),0 0 0 1px #07080a,0 60px 90px -36px rgba(0,0,0,.85);backdrop-filter:none;-webkit-backdrop-filter:none;border:0}
+.callcard::before,.phone::before{content:"";position:absolute;left:-3px;top:22%;width:3px;height:12%;border-radius:2px 0 0 2px;background:#2a2e34;box-shadow:0 -54px 0 0 #2a2e34}
+.callcard::after,.phone::after{content:"";position:absolute;right:-3px;top:27%;width:3px;height:15%;border-radius:0 2px 2px 0;background:#2a2e34}
+.cc-screen,.phone .screen{position:relative;height:100%;border-radius:44px;overflow:hidden;display:flex;flex-direction:column}
+.cc-screen::after,.phone .screen::after{content:"";position:absolute;left:50%;bottom:8px;transform:translateX(-50%);width:36%;height:5px;border-radius:5px;background:rgba(255,255,255,.75)}
+.phone .screen::after{background:rgba(0,0,0,.8)}
+.ios-island{position:absolute;top:11px;left:50%;transform:translateX(-50%);width:32%;height:28px;border-radius:20px;background:#000;z-index:3}
+.ios-status{position:absolute;top:17px;left:30px;right:24px;display:flex;justify-content:space-between;align-items:center;font:600 14px/1 -apple-system,BlinkMacSystemFont,"SF Pro Text",var(--body);color:#fff;z-index:2;letter-spacing:-.01em}
+.ios-status.dark{color:#111}
+.ios-ic{display:inline-flex;gap:5px;align-items:center}
+.ios-ic i{display:block;background:currentColor}
+.ios-ic .sig{width:16px;height:10px;clip-path:polygon(0 70%,22% 70%,22% 100%,0 100%,0 70%,26% 50%,48% 50%,48% 100%,26% 100%,26% 50%,52% 28%,74% 28%,74% 100%,52% 100%,52% 28%,78% 0,100% 0,100% 100%,78% 100%,78% 0)}
+.ios-ic .wifi{width:15px;height:11px;clip-path:polygon(50% 100%,0 30%,15% 15%,50% 0,85% 15%,100% 30%)}
+.ios-ic .bat{width:24px;height:11px;border-radius:3px;background:transparent;border:1.5px solid currentColor;position:relative;opacity:.95}
+.ios-ic .bat::after{content:"";position:absolute;inset:1.5px 4px 1.5px 1.5px;border-radius:1.5px;background:currentColor}
+.phone{position:sticky;top:96px;margin-inline:auto}
+.phone .screen{background:#fff}
+.phone .ph-top{padding-top:52px;padding-bottom:10px;text-align:center;background:#f6f6f8;border-bottom:1px solid #e6e6ea}
+.phone .ph-ava{width:46px;height:46px;border-radius:50%;margin:0 auto 5px;background:var(--forest);display:grid;place-items:center}
+.phone .ph-ava svg{width:30px;height:30px}
+.phone .ph-name{font:600 12px/1.2 -apple-system,BlinkMacSystemFont,var(--body);color:#111}
+.phone .ph-num{font:400 10.5px/1.2 -apple-system,BlinkMacSystemFont,var(--body);color:#8a8a8e;margin-top:2px}
+.phone .thread{flex:1;min-height:0;overflow:hidden;padding:14px 12px;display:flex;flex-direction:column;justify-content:flex-end;gap:6px}
+.phone .stamp-t{font:500 10.5px/1 -apple-system,BlinkMacSystemFont,var(--body);color:#8a8a8e;text-align:center;margin-bottom:4px}
+.phone .bub{align-self:flex-end;max-width:86%;background:#1f8cff;color:#fff;border-radius:18px 18px 5px 18px;padding:9px 12px;font:400 13.5px/1.35 -apple-system,BlinkMacSystemFont,var(--body);white-space:pre-line;word-wrap:break-word}
+.phone .bub.empty{background:#e9e9eb;color:#8a8a8e;border-radius:18px 18px 18px 5px;align-self:flex-start}
+.phone .ph-bar{padding:8px 10px 28px;display:flex;align-items:center;gap:8px;border-top:1px solid #eee}
+.phone .ph-bar span{flex:1;border:1px solid #d6d6da;border-radius:18px;height:32px;display:flex;align-items:center;padding:0 12px;font:400 12.5px/1 -apple-system,BlinkMacSystemFont,var(--body);color:#9a9a9e}
+.phone .ph-bar i{width:28px;height:28px;border-radius:50%;background:#1f8cff;flex:none;display:grid;place-items:center}
+.phone .ph-bar i svg{width:14px;height:14px;color:#fff}
+@media (max-width:420px){.callcard,.phone{width:min(280px,78vw)}.ios-island{width:30%;height:25px}.ios-status{left:24px;right:20px;font-size:13px;top:16px}.ios-ic{gap:3px}.ios-ic .sig{width:14px}.ios-ic .wifi{width:13px}.ios-ic .bat{width:21px}}
+@media (max-width:899px){.phone{position:relative;top:0}}
+@media (min-width:900px){.q-wrap{grid-template-columns:1.2fr .8fr;gap:60px}.q-phone{position:sticky;top:96px}}
+
+/* area */
+.area{background:var(--cream);overflow:hidden}
+.area .wrap{display:grid;gap:36px;align-items:center}
+.area h2{font-size:clamp(2.6rem,6.5vw,4.6rem);color:var(--forest);margin-bottom:14px}
+.area p{color:var(--muted);margin:0;max-width:32em}
+.towns{display:flex;flex-wrap:wrap;gap:10px;list-style:none;margin:0;padding:0}
+.towns li{padding:12px 16px;border-radius:14px;background:#fff;border:1px solid var(--line);font:800 20px/1 var(--display);text-transform:uppercase;letter-spacing:.02em;color:var(--forest)}
+.towns li.home{background:var(--forest);color:var(--cream);border-color:var(--forest);display:inline-flex;align-items:center;gap:10px}
+.towns li.home small{font:700 10.5px/1 var(--body);letter-spacing:.14em;color:var(--leaf)}
+.towns li.wide{background:transparent;border-style:dashed;border-color:#bfae8e;color:var(--bark)}
+@media (min-width:900px){.area .wrap{grid-template-columns:.9fr 1.1fr;gap:70px}}
+
+/* final */
+.final{background:var(--forest);color:var(--cream);text-align:center;overflow:hidden;position:relative}
+.final .rings-bg{position:absolute;left:50%;top:50%;width:900px;height:900px;transform:translate(-50%,-50%);color:rgba(159,207,122,.08);pointer-events:none}
+.final .wrap{position:relative}
+.final h2{font-size:clamp(3rem,10vw,6.4rem);margin:0 auto 18px;max-width:12ch}
+.final h2 em.acc{color:#f1d7ac}
+.final p{color:var(--on-dark);margin:0 auto 28px;max-width:32em}
+.final .cta-row{justify-content:center}
+.final .big-num{display:block;font:900 clamp(40px,9vw,72px)/1 var(--display);color:var(--cream);text-decoration:none;margin-bottom:24px;letter-spacing:.01em}
+
+footer{background:#0c2115;color:var(--on-dark);padding:40px 0 30px;font-size:14.5px}
+footer .wrap{display:grid;gap:22px}
+footer .brand{color:var(--cream)}
+footer .f-meta{display:flex;flex-wrap:wrap;gap:8px 22px}
+footer .f-meta a{text-decoration:none;color:var(--cream);font-weight:600}
+footer .credit{border-top:1px solid rgba(255,255,255,.1);padding-top:18px;display:flex;flex-wrap:wrap;justify-content:space-between;gap:10px;font-size:13.5px}
+footer .credit a{color:var(--leaf);text-decoration:none;font-weight:600}
+@media (min-width:860px){footer .wrap{grid-template-columns:1fr auto;align-items:center}footer .credit{grid-column:1/-1}}
+
+/* sticky mobile call */
+.dock{position:fixed;left:12px;right:12px;bottom:12px;z-index:50;display:flex;gap:8px;padding:8px;border-radius:999px;background:rgba(12,33,21,.92);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);box-shadow:0 18px 40px -16px rgba(0,0,0,.7)}
+.dock .btn{flex:1;min-height:48px;font-size:15.5px;padding:0 14px}
+@media (min-width:860px){.dock{display:none}}
+@media (max-width:859px){body{padding-bottom:78px}}
+
+/* dialog */
+dialog{border:0;border-radius:22px;padding:0;max-width:min(420px,calc(100% - 32px));box-shadow:0 40px 80px -20px rgba(0,0,0,.6)}
+dialog::backdrop{background:rgba(10,24,15,.6);backdrop-filter:blur(3px)}
+.dlg{padding:28px 24px 22px;text-align:center}
+.dlg .ok{width:58px;height:58px;border-radius:50%;background:#eaf1e6;display:grid;place-items:center;margin:0 auto 14px;color:var(--forest)}
+.dlg h3{font-size:30px;color:var(--forest);margin-bottom:10px}
+.dlg p{margin:0 0 18px;color:var(--muted);font-size:15.5px}
+.dlg .cta-row{justify-content:center}
+.dlg .btn{min-height:48px}
+</style>
+<script src="/rf-track.js" defer></script>
+</head>
+<body>
+
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="rings" viewBox="0 0 120 120"><g fill="none" stroke="currentColor" stroke-width="3"><path d="M60 8c29 0 52 22 52 51 0 30-22 53-52 53S8 90 8 60C8 31 31 8 60 8z"/><path d="M59 21c22 0 39 16 39 38 0 23-17 40-39 40S21 82 21 60c0-22 16-39 38-39z"/><path d="M60 34c15 0 26 11 26 26S75 86 59 86 34 75 34 60s11-26 26-26z"/><path d="M60 47c7 0 13 6 13 13s-6 13-13 13-13-6-13-13 6-13 13-13z"/></g><circle cx="60" cy="60" r="4" fill="currentColor"/><path d="M60 8l-3 22 4 14-2 12" fill="none" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></symbol>
+    <symbol id="phone" viewBox="0 0 24 24"><path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2c.3-.3.7-.4 1-.2 1.1.4 2.3.6 3.6.6.6 0 1 .4 1 1V20c0 .6-.4 1-1 1A17 17 0 0 1 3 4c0-.6.4-1 1-1h3.5c.6 0 1 .4 1 1 0 1.3.2 2.5.6 3.6.1.3 0 .7-.2 1l-2.3 2.2z"/></symbol>
+    <symbol id="check" viewBox="0 0 24 24"><path d="M5 12.5l4.2 4.2L19 7" fill="none" stroke="currentColor" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="star" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2.8l2.8 5.8 6.3.9-4.6 4.4 1.1 6.3L12 17.2l-5.6 3 1.1-6.3L2.9 9.5l6.3-.9z"/></symbol>
+    <symbol id="shield" viewBox="0 0 24 24"><path d="M12 3l7 3v5.5c0 4.4-3 8.3-7 9.5-4-1.2-7-5.1-7-9.5V6l7-3z" fill="none" stroke="currentColor" stroke-width="2"/><path d="M8.5 12l2.5 2.5 4.5-5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    <symbol id="leaf" viewBox="0 0 24 24"><path d="M5 19c0-8 5-13 15-14-1 10-6 15-14 15" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M5 19l8-8" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
+    <symbol id="home" viewBox="0 0 24 24"><path d="M4 11l8-7 8 7v9H4z" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"/></symbol>
+  </defs>
+</svg>
+
+<div class="ribbon">Free preview built for Skruck Tree Solutions LLC by Revenue Fuel · Not live yet</div>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Skruck Tree Solutions LLC home">
+      <svg class="mark" style="color:#f6efe2"><use href="#rings"/></svg>
+      <span><b>Skruck</b><small>Tree Solutions LLC</small></span>
+    </a>
+    <nav class="nav-links" aria-label="Main">
+      <a href="#services">Services</a>
+      <a href="#work">Our work</a>
+      <a href="#area">Service area</a>
+      <a href="#quote">Quote</a>
+      <a class="btn btn-main" href="tel:+13306491407"><svg class="ico"><use href="#phone"/></svg><span class="lg">(330) 649-1407</span><span class="sm" hidden>Call</span></a>
+    </nav>
+  </div>
+</header>
+
+<main id="top">
+
+<section class="hero">
+  <div class="hero-bg" role="img" aria-label="A Skruck Tree Solutions climber roped in high in a large tree"></div>
+  <div class="wrap">
+    <div class="hero-copy">
+      <p class="eyebrow">Family-owned · Massillon, OH</p>
+      <h1>Rooted in quality. <em class="acc">Driven by nature.</em></h1>
+      <p class="lede">Safe, efficient, professional tree removal, trimming and structural support for Massillon and the towns around it. And right now: leaf removal and full yard cleanups.</p>
+      <div class="cta-row">
+        <a class="btn btn-main" href="tel:+13306491407"><svg class="ico"><use href="#phone"/></svg>Call (330) 649-1407</a>
+        <a class="btn btn-ghost" href="#quote">Get a quote</a>
+      </div>
+      <ul class="badges">
+        <li><svg><use href="#check"/></svg>13+ years of experience</li>
+        <li><svg><use href="#home"/></svg>Family-owned</li>
+        <li><svg><use href="#shield"/></svg>BBB Accredited</li>
+      </ul>
+    </div>
+    <figure class="hero-card">
+      <img src="assets/climber.jpg" alt="Climber roped in high in the canopy of a large tree" width="538" height="714">
+      <figcaption><b>Up in the canopy</b>Roped in and working from the top</figcaption>
+    </figure>
+  </div>
+</section>
+
+<section class="season" aria-labelledby="season-h">
+  <div class="wrap">
+    <div>
+      <p class="eyebrow">Booking now · late fall</p>
+      <h2 id="season-h">Is your yard <em class="acc">buried</em> in leaves?</h2>
+      <p>Let Skruck get your property looking clean, neat and ready for the season. The same family crew that takes down big trees will clear the leaves and clean up the whole yard.</p>
+      <div class="cta-row" style="margin-top:26px">
+        <a class="btn btn-main" href="#quote" data-pick="leaves">Book a fall cleanup</a>
+      </div>
+    </div>
+    <ul class="now-list">
+      <li><span class="tag">New</span><span><b>Leaf removal</b><span class="s">Get your property looking clean, neat and ready for the season.</span></span></li>
+      <li><span class="tag">New</span><span><b>Full yard cleanups</b><span class="s">More than the leaves: the whole yard, cleaned up.</span></span></li>
+      <li><span class="tag alt">Winter</span><span><b>Snow removal &amp; holiday lighting</b><span class="s">Ask about both when you call.</span></span></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sec" id="services" aria-labelledby="svc-h">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <p class="eyebrow">What we do</p>
+        <h2 id="svc-h">Big trees. <em class="acc">Tight spots.</em> Clean yards.</h2>
+      </div>
+      <p>From one overgrown limb to a full removal, every job is handled safely, efficiently and professionally, and cleanup is part of the job.</p>
+    </div>
+    <div class="svc-grid">
+      <article class="svc">
+        <span class="num">01</span>
+        <div class="ph"><img src="assets/pine-topping.jpg" alt="Tall pines being taken down beside overhead power lines" loading="lazy" style="object-position:50% 30%"></div>
+        <div class="bd"><h3>Tree removal</h3><p>Big or unwanted trees taken down safely and efficiently, even right beside the power lines.</p></div>
+      </article>
+      <article class="svc">
+        <span class="num">02</span>
+        <div class="ph"><img src="assets/climber.jpg" alt="Climber roped in high in a large tree" loading="lazy" style="object-position:55% 8%"></div>
+        <div class="bd"><h3>Trimming &amp; pruning</h3><p>Overgrown limbs cut back and canopies shaped, with a climber roped in up top when the job calls for it.</p></div>
+      </article>
+      <article class="svc">
+        <span class="num">03</span>
+        <div class="ph"><img src="assets/yard-cleanup.jpg" alt="Front yard left clean after a tree job" loading="lazy" style="object-position:30% 60%"></div>
+        <div class="bd"><h3>Leaf &amp; yard cleanups</h3><p>Leaf removal and full yard cleanups that leave your property clean, neat and ready for the season.</p></div>
+      </article>
+      <article class="svc text">
+        <div>
+          <span class="num">04</span>
+          <svg class="rings"><use href="#rings"/></svg>
+        </div>
+        <div class="bd"><h3>Structural support</h3><p>Help for the trees worth saving. Ask Skruck to take a look at a tree you're worried about.</p></div>
+      </article>
+    </div>
+    <div class="more">
+      <span class="lbl">Also ask about:</span>
+      <span class="chip"><i></i>Storm damage to trees</span>
+      <span class="chip"><i></i>Snow removal</span>
+      <span class="chip"><i></i>Holiday lighting</span>
+      <span class="chip"><i></i>Landscaping design &amp; maintenance</span>
+    </div>
+  </div>
+</section>
+
+<section class="sec story" aria-labelledby="story-h">
+  <div class="wrap">
+    <div class="story-ph">
+      <img src="assets/chip-truck.jpg" alt="The Skruck Tree Solutions chip truck and chipper on a removal job" loading="lazy">
+      <div class="stamp"><div><b>13+</b><small>Years of<br>experience</small></div></div>
+    </div>
+    <div>
+      <p class="eyebrow">Who you're hiring</p>
+      <h2 id="story-h">A family name <em class="acc">on the truck.</em></h2>
+      <p>Skruck Tree Solutions is a family-owned tree service proudly serving Massillon and the surrounding areas. With over 13 years of experience, the crew specializes in safe, efficient and professional tree removal, trimming and structural support.</p>
+      <p>Eric Skruck is the owner and operator, so the person you call is the person running the job.</p>
+      <blockquote>“They certainly are small but mighty!”<cite>William R., BBB customer review</cite></blockquote>
+      <div class="facts">
+        <div><b>13+ yrs</b><span>of experience</span></div>
+        <div><b>Family</b><span>owned &amp; operated</span></div>
+        <div><b>BBB</b><span>Accredited Business</span></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sec reviews" aria-labelledby="rv-h">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <p class="eyebrow">What customers say</p>
+        <h2 id="rv-h">Fair price. <em class="acc">Thorough cleanup.</em></h2>
+      </div>
+      <p>Five-star reviews from Skruck's Better Business Bureau profile.</p>
+    </div>
+    <div class="rv-grid">
+      <article class="rv">
+        <div class="stars" aria-label="5 out of 5 stars"><svg><use href="#star"/></svg><svg><use href="#star"/></svg><svg><use href="#star"/></svg><svg><use href="#star"/></svg><svg><use href="#star"/></svg></div>
+        <q>…did an excellent job removing 15 trees from my property.</q>
+        <p>“He was professional, worked quickly, and charged a reasonable price.” … “He also cleaned everything up thoroughly when the job was done.”</p>
+        <div class="who"><i>C</i><span>Curt B.<small>BBB customer review</small></span></div>
+      </article>
+      <article class="rv">
+        <div class="stars" aria-label="5 out of 5 stars"><svg><use href="#star"/></svg><svg><use href="#star"/></svg><svg><use href="#star"/></svg><svg><use href="#star"/></svg><svg><use href="#star"/></svg></div>
+        <q>They certainly are small but mighty!</q>
+        <p>“Our trees were in a difficult-to-access part of our yard and up a big hill.” … “They were professional, timely, and hard working.”</p>
+        <div class="who"><i>W</i><span>William R.<small>BBB customer review</small></span></div>
+      </article>
+    </div>
+    <p class="bbb-note"><svg><use href="#shield"/></svg>Skruck Tree Solutions LLC is a BBB Accredited Business.</p>
+  </div>
+</section>
+
+<section class="sec" id="work" aria-labelledby="work-h">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <p class="eyebrow">Our work</p>
+        <h2 id="work-h">Real jobs. <em class="acc">Real yards.</em></h2>
+      </div>
+      <p>Straight from Skruck's own job photos.</p>
+    </div>
+    <div class="gal">
+      <figure class="g1"><img src="assets/yard-cleanup.jpg" alt="Front yard cleaned up after a tree job, by a ranch house" loading="lazy"><figcaption>Yard left clean after the job</figcaption></figure>
+      <figure class="g2"><img src="assets/climber.jpg" alt="Climber roped in high in a large tree" loading="lazy"><figcaption>Roped in, high in the canopy</figcaption></figure>
+      <figure class="g3"><img src="assets/pine-topping.jpg" alt="Tall pines being worked on beside power lines" loading="lazy"><figcaption>Pines beside the power lines</figcaption></figure>
+      <figure class="g4"><img src="assets/removal-rounds.jpg" alt="Large tree removal cut into rounds on a lawn" loading="lazy"><figcaption>A big removal, cut into rounds</figcaption></figure>
+      <figure class="g5"><img src="assets/chip-truck.jpg" alt="Skruck chip truck and chipper on a job" loading="lazy"><figcaption>Chip truck and chipper on site</figcaption></figure>
+    </div>
+  </div>
+</section>
+
+<section class="sec quote" id="quote" aria-labelledby="q-h">
+  <div class="wrap">
+    <div class="sec-head">
+      <div>
+        <p class="eyebrow">Get a quote</p>
+        <h2 id="q-h">Tell Eric <em class="acc">what you need.</em></h2>
+      </div>
+      <p>Tap what you need and where you are. Your request writes itself, so you can send it in one go. Pricing depends on the job, so ask about pricing when you call or write.</p>
+    </div>
+    <div class="q-wrap">
+      <form class="q-form" id="qform" novalidate>
+        <div class="q-step">
+          <b><i>1</i>What do you need?</b>
+          <div class="picks" id="picks">
+            <label class="pick"><input type="checkbox" value="leaf removal and a full yard cleanup" data-key="leaves" checked><span>Leaf removal &amp; yard cleanup</span></label>
+            <label class="pick"><input type="checkbox" value="a tree removed"><span>Tree removal</span></label>
+            <label class="pick"><input type="checkbox" value="trimming and pruning"><span>Trimming &amp; pruning</span></label>
+            <label class="pick"><input type="checkbox" value="structural support for a tree"><span>Structural support</span></label>
+            <label class="pick"><input type="checkbox" value="help with storm damage"><span>Storm damage</span></label>
+            <label class="pick wint"><input type="checkbox" value="snow removal"><span>Snow removal</span></label>
+            <label class="pick wint"><input type="checkbox" value="holiday lighting"><span>Holiday lighting</span></label>
+          </div>
+        </div>
+        <div class="q-step">
+          <b><i>2</i>Where's the job?</b>
+          <div class="f-row two">
+            <div>
+              <label for="town">Town</label>
+              <select id="town">
+                <option>Massillon</option><option>Canton</option><option>Akron</option><option>North Canton</option><option>Green</option><option>Uniontown</option><option>Alliance</option><option>Canal Fulton</option><option>Elsewhere in Stark County</option>
+              </select>
+            </div>
+            <div>
+              <label for="when">When</label>
+              <select id="when">
+                <option value="as soon as you can">As soon as possible</option>
+                <option value="in the next couple of weeks">Next couple of weeks</option>
+                <option value="whenever it fits your schedule">Whenever it fits</option>
+              </select>
+            </div>
+          </div>
+        </div>
+        <div class="q-step" style="margin-bottom:0">
+          <b><i>3</i>About you</b>
+          <div class="f-row two">
+            <div><label for="nm">Your name</label><input id="nm" type="text" autocomplete="name" placeholder="First name"></div>
+            <div><label for="ph">Your phone</label><input id="ph" type="tel" autocomplete="tel" placeholder="(330) 555-0123"></div>
+          </div>
+          <div class="f-row" style="margin-top:12px">
+            <div><label for="notes">Anything Eric should know? <span style="font-weight:500">(optional)</span></label><textarea id="notes" placeholder="Big oak over the driveway, backyard full of leaves…"></textarea></div>
+          </div>
+        </div>
+        <div class="q-actions">
+          <button class="btn btn-dark" type="submit">Send my request</button>
+          <a class="btn btn-main" href="tel:+13306491407"><svg class="ico"><use href="#phone"/></svg>Or call now</a>
+        </div>
+        <p class="q-help">Prefer to talk it through? Call (330) 649-1407.</p>
+      </form>
+
+      <div class="q-phone">
+        <div class="phone" aria-live="polite" aria-label="Preview of your request message">
+          <div class="screen">
+            <div class="ios-status dark" aria-hidden="true"><span>9:41</span><span class="ios-ic"><i class="sig"></i><i class="wifi"></i><i class="bat"></i></span></div>
+            <div class="ios-island" aria-hidden="true"></div>
+            <div class="ph-top">
+              <div class="ph-ava"><svg style="color:#f6efe2"><use href="#rings"/></svg></div>
+              <div class="ph-name">Skruck Tree Solutions</div>
+              <div class="ph-num">(330) 649-1407</div>
+            </div>
+            <div class="thread">
+              <div class="stamp-t">Today</div>
+              <div class="bub" id="bub"></div>
+            </div>
+            <div class="ph-bar"><span>Text Message</span><i><svg viewBox="0 0 24 24"><path d="M12 19V5M6 11l6-6 6 6" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/></svg></i></div>
+          </div>
+        </div>
+        <p class="cap">Your request, written as you tap.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sec area" id="area" aria-labelledby="area-h">
+  <div class="wrap">
+    <div>
+      <p class="eyebrow">Service area</p>
+      <h2 id="area-h">Home base: <em class="acc">Massillon.</em></h2>
+      <p>Skruck Tree Solutions works across Stark County and into Summit County. If you're nearby and don't see your town, call and ask.</p>
+    </div>
+    <ul class="towns">
+      <li class="home">Massillon <small>HOME BASE</small></li>
+      <li>Canton</li><li>Akron</li><li>North Canton</li><li>Green</li><li>Uniontown</li><li>Alliance</li><li>Canal Fulton</li>
+      <li class="wide">All of Stark County</li>
+    </ul>
+  </div>
+</section>
+
+<section class="sec final" aria-labelledby="final-h">
+  <svg class="rings-bg" aria-hidden="true"><use href="#rings"/></svg>
+  <div class="wrap">
+    <p class="eyebrow" style="color:var(--leaf)">Skruck Tree Solutions LLC</p>
+    <h2 id="final-h">Let's get your yard <em class="acc">ready for winter.</em></h2>
+    <p>Leaves, limbs or a whole tree. One call to a family-owned crew in Massillon.</p>
+    <a class="big-num" href="tel:+13306491407">(330) 649-1407</a>
+    <div class="cta-row">
+      <a class="btn btn-main" href="tel:+13306491407"><svg class="ico"><use href="#phone"/></svg>Call Skruck</a>
+      <a class="btn btn-ghost" href="#quote">Get a quote</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Skruck Tree Solutions LLC">
+      <svg class="mark" style="color:#f6efe2"><use href="#rings"/></svg>
+      <span><b>Skruck</b><small>Tree Solutions LLC</small></span>
+    </a>
+    <div class="f-meta">
+      <a href="tel:+13306491407">(330) 649-1407</a>
+      <span>Massillon, OH</span>
+      <span>Family-owned tree service</span>
+    </div>
+    <div class="credit">
+      <span>© Skruck Tree Solutions LLC · Rooted in Quality, Driven by Nature!</span>
+      <a href="https://revenuefuel.ai">Powered by revenuefuel.ai</a>
+    </div>
+  </div>
+</footer>
+
+<div class="dock">
+  <a class="btn btn-main" href="tel:+13306491407"><svg class="ico"><use href="#phone"/></svg>Call now</a>
+  <a class="btn btn-ghost" href="#quote">Get a quote</a>
+</div>
+
+<dialog id="dlg">
+  <div class="dlg">
+    <div class="ok"><svg width="28" height="28"><use href="#check"/></svg></div>
+    <h3>This is a preview</h3>
+    <p>Once this site is live, your request goes straight to Skruck Tree Solutions. For now, nothing was sent. To reach Eric today, call (330) 649-1407.</p>
+    <div class="cta-row">
+      <a class="btn btn-main" href="tel:+13306491407"><svg class="ico"><use href="#phone"/></svg>Call now</a>
+      <button class="btn btn-dark" type="button" id="dlg-close">Close</button>
+    </div>
+  </div>
+</dialog>
+
+<script>
+(function(){
+  var form=document.getElementById('qform'), bub=document.getElementById('bub');
+  var picks=[].slice.call(document.querySelectorAll('#picks input'));
+  var town=document.getElementById('town'), when=document.getElementById('when');
+  var nm=document.getElementById('nm'), ph=document.getElementById('ph'), notes=document.getElementById('notes');
+  function list(a){ if(a.length<2) return a.join(''); return a.slice(0,-1).join(', ')+(a.length>2?',':'')+' and '+a[a.length-1]; }
+  function render(){
+    var chosen=picks.filter(function(p){return p.checked}).map(function(p){return p.value});
+    var name=nm.value.trim(), t=town.value;
+    var where=t.indexOf('Elsewhere')===0?'in Stark County':'in '+t;
+    if(!chosen.length){ bub.className='bub empty'; bub.textContent='Tap a service to start your request…'; return; }
+    bub.className='bub';
+    var msg='Hi Eric, '+(name?'this is '+name+' ':'I\'m ')+where+'. I\'d like a quote for '+list(chosen)+', '+when.value+'.';
+    var n=notes.value.trim(); if(n) msg+='\n\n'+n;
+    var p=ph.value.trim(); if(p) msg+='\n\nYou can reach me at '+p+'.';
+    bub.textContent=msg;
+  }
+  [town,when,nm,ph,notes].forEach(function(el){el.addEventListener('input',render);el.addEventListener('change',render)});
+  picks.forEach(function(el){el.addEventListener('change',render)});
+  render();
+  var dlg=document.getElementById('dlg');
+  form.addEventListener('submit',function(e){e.preventDefault(); if(dlg.showModal) dlg.showModal(); else alert('This is a preview. Nothing was sent.');});
+  document.getElementById('dlg-close').addEventListener('click',function(){dlg.close()});
+  dlg.addEventListener('click',function(e){if(e.target===dlg) dlg.close()});
+  document.querySelectorAll('[data-pick="leaves"]').forEach(function(a){a.addEventListener('click',function(){var l=document.querySelector('#picks input[data-key="leaves"]'); if(l&&!l.checked){l.checked=true;render();}})});
+})();
+</script>
+</body>
+</html>

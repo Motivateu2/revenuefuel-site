@@ -1,0 +1,16 @@
+Skruck Tree Solutions LLC preview: image credits
+
+REAL (Skruck Tree Solutions LLC Facebook Page, facebook.com/p/Skruck-Tree-Solutions-61576657651453/, saved 2026-11-24 to
+~/revenue-fuel/website-ads/desk/photos/skruck-tree-solutions/). The business's own photos; confirm use with the owner before launch.
+  assets/climber.jpg         climber-high-in-canopy.jpg, uncropped (538x714). Hero, trimming card, gallery, og.jpg.
+  assets/pine-topping.jpg    pine-topping-near-lines.jpg, cropped to 360x490 to remove the car window frame/mirror. Removal card, gallery.
+  assets/yard-cleanup.jpg    yard-after-removal-stump-ground.jpg, uncropped (934x668). Cleanup card, gallery.
+  assets/chip-truck.jpg      chip-truck-and-chipper-job.jpg, top sky cropped (536x544). Story section, gallery.
+  assets/removal-rounds.jpg  big-removal-log-rounds.jpg, cropped to the log rounds (538x295) so the U-Haul truck is removed. Gallery.
+  assets/og.jpg              1200x630 share image built from climber-high-in-canopy.jpg + their name/phone set in Big Shoulders Display / DM Sans.
+  Logo: none available; growth-ring wordmark drawn in SVG/CSS for this preview.
+
+STOCK (Unsplash License, https://unsplash.com/license). NOT Skruck's work; used only as the leaf-season section background, never in the gallery.
+  assets/leaves-stock.jpg    "a large tree with lots of leaves on the ground" by Ellen Zhang
+                             https://unsplash.com/photos/a-large-tree-with-lots-of-leaves-on-the-ground-YwlgKRaQXe4
+                             (images.unsplash.com/photo-1692955523298-c361598bee0f), 1600px

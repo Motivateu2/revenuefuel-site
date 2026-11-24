@@ -1,0 +1,16 @@
+Image credits: Marlboro Tree Source LLC preview
+
+All photos are the business's own, saved from their Facebook Page
+(https://www.facebook.com/marlborotreesource/) on 2026-11-24 into
+~/revenue-fuel/website-ads/desk/photos/marlboro-tree-source/. No stock photos are used.
+
+assets/spider-lift.jpg  <- spider-lift-street-removal.jpg (unchanged). Hero, gallery, og.jpg.
+assets/crew.jpg         <- crew-with-giant-trunk.jpg (unchanged). Crew section, gallery.
+assets/climber.jpg      <- climber-topping-tree.jpg (unchanged). Services feature card, gallery.
+assets/big-rounds.jpg   <- big-rounds-and-stihl.jpg (unchanged). Services feature card, gallery.
+assets/trucks.jpg       <- chip-truck-and-bucket-truck.jpg; licence-plate area blurred. Call section.
+assets/og.jpg           1200x630 social card rendered from spider-lift.jpg + their name/tagline in type.
+
+Logo mark: a simple tree-in-circle drawn in SVG for this preview, inspired by (not copied from)
+their Facebook banner mark (logo-banner.jpg). The banner's forest background is not used.
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL Open Font License).

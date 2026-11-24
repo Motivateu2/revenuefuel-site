@@ -1,0 +1,14 @@
+Zak's Lawn Care LLC preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN, saved from the Zaks Lawncare LLC Facebook Page
+(https://www.facebook.com/profile.php?id=61559481213865) on 2026-11-24 into desk/photos/zaks-lawncare/. Confirm use with Zak before launch.
+  assets/leaf-cleanup.jpg   Crew vacuuming a long leaf row into their trailer (leaf-cleanup-vac-trailer.jpg, unchanged)
+  assets/leaf-vac-rig.jpg   Their dump trailer with leaf vacuum + pickup (leaf-vac-trailer-rig.jpg, bottom cropped to remove the trailer plate)
+  assets/drive-walls.jpg    New gravel drive between two block retaining walls (gravel-drive-retaining-walls.jpg, sides cropped to remove Facebook carousel arrows)
+  assets/wall-beds.jpg      Stepped block retaining wall + planted beds (block-retaining-wall-beds.jpg, unchanged)
+  assets/patio-mulch.jpg    Gravel fire-pit patio with timber edging + fresh mulch border (gravel-patio-mulch-border.jpg, unchanged)
+  assets/mulch-beds.jpg     Front beds mulched (fresh-mulch-front-beds.jpg, cropped to the top band so the house number on the lamp post is not shown)
+  assets/og.jpg             1200x630 link-preview card made from drive-walls.jpg + name set in Archivo
+
+Logo: pine badge + wordmark drawn in SVG/CSS (their real badge was too small to save).
+No stock photos used.

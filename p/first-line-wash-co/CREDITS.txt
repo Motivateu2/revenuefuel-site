@@ -1,0 +1,25 @@
+First Line Wash Co. LLC preview: image credits
+================================================
+
+THEIR OWN PHOTOS (saved from the First Line Wash Co. LLC Facebook Page,
+https://www.facebook.com/people/First-Line-Wash-Co-LLC/61578228521116/ , collected 2026-11-24
+into ~/revenue-fuel/website-ads/desk/photos/first-line-wash-co/; resized/re-saved as JPG only, no edits)
+  assets/deck-and-stairs-cleaned.jpg   hero, Decks card, gallery, OG image
+  assets/chimney-before.jpg            before/after slider (before)
+  assets/chimney-after.jpg             before/after slider (after), Chimneys card, gallery
+  assets/brick-walkway-backyard.jpg    Patios card, "Who shows up" photo, gallery
+  assets/pool-deck-washed.jpg          (source file: pool-deck-washed-bare-wood.jpg) Washed/Finished toggle, gallery
+  assets/pool-deck-finished.jpg        (source file: pool-deck-stained-finished.jpg) Washed/Finished toggle
+
+STOCK (Unsplash License, used only as the Service Area background, never in the gallery)
+  assets/stl-arch-unsplash.jpg         Faruk Ipek (@farukipekcom), Gateway Arch over the Mississippi at sunset
+                                       https://unsplash.com/photos/vM63lY6F77s
+                                       (images.unsplash.com/photo-1786674270040-8d8cd21c3341)
+                                       Edited: cropped off the bottom (removes a "Helicopter Tours" barge) and
+                                       blurred a small office-building logo near the arch's right leg, so no
+                                       other company's name shows.
+
+GENERATED
+  assets/og.jpg                        1200x630 share image rendered with headless Chrome from
+                                       deck-and-stairs-cleaned.jpg + the business name, phone and area.
+  Logo mark (water drop + gold double stripe) is an SVG drawn for this preview; the business has no logo online.

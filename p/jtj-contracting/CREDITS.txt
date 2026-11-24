@@ -1,0 +1,17 @@
+JTJ Contracting LLC preview: image credits
+
+All photos are JTJ Contracting LLC's own project photos, saved from their Facebook Page
+(https://www.facebook.com/p/JTJ-Contracting-LLC-100077516724062/) on 2026-11-24.
+Source folder: ~/revenue-fuel/website-ads/desk/photos/jtj-contracting/
+
+assets/deck-composite.jpg   <- composite-deck-black-rail-pool.jpg (hero)
+assets/deck-stairs.jpg      <- deck-stairs-black-aluminum-rail.jpg (hero inset on desktop, stairs card, final call-to-action background)
+assets/deck-wraparound.jpg  <- wraparound-deck-with-stairs.jpg (new decks card)
+assets/steps-vinyl.jpg      <- new-steps-white-vinyl-rail.jpg (porches & steps card)
+assets/shed.jpg             <- custom-shed-navy.jpg (sheds card)
+assets/bathroom.jpg         <- basement-bathroom-hex-tile.jpg, bottom 10% cropped to remove unfinished floor (bathroom card)
+assets/og.jpg               <- composed 1200x630 from deck-composite.jpg + deck-stairs.jpg with the business name set over a charcoal panel
+
+No stock photos used.
+Deck-repair "footing" drawing and the JTJ monogram are drawn in SVG/CSS for this preview.
+Fonts: Archivo, Inter, IBM Plex Mono (Google Fonts, SIL Open Font License).

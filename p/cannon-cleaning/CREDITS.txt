@@ -1,0 +1,20 @@
+Cannon Cleaning preview — image credits
+
+ALL IMAGES ARE CANNON CLEANING'S OWN (saved from their Facebook Page, facebook.com/cannoncleaningllc, on 2026-11-25;
+source copies in ~/revenue-fuel/website-ads/desk/photos/cannon-cleaning/). Confirm use with the owner before launch.
+No stock photos are used anywhere on the page.
+
+  assets/stairs.jpg            Freshly vacuumed carpeted staircase (hero). From vacuumed-carpet-stairs.jpg: cropped left edge to remove a
+                               sneaker box; two small stray items on one step retouched out (carpet patched from the same step).
+  assets/floor-before.jpg      Top half of parquet-floor-before-after.jpg (their collage, "Before" label is theirs, burned in)
+  assets/floor-after.jpg       Bottom half of the same collage ("After" label is theirs, burned in)
+  assets/tub-before.jpg        Top half of bathtub-before-after.jpg
+  assets/tub-after.jpg         Bottom half of bathtub-before-after.jpg
+  assets/sprayer-before.jpg    Left half of faucet-sprayer-before-after.jpg
+  assets/sprayer-after.jpg     Right half of faucet-sprayer-before-after.jpg
+  assets/walls-before-after.jpg  wall-scuffs-before-after.jpg, used as-is (their labels)
+  assets/logo-mark.png         Circle icon cropped from their logo (logo.jpg), circular mask
+  assets/og.jpg                1200x630 share image: their logo mark + parquet before/after collage, name set in Fredoka (OFL)
+
+Fonts: Fredoka and Plus Jakarta Sans (Google Fonts, SIL Open Font License).
+Icons: simple inline SVG drawn for this page.

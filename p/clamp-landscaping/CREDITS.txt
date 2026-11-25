@@ -1,0 +1,18 @@
+Clamp Landscaping and Lawn Care, LLC preview — image credits
+
+REAL (Clamp Landscaping and Lawn Care, LLC Facebook Page,
+https://www.facebook.com/p/Clamp-Landscaping-and-Lawn-Care-LLC-61565263378346/ , saved 2026-11-25)
+— the owner's own photos of one fall leaf-cleanup job; confirm use with Michael before launch.
+Cropped to remove Facebook's viewer buttons and parked cars; not otherwise edited.
+  assets/after-side-yard.jpg     AFTER: side yard, orange fall tree, mulched beds   (from after-side-yard-fall-color.jpg)
+  assets/after-front-lawn.jpg    AFTER: clean front lawn of the brick colonial       (from after-lawn-brick-colonial.jpg)
+  assets/before-front-yard.jpg   BEFORE: same house, lawn buried in leaves           (from before-full-house-leaves.jpg)
+  assets/before-curbside.jpg     BEFORE: leaves along the curb and lawn             (from before-leaves-curbside.jpg)
+  assets/og.jpg                  1200x630 link-preview image: after-side-yard.jpg with the business name set over it
+
+Logo: "Clamp" leaf wordmark rebuilt in HTML/CSS/SVG (Archivo + an SVG leaf) from the wordmark on their Facebook graphics.
+Their graphics' artwork appears AI-generated and is NOT used anywhere; only the text on them.
+
+STOCK: none. Every photo on the page is Clamp's own.
+Icons: hand-drawn inline SVG, no third-party icon sets.
+Fonts: Google Fonts (Archivo, DM Sans, Playfair Display), SIL Open Font License.

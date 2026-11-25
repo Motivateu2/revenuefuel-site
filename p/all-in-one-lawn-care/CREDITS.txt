@@ -1,0 +1,15 @@
+All In One Lawn Care LLC preview — image credits
+
+REAL (All In One Lawn Care LLC Facebook Page, https://www.facebook.com/allinonelawn2017, saved 2026-11-25) — the owner's own photos; confirm use with the owner before launch:
+  assets/lights-warm-white-colonial.jpg     Brick colonial, warm-white roofline lights, snow (from snowy-colonial-warm-white-lights.jpg; cropped right edge to remove a parked car)
+  assets/lights-ranch-roofline-trees.jpg    Brick ranch, white roofline + trees wrapped in blue/red/green (from brick-ranch-white-roofline-trees.jpg)
+  assets/lights-multicolor-split-level.jpg  Split-level, multicolor roofline + stair rails, snow (from snowy-split-level-multicolor.jpg)
+  assets/lights-programmable-roofline.jpg   Color-changing roofline lighting, blue to pink (from permanent-rgb-roofline-blue-pink.jpg)
+  assets/lights-multicolor-two-story.jpg    Two-story brick home, multicolor roofline + lit trees (from brick-two-story-multicolor.jpg; older, low-res)
+  assets/lawn-striped-mountain-view.jpg     Striped lawn with mountain view (from striped-lawn-mountain-view.jpg; cropped top to remove Facebook viewer icons and bottom to remove a fence-post cap)
+  assets/og.jpg                             1200x630 share image built from lights-warm-white-colonial.jpg with the business name set on it
+
+STOCK: none. No Unsplash or other third-party images are used.
+
+Logo: none found. The small bulb mark in the nav is a generic icon drawn in SVG for the preview, not their logo.
+Decorative light string, mountain ridge and icons: drawn in CSS/SVG for this page.

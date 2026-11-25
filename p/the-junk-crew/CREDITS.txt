@@ -1,0 +1,16 @@
+The Junk Crew preview: image credits
+
+All photos on this page are The Junk Crew's own, saved from their Facebook Page
+(https://www.facebook.com/people/The-Junk-Crew/61589320153319/) and provided in
+~/revenue-fuel/website-ads/desk/photos/the-junk-crew/. No stock photos are used.
+
+assets/before-living-room.jpg  from hoard-BEFORE-living-room.jpg. Cropped to remove the person at the left edge; box brand names (Oster, Samsung, Merrell, Kromex and others) blurred.
+assets/after-living-room.jpg   from cleared-living-room-hardwood.jpg (unchanged).
+assets/before-stairs.jpg       from cluttered-stairs-BEFORE.jpg. Cropped to remove Facebook viewer UI (logo, close and zoom icons).
+assets/cleared-kitchen.jpg     from cleared-kitchen.jpg. Papers and magnets on the fridge blurred.
+assets/cleared-basement.jpg    from cleared-basement-room.jpg (unchanged).
+assets/hero-blur.jpg           blurred copy of cleared-living-room-hardwood.jpg (desktop hero background).
+assets/og.jpg                  1200x630 share image built from before-living-room.jpg + after-living-room.jpg with the name set in Archivo / Permanent Marker.
+
+Logo mark (dumpster with orange splash) is a simple SVG drawn for this preview after the colors/idea of their flyer logo; the flyer image itself is NOT used.
+Fonts: Archivo, DM Sans, Permanent Marker (Google Fonts, SIL OFL).

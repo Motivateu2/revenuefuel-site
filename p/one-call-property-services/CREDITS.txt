@@ -1,0 +1,32 @@
+One Call Property Services preview — image credits
+
+REAL (One Call Property Services' own Facebook Page, https://www.facebook.com/p/One-Call-Property-Services-61567748914762/,
+saved 2026-11-25 to ~/revenue-fuel/website-ads/desk/photos/one-call-property-services/) — owner's photos; confirm use with the owner before launch.
+Facebook viewer icons (close X, "f" badge, zoom) were cropped off the top of every photo.
+  assets/deck-glass-railing.jpg  <- new-deck-glass-railing.jpg (top 60px cropped). New deck with green-framed glass railing.
+                                    Used: hero background, "Our work" deck feature, og.jpg.
+  assets/deck-framing.jpg        <- deck-rebuild-framing-below.jpg (top 60px + bottom debris cropped). Underside of the rebuilt deck.
+                                    Used: "Repairs & remodels" service card.
+  assets/backyard-sunroom.jpg    <- backyard-sunroom-lawn.jpg (top 60px cropped). Clean backyard by a sunroom/deck.
+                                    Used: "Lawn care & cleanups" service card.
+  assets/cleanup-before.jpg      <- spring-cleanup-BEFORE-backyard.jpg (top 140px cropped, which also removes their burned-in "Before" label;
+                                    the page shows its own "Before" tag). Used: before/after pair.
+  assets/cleanup-after.jpg       <- spring-cleanup-AFTER-backyard.jpg (top 140px cropped, removes their "After" label). Used: before/after pair.
+                                    Note: their before and after are the same backyard shot from different spots; the page says so.
+  assets/og.jpg                  Built for this preview (1200x630) from deck-glass-railing.jpg + their name, rebuilt logo mark and phone set in type.
+
+LOGO: the house-roof outline + grass line mark and "ONE CALL / Property Services" lockup are rebuilt in SVG/HTML from the logo described
+in facebook-notes.md (white roof outline, lime "Property Services", grass line). Not their original artwork file.
+
+NOT USED: their gutter-cleaning graphic (AI-generated man with a branded blower) and their Nov 5 post graphic (labelled AI by Facebook).
+Only the gutter graphic's text was used.
+
+STOCK (Unsplash License, https://unsplash.com/license) — NOT One Call's work. Mood background only, never in the gallery or on a service card.
+  assets/snow-night.jpg   Artem Balashevsky, snow-covered parking lot at night with street lights
+                          https://unsplash.com/photos/a-snow-covered-parking-lot-at-night-with-street-lights-lXmWTFFKgnc
+                          (images.unsplash.com/photo-1701809922861-6f650117c966). Darkened background of the "Right now in Madison"
+                          (gutters + snow) section. No company names, logos, lettered vehicles or uniforms readable in frame.
+                          Swap for a real One Call snow job photo when they have one.
+
+FONTS (Google Fonts, SIL Open Font License): Archivo, Inter.
+ICONS: drawn inline in SVG for this page.

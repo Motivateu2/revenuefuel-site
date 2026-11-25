@@ -1,0 +1,20 @@
+Patriotic Lawns, LLC preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN (saved from the Patriotic Lawns Facebook Page,
+https://www.facebook.com/p/Patriotic-Lawns-100063775710552/, provided in
+~/revenue-fuel/website-ads/desk/photos/patriotic-lawns/ on 2026-11-25). Confirm use with the owner before launch.
+
+  assets/hero.jpg        Striped backyard lawn under blue sky          (from striped-backyard-lawn.jpg, unchanged, 705x837)
+  assets/hero-m.jpg      Same photo, top sky trimmed for the phone hero (from striped-backyard-lawn.jpg, cropped 705x747)
+  assets/front-lawn.jpg  Diagonal-striped front lawn                    (from striped-front-lawn.jpg; house number blurred,
+                                                                        car bumper and foreground curb cropped out, 572x590)
+  assets/front-bed.jpg   Front bed: trimmed shrubs, fresh mulch, paver edging (from front-bed-mulch-shrubs.jpg)
+  assets/before.jpg      Side bed BEFORE: old mulch, weeds              (from side-bed-BEFORE-overgrown.jpg)
+  assets/after.jpg       Same side bed AFTER: fresh mulch, paver edging (from side-bed-AFTER-mulch-edging.jpg)
+  assets/bed-prep.jpg    Graded soil strip along the house              (from bed-prep-graded-soil.jpg)
+  assets/og.jpg          1200x630 link card: hero.jpg + name set in Archivo/Playfair Display on navy (made for this preview)
+
+NO STOCK PHOTOS are used.
+Logo mark (navy tile, white star, red bars), the gutter and planting line drawings, and the
+mower-stripe background pattern are drawn in SVG/CSS for this preview; they are not the business's logo.
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL Open Font License).

@@ -1,0 +1,18 @@
+Tahj's Lawn Care & Landscaping preview: image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN (saved from the Tahj's Lawn Care & Landscaping Facebook Page,
+facebook.com/people/Tahjs-Lawn-Care-Landscaping/100088020843305/, 2026-11-25; originals in
+~/revenue-fuel/website-ads/desk/photos/tahjs-lawn-care/). Confirm use with Tahj before launch.
+  assets/gate-dusk.jpg       Stone entry pillars, walls & beds lit at dusk (from lit-gate-pillars-dusk.jpg; Facebook viewer icons cropped off the top)
+  assets/stone-bed.jpg       Curved stone flowerbed with lighting (from stone-wall-lighting-flowerbed.jpg; top cropped)
+  assets/entry-drive.jpg     Entry drive, pillars & flowerbed at dusk (from lit-entry-pillars-drive.jpg; top cropped)
+  assets/dozer-operator.jpg  Man standing on their yellow dozer in the woods (from dozer-with-operator.jpg; not named on the page)
+  assets/dozer-trail.jpg     Dozer cutting a trail through woods (from dozer-clearing-trail.jpg)
+  assets/graded-lot.jpg      Graded lot around a new house (from new-house-graded-lot.jpg)
+  assets/snow-lot.jpg        Skid steer clearing an icy lot (from skid-steer-snow-lot.jpg; displayed zoomed so the background business sign is out of frame)
+  (skid-steer-trailer-snow.jpg was not used: only 253px wide.)
+  assets/og.jpg              1200x630 share image: gate-dusk.jpg with the business name set on it (rendered locally)
+
+STOCK: none. No Unsplash or other third-party images are used.
+Logo: a simple green leaf mark drawn in SVG in their colors; not their actual logo file.
+Fonts: Big Shoulders Display + Archivo (Google Fonts).

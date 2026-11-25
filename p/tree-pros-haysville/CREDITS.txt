@@ -1,0 +1,18 @@
+Tree Pros (Haysville, KS) preview: image credits
+
+All photos on this page belong to Tree Pros. They were saved from the business's own Facebook Page
+(https://www.facebook.com/treepros) on 2026-11-25 and supplied in
+~/revenue-fuel/website-ads/desk/photos/tree-pros-haysville/. Facebook viewer icons were cropped off; nothing else was altered.
+
+assets/lift-and-tractor.jpg         <- lift-and-tractor-big-tree.jpg (unchanged). Hero, and the photo half of og.jpg.
+assets/alley-before.jpg             <- before-after-alley-garage.jpg, left (Before) half, cropped above the burned-in label. Slider.
+assets/alley-after.jpg              <- before-after-alley-garage.jpg, right (After) half, cropped above the burned-in label. Slider.
+assets/lot-before.jpg               <- before-after-commercial-trim.jpg, left half, cropped above the label. Slider.
+assets/lot-after.jpg                <- before-after-commercial-trim.jpg, right half, cropped above the label. Slider.
+assets/tight-squeeze.jpg            <- tight-squeeze-collage.jpg (white border trimmed; their burned-in text kept). "Hard ones" section.
+assets/side-yard-before-after.jpg   <- before-after-side-yard-cleanup.jpg (FB icons and white border trimmed). "Hard ones" section.
+assets/og.jpg                       <- 1200x630 share card made for this preview from lift-and-tractor.jpg + set type.
+
+Stock images: none used.
+Logo mark: a simple tree icon drawn for this preview (their real logo was not available as a file and was not copied).
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL Open Font License).

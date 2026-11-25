@@ -1,0 +1,26 @@
+Red Bull Lawn Care & Maintenance LLC preview: image credits
+
+THEIR OWN (saved from their Facebook Page, facebook.com/p/Red-Bull-Lawn-Care-Maintenance-LLC-61559372601241/, on 2026-11-25;
+source copies in ~/revenue-fuel/website-ads/desk/photos/red-bull-lawn-care/). Confirm use with Peter before launch.
+  assets/brush-haul.jpg    from brush-haul-trailer.jpg. Top 46px cropped off (Facebook viewer buttons); the trailer's
+                           license plate softly blurred. Used: hero, gallery, og.jpg.
+  assets/hedge-trim.jpg    from hedge-trimming-crew.jpg (unchanged). Used: shrub card, story, gallery.
+  assets/fall-cleanup.jpg  from blower-cleanup-crew.jpg (unchanged). Used: clean-up card, gallery.
+  assets/zero-turn.jpg     from zero-turn-mowing.jpg. Top 120px cropped and the gas-station canopy/storefront behind the
+                           mower blurred so no other brand shows. Used: mowing card, story, gallery.
+  assets/truck-logo.jpg    from truck-logo-trailer.jpg, cropped to the truck (trailer license plate, traffic signals and
+                           bagged-product labels removed). Used: story section.
+  assets/logo-badge.jpg    their red bull logo, cropped from their own business-card flyer (owner-card-flyer.jpg).
+                           Used: nav, badges, favicon, og.jpg.
+  assets/og.jpg            built for link previews (1200x630) from brush-haul.jpg + logo-badge.jpg + their name and phone.
+
+NOT USED as imagery: snow-removal-flyer.jpg and owner-card-flyer.jpg (facts only; the flyer's plow photo is not theirs).
+
+STOCK (Unsplash License, https://unsplash.com/license). NOT Red Bull's work; background of the snow section only:
+  assets/snow-night.jpg    Artem Balashevsky, snow-covered parking lot at night with street lights
+                           https://unsplash.com/photos/a-snow-covered-parking-lot-at-night-with-street-lights-lXmWTFFKgnc
+                           (images.unsplash.com/photo-1701809922861-6f650117c966), cropped and darkened.
+                           No company names, logos, vehicle lettering or uniforms in frame.
+                           Swap for a real Red Bull snow job photo when they have one.
+
+Map in "Where we work": drawn in SVG for this page (schematic, not to scale).

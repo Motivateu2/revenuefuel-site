@@ -1,0 +1,14 @@
+Rootbeer Lawn Care preview: image credits
+
+All photos are Rootbeer Lawn Care's own, saved from their Facebook Page
+https://www.facebook.com/profile.php?id=61578962863418 (collected 2026-11-25).
+Edits: Facebook viewer icons cropped off the top edge; mailbox house number painted out (white-cape-cod-lawn.jpg).
+
+assets/striped-lawn-truck-trailer.jpg  (theirs) hero, gallery, og.jpg
+assets/big-rural-lawn-sky.jpg          (theirs) story, gallery
+assets/striped-side-yard-fence.jpg     (theirs) gallery
+assets/tree-ring-fresh-soil.jpg        (theirs) gallery
+assets/white-cape-cod-lawn.jpg         (theirs) gallery, CTA band
+assets/og.jpg                          built from striped-lawn-truck-trailer.jpg + set type
+
+No stock photos used. Icons are hand-drawn inline SVG. Fonts: Google Fonts (Bricolage Grotesque, Inter, Shrikhand, Playfair Display), SIL Open Font License.

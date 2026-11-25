@@ -1,0 +1,14 @@
+Image credits: Jewell Home Repair And Construction preview
+
+All photos are the business's own, saved from its Facebook Page
+(https://www.facebook.com/p/Jewell-Home-Repair-And-Construction-61579623773628/)
+into ~/revenue-fuel/website-ads/desk/photos/jewell-home-repair/ on 2026-11-25.
+
+assets/vaulted-ceiling-drywall.jpg  <- vaulted-ceiling-drywall-scaffold.jpg (cropped on the right to remove a second person in the background). Used in hero, Our Work, og.jpg.
+assets/patio-before.jpg             <- patio-ceiling-BEFORE-damage.jpg. Before/after toggle.
+assets/patio-after.jpg              <- patio-ceiling-AFTER-repaired.jpg. Before/after toggle.
+assets/bathroom-refresh.jpg         <- bathroom-black-vanity-door.jpg. Our Work.
+assets/og.jpg                       <- built by Revenue Fuel from vaulted-ceiling-drywall.jpg + set type (1200x630).
+
+Not displayed: winter-specials-graphic.jpg (text source only; its house/phone artwork looks AI/stock).
+No stock photography used. Icons and the house mark are simple inline SVG drawn for this page.

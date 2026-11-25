@@ -1,0 +1,13 @@
+AM Snow Removal & Lawn Care Services preview — image credits
+
+REAL (AM Snow Removal & Lawn Care Services' own Facebook Page, https://www.facebook.com/AMSnowLawnCareAnkeny/, saved 2026-11-25) — owner's photos; confirm use with the owner before launch:
+  assets/plow-cab-view-snow.jpg       View from the truck cab: red plow blade pushing snow in a square with holiday lights (hero, snow card, OG image)
+  assets/plow-trucks-lineup.jpg       Three white plow trucks with plows in a parking lot (plow trucks card, closing call band)
+  assets/branded-skid-steer-wrap.jpg  Their AM-wrapped track loader (track loader card)
+  assets/crew-team-photo.jpg          The crew in safety-yellow shirts under their AM sign (Our crew section)
+  assets/og.jpg                       1200x630 share image built from plow-cab-view-snow.jpg + their name set in type
+
+LOGO: the "AM" mark (grass-green A, icy-blue M, grass blades) is rebuilt in HTML/CSS/SVG from the sign in crew-team-photo.jpg. It is not their original artwork file.
+
+STOCK: none. No stock photos are used anywhere on the page.
+Fonts: Archivo + Inter (Google Fonts, SIL Open Font License).

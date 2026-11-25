@@ -1,0 +1,16 @@
+Boozer's Tree Service preview: image credits
+
+THEIR OWN PHOTOS (from the Boozer's Tree Service Facebook Page, https://www.facebook.com/BoozersTreeService, saved by the desk 2026-11-25; cropped out of their own graphics). Resized/upscaled for web, no other edits.
+- assets/spider-lift-pine.jpg   red spider lift beside a big pine (hero + gallery); source 800x281, upscaled to 1600 wide
+- assets/finished-yard.jpg      finished backyard, sod/mulch/fence (gallery)
+- assets/lift-tall-pines.jpg    lift set up under tall pines (gallery thumbnail; source 156x235)
+- assets/spar-takedown.jpg      tall trunk coming down in sections (gallery thumbnail; source 156x235)
+- assets/stump-gone.jpg         lawn where the stump was (gallery thumbnail; source 156x235)
+- assets/og.jpg                 link-preview card built from spider-lift-pine.jpg + their name set in type
+
+STOCK (Unsplash License, https://unsplash.com/license). NOT Boozer's work; mood background only (late-fall section and quote-builder backdrop), never in the gallery. No company names, logos, vehicles or uniforms in frame.
+- assets/pines-mood.jpg         sunlit stand of tall trunks in a forest
+                                images.unsplash.com/photo-1425913397330-cf8af2ff40a1 (1600px); photographer page could not be fetched (Unsplash blocks automated fetches)
+
+Logo mark: a simple red square with a white pine, drawn for this preview (their real logo contains a U.S. Marine Corps emblem, which is intentionally NOT reproduced).
+Fonts: Big Shoulders Display, Big Shoulders Stencil Display, Inter (Google Fonts, OFL).

@@ -1,0 +1,12 @@
+Bonilla Paints LLC preview — image credits
+
+All photos are the business's own, saved from their Facebook Page (https://www.facebook.com/BonillapaintsLlc) on 2026-11-25:
+- assets/tudor-front.jpg      (from tudor-cream-dark-trim-front.jpg; Facebook UI cropped off) — hero + gallery
+- assets/tudor-side.jpg       (from tudor-dark-siding-side.jpg; Facebook UI cropped off) — gallery
+- assets/tan-in-progress.jpg  (from tan-house-in-progress-masked.jpg; Facebook UI cropped off) — gallery
+- assets/ladders-gable.jpg    (from painters-ladders-blue-gable.jpg) — "ladders" feature + gallery
+- assets/colonial-sign.jpg    (from colonial-yard-sign-job.jpg; house number blurred, neighbor cropped out) — gallery
+- assets/og.jpg               (built from tudor-front.jpg with the business name set on it; 1200x630 link preview)
+
+No stock photography is used. The yard-sign graphic and icons are drawn in CSS/SVG, recreated from their real yard sign.
+Fonts: Archivo, DM Sans, Lobster, Playfair Display (Google Fonts, SIL Open Font License).

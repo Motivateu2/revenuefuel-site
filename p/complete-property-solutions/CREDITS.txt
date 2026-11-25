@@ -1,0 +1,14 @@
+Complete Property Solutions, LLC — website preview image credits
+
+All photos on this page are the business's own, saved from the Complete Property Solutions, LLC Facebook Page
+(https://www.facebook.com/profile.php?id=61586920476158) on 2026-11-25. Facebook viewer icons were cropped off the top of each; no other edits beyond resizing/cropping.
+
+assets/hero.jpg    — wooded lot cleared under the oaks (source file: cleared-lot-under-oaks.jpg)
+assets/woods.jpg   — woods cleared of underbrush (source: cleared-woods-understory.jpg)
+assets/during.jpg  — excavator + trucks clearing beside a brick home (source: excavator-trucks-lot-clearing.jpg)
+assets/after.jpg   — same property after clearing, track loader at edge (source: cleared-lot-skid-steer-after.jpg)
+assets/storm.jpg   — downed tree cut into logs on a lawn (source: downed-tree-roadside-bucket-truck.jpg; cropped to the lower part so the third-party utility bucket truck is removed entirely)
+assets/og.jpg      — 1200x630 share image made from hero.jpg with the business name set in Big Shoulders Display (Google Fonts, SIL OFL)
+
+No stock photos are used. The CPS mark in the header/footer is a simple SVG rebuild of their lime "CPS + pine tree" logo, drawn from the description on their Page, not their original file.
+Fonts: Big Shoulders Display and Inter via Google Fonts (SIL Open Font License).

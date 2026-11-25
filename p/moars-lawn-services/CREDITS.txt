@@ -1,0 +1,13 @@
+Image credits — Moars Lawn and Services preview
+
+All photos are the business's own, saved from the Moars Lawn and Services Facebook Page
+(https://www.facebook.com/profile.php?id=61576160211681) on 2026-11-25.
+
+assets/hero.jpg            striped-lawn-white-house.jpg; Facebook viewer UI cropped off the top; house number on the porch column painted out
+assets/mowed-front-yard.jpg mowed-lawn-tree-grey-house.jpg; Facebook UI and the photographer's shadow cropped out
+assets/hillside-lawn.jpg   mowed-hillside-big-trees.jpg; Facebook UI cropped off the top
+assets/fenceline-cleanup.jpg overgrown-fenceline-before.jpg; cropped to the fence line (truck on the right cropped out)
+assets/og.jpg              made from assets/hero.jpg with the business name set on it (1200x630)
+
+No stock photos used. Logo mark in the nav is a simple SVG drawn for this preview in the colors of their logo (not their actual logo file).
+Their Fall Clean Up graphic was used for its text only; its before/after imagery was not used.

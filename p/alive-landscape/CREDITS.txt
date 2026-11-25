@@ -1,0 +1,15 @@
+Alive Landscape preview: image credits
+
+REAL (Alive Landscape's own Facebook Page, https://www.facebook.com/profile.php?id=61559877406932, saved 2026-11-25
+to ~/revenue-fuel/website-ads/desk/photos/alive-landscape/). The owner's photos; confirm use with the owner before launch.
+  assets/bucking-big-log.jpg        Crew member in hi-vis shirt + helmet bucking a huge log, orange track loader behind (hero, step 3, OG image)
+  assets/climber-silhouette-sky.jpg Climber roped in a tree against blue sky (desktop hero inset, step 1). Cropped to 625x790 to drop a roof edge at the bottom.
+  assets/tall-trunk-takedown.jpg    Tall dead trunk being cut down in sections beside a road (step 2). Cropped to 604px wide to drop a pale strip on the right edge.
+  assets/saw-big-stump-loader.jpg   Crew with chainsaw at a giant hollow stump, loader with grapple behind (step 4, closing section background)
+  assets/crew-stump-creekside.jpg   Fresh stump and rounds by a creek, two crew + loader behind (step 5)
+  assets/og.jpg                     1200x630 share image built from bucking-big-log.jpg + name set in Big Shoulders Display / Manrope
+
+STOCK: none. No Unsplash or other stock images are used.
+
+Other graphics: the wordmark/tree-ring logo mark, icons and the bare-tree line drawing are original SVG drawn for this preview
+(Alive Landscape has no logo saved). Fonts: Big Shoulders Display and Manrope (Google Fonts, SIL Open Font License).

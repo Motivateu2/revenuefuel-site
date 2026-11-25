@@ -1,0 +1,18 @@
+HawkBuilt Renovations preview: image credits
+
+All photos are HawkBuilt Renovations' own, saved from their Facebook Page
+(https://www.facebook.com/HawkBuiltRenovations) on 2026-11-25 and provided in
+~/revenue-fuel/website-ads/desk/photos/hawkbuilt-renovations/.
+Cropped only (Facebook viewer icons removed, a worker cropped out of the hutch photo,
+a crew member's arm cropped off the ceiling photo), resized to at most 1600px.
+
+assets/kitchen-waterfall-island.jpg      their photo (hero, cards, gallery, og image)
+assets/vaulted-pine-ceiling-trusses.jpg  their photo, right edge cropped
+assets/kitchen-white-cabinets-lvp.jpg    their photo, top/right cropped to remove Facebook UI
+assets/built-in-hutch-cabinets.jpg       their photo, left cropped to remove a worker + Facebook UI
+assets/barn-doors-new-landing.jpg        their photo, top cropped to remove Facebook UI
+assets/og.jpg                            built from kitchen-waterfall-island.jpg + HawkBuilt wordmark (headless Chrome render)
+
+Stock photos: none used.
+Icons and the hawk-wing wordmark: drawn for this preview as inline SVG (no logo was available).
+Fonts: Big Shoulders Display, Manrope, Playfair Display (Google Fonts, OFL).

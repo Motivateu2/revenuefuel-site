@@ -1,0 +1,18 @@
+Spotless Pressure and Soft Wash · website preview · image credits
+
+All photos are the business's own, saved from their Facebook Page
+(https://www.facebook.com/p/Spotless-Pressure-and-Soft-Wash-100082951971712/) on 2026-11-25
+into desk/photos/spotless-pressure-soft-wash/. Each was cropped to remove the Facebook viewer
+icons along the top edge, lightly sharpened, and saved as .jpg. No stock photos are used.
+
+assets/house-wash.jpg      <- cape-cod-home-washed.jpg (cream Cape Cod home). Hero, gallery, OG image.
+assets/two-story.jpg       <- two-story-siding-roof.jpg (two-story, sage siding, brown roof). House washing card, gallery.
+assets/roof-wash.jpg       <- roof-soft-wash-action.jpg (soft wash on a roof ridge). Roof washing card, hero inset, gallery.
+assets/driveway-card.jpg   <- brick-home-clean-driveway.jpg (brick two-story, clean driveway, yellow hose), cropped above the street. Concrete card, gallery.
+assets/ranch.jpg           <- ranch-home-big-lawn.jpg (ranch home across a lawn). Holiday band background, phone gallery.
+assets/og.jpg              <- built from house-wash.jpg with the business name set on it (1200x630), Archivo + DM Sans (Google Fonts, OFL).
+
+Not shown: customer-review-screenshot.jpg (used only to read the review text; it contains other people's names and avatars).
+
+Drawn, not photographed: the deck-boards card art, the drop/house logo mark and the iPhone mockup are CSS/SVG made for this preview.
+Fonts: Archivo, DM Sans, Playfair Display (Google Fonts, SIL Open Font License).

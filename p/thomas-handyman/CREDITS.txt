@@ -1,0 +1,15 @@
+Thomas Handyman LLC preview · image credits
+
+All photos are the business's own, saved from the Thomas Handyman LLC Facebook Page
+(https://www.facebook.com/profile.php?id=100090224066117) into
+~/revenue-fuel/website-ads/desk/photos/thomas-handyman/ on 2026-11-25.
+
+assets/zach-truck.jpg      <- branded-truck-tech.jpg (unchanged)
+assets/deck-before.jpg     <- deck-stairs-BEFORE-weathered.jpg (cropped to remove their logo overlay and collage inset; upscaled 2x)
+assets/deck-after.jpg      <- deck-stairs-AFTER-new-treads.jpg (cropped to remove collage strip; upscaled 2x)
+assets/trailer-rounds.jpg  <- firewood-rounds-dump-trailer.jpg (cropped to remove Facebook viewer icons and the licence plate)
+assets/trailer-brush.jpg   <- dump-trailer-brush-truck.jpg (trailer maker's decals painted out, licence plate blurred)
+assets/og.jpg              <- built from branded-truck-tech.jpg + type (Rockwell Bold, Arial) for link previews
+
+No stock photos are used. Saw-blade mark and icons are drawn in inline SVG.
+Fonts: Roboto Slab, Inter, Barlow Condensed (Google Fonts, OFL).

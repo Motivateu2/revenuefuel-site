@@ -1,0 +1,14 @@
+Just Cut It Lawn Care LLC - preview image credits
+
+All photos on this page are the business's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61571997063406, "Just Cut It Lawn Care Wichita") on 2026-11-25
+and supplied in desk/photos/just-cut-it-lawn-care/:
+- assets/striped-backyard-long-view.jpg   (hero, gallery, OG image)
+- assets/crosshatch-stripes-lawn.jpg      (hero inset on desktop, Mowing card, signature section, gallery)
+- assets/front-lawn-brick-ranch.jpg       (signature section, gallery)
+- assets/trimming-along-iron-fence.jpg    (Edging & trimming card, gallery)
+- assets/cut-rounds-fenceline-cleanup.jpg (late-fall section, Cleanups card, gallery)
+
+assets/og.jpg: composed for this preview from striped-backyard-long-view.jpg (theirs) plus type and stripes.
+No stock photography is used. Stripe patterns, the logo mark and the lawn preview are CSS drawings.
+Fonts: Big Shoulders Display and Inter (Google Fonts, SIL Open Font License).

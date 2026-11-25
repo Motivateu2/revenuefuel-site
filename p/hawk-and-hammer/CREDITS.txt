@@ -1,0 +1,18 @@
+Hawk & Hammer Handyman Services preview: image credits
+
+ALL images on this page are the business's OWN photos, saved from their Facebook Page
+(https://www.facebook.com/HawknHammer/) on 2026-11-25 into desk/photos/hawk-and-hammer/.
+Confirm use with Michael Callahan before launch. No stock photos are used anywhere.
+
+  assets/built-ins.jpg         Charcoal-painted built-in bookshelves + cabinets (from built-in-bookshelves-cabinets.jpg,
+                               top 58px cropped off to remove Facebook viewer icons). Hero, services card, gallery, final CTA bg.
+  assets/catio-outside.jpg     Cedar-framed screened catio, exterior (cedar-catio-exterior.jpg)
+  assets/catio-inside.jpg      Inside the catio: cedar shelves/perches (cedar-catio-interior-shelves.jpg)
+  assets/powder-room.jpg       Powder room: wallpaper + vanity (powder-room-wallpaper-vanity.jpg)
+  assets/plank-walls.jpg       Basement pine plank walls (basement-pine-plank-walls.jpg, cropped to the right wall + ceiling
+                               to leave out the Facebook icons, the wall poster, the TV and personal items)
+  assets/shed-ramp-before.jpg  Old rotted shed ramp, BEFORE the rebuild (shed-ramp-BEFORE-rotted.jpg). Captioned as a before only.
+  assets/og.jpg                1200x630 share image made from built-ins.jpg with the business name set on it.
+
+Logo mark: a simple roofline + hammer icon drawn in SVG for this preview (the business has no logo on file).
+Fonts: Archivo, Manrope, Playfair Display (italic accents), Caveat (notepad list), all Google Fonts (OFL).

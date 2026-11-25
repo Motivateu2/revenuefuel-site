@@ -1,0 +1,12 @@
+King Handyman Service, LLC preview: image credits
+
+All photos are the business's own, saved from their Facebook Page (https://www.facebook.com/KingHandymanOK) on 2026-11-25:
+- assets/kitchen-sink-wall.jpg   (from kitchen-quartz-sink-wall.jpg; unchanged)
+- assets/kitchen-range.jpg       (from kitchen-range-fridge.jpg; unchanged)
+- assets/bath-white.jpg          (from bathroom-remodel-white.jpg; unchanged)
+- assets/shower-niche.jpg        (from tile-shower-niche.jpg; top 92px cropped to remove old wallpaper border)
+- assets/shower-pebble.jpg       (from tile-shower-pebble-floor.jpg; left 262px cropped to remove a laundry basket)
+- assets/og.jpg                  (1200x630 share image built from kitchen-sink-wall.jpg + their name)
+
+No stock photography is used. Crown mark, holiday-light bulbs and icons are drawn in CSS/SVG for this preview.
+Fonts: Bricolage Grotesque, Inter, Playfair Display (Google Fonts, SIL Open Font License).

@@ -1,0 +1,16 @@
+Splash Masters Property Management preview: image credits
+
+REAL (Splash Masters' own Facebook Page, https://www.facebook.com/profile.php?id=100094408736960, saved 2026-11-26 into desk/photos/splash-masters/). The business's own photos; confirm use with the owner before launch.
+  assets/lights-prism-home.jpg   Two-story home with multicolor permanent lights at night   (from lit-house-closeup.jpg, 874x550)  hero + gallery
+  assets/lights-farmhouse.jpg    Farmhouse lit in rainbow roofline lights at dusk          (from lit-house-night-portrait.jpg, 717x860)  gallery
+  assets/roofline-install.jpg    Yellow lift at the roofline of a two-story home, daylight  (from lift-light-install.jpg, 572x688)  gallery
+  assets/truck-on-the-job.jpg    Splash Masters lettered truck in front of a lit home       (from truck-lit-house-night.jpg, 764x688)  gallery
+  assets/og.jpg                  1200x630 link-preview image built from lights-prism-home.jpg with their name set in Unbounded
+
+DRAWN FOR THIS PAGE (no outside images):
+  Water-drop mark: simple SVG drawn in HTML, inspired by the smiling water-drop mascot on their truck logo (their actual logo file was not used).
+  House sketch in the "Try a look" picker: SVG drawn in HTML.
+  Service icons: inline SVG drawn for this page.
+
+STOCK: none used.
+Fonts: Unbounded and Manrope (Google Fonts, SIL Open Font License).

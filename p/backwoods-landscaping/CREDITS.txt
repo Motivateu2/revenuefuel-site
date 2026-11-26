@@ -1,0 +1,22 @@
+Backwoods Landscaping preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN, saved from the Backwoods Landscaping Facebook Page
+(https://www.facebook.com/BackwoodsLandscapingllc) on 2026-11-26 into
+~/revenue-fuel/website-ads/desk/photos/backwoods-landscaping/. Confirm use with the owner before launch.
+No stock photos are used anywhere on the page.
+
+  assets/hero.jpg            from new-home-landscaped-front.jpg (572x688). Cropped to the top 440px to remove the
+                             photographer's shadow; a small security-company yard sign in the bed and the house
+                             number on the porch column were retouched out (patched with neighbouring pixels).
+                             Used in the hero and the "Our work" gallery.
+  assets/hero-blur.jpg       blurred, downsized copy of hero.jpg; desktop hero backdrop only.
+  assets/sod-edging.jpg      from sod-and-edging-install.jpg (unchanged, re-saved).
+  assets/crew.jpg            from crew-neon-shirts-skid-steer.jpg (unchanged, re-saved). Crew section. Nobody is named.
+  assets/fence-aluminum.jpg  from black-aluminum-fence-dusk.jpg (unchanged, re-saved).
+  assets/fence-wood.jpg      from wood-privacy-fence-side-yard.jpg (unchanged, re-saved).
+  assets/mower-azaleas.jpg   from mower-azaleas.jpg (unchanged, re-saved).
+  assets/og.jpg              1200x630 share image built from hero.jpg + their name and phone (Big Shoulders Display / Archivo).
+
+Logo: NOT their real logo. The round pine-tree badge in the nav/favicon is a simple stand-in drawn in SVG,
+in the spirit of their dark round badge. Swap in their actual badge before launch.
+Icons: hand-drawn inline SVG. Fonts: Google Fonts (Big Shoulders Display, Archivo), SIL Open Font License.

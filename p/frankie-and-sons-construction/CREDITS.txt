@@ -1,0 +1,12 @@
+Frankie & Sons Construction preview — image credits
+
+REAL (Frankie & Sons Construction Facebook Page, https://www.facebook.com/FrankieandSonsConstruction, saved 2026-11-26 into desk/photos/frankie-and-sons-construction/) — the business's own job photos; confirm use with the owner before launch:
+  assets/fence-backyard.jpg     from backyard-privacy-fence-wide.jpg (994x688) — hero (desktop), service card 01, gallery
+  assets/fence-corner-gate.jpg  from corner-fence-double-gate.jpg (572x688) — hero (phone), gallery
+  assets/double-gate.jpg        from double-gate-closeup.jpg (572x688) — service card 02, "Look closer" section, gallery
+  assets/fence-run.jpg          from tall-fence-perspective.jpg (573x688) — service card 03, gallery, season band background
+  assets/og.jpg                 1200x630 share image made from fence-backyard.jpg with the business name set on it
+
+Logo mark: a simple badge drawn in SVG (red ring, charcoal disc, three pine pickets) as a stand-in. It is NOT the business's real logo.
+
+STOCK: none used.

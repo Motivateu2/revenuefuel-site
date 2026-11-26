@@ -1,0 +1,16 @@
+Unlimited Construction & Roofing preview: image credits
+
+ALL PHOTOS ARE THEIRS: saved from the Unlimited Construction & Roofing, LLC Facebook Page
+(https://www.facebook.com/UCLLCDOTHAN) on 2026-11-26. Finished new roofs, Dothan area, fall 2026.
+Confirm use with the owner before launch. Upscaled from ~994px originals to 1600px (Lanczos + light sharpen).
+  assets/hero.jpg       Red-brick ranch, new roof, American flag      (brick-home-new-roof-flag.jpg): hero + gallery
+  assets/garage.jpg     Red-brick garage, new roof, blue sky          (brick-garage-new-roof-blue-sky.jpg): gallery + contact
+  assets/side.jpg       Red-brick home side view, hip roof            (brick-home-side-new-roof.jpg): gallery
+  assets/two-story.jpg  Two-story brick/siding home, new roof         (two-story-new-roof.jpg): gallery
+  assets/porch.jpg      Red-brick home, covered back porch, new roof  (brick-home-back-porch-roof.jpg): gallery
+  assets/ridge.jpg      On-roof view along the new ridge vent         (ridge-vent-shingles.jpg): roofing section
+  assets/og.jpg         1200x630 share image made from brick-home-new-roof-flag.jpg, with the name set in Arial Black
+
+STOCK: none.
+LOGO: the round roofline badge was drawn in SVG for this preview. It is not their actual logo.
+Fonts: Archivo + Inter (Google Fonts, SIL OFL).

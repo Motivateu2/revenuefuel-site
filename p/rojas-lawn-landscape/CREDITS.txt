@@ -1,0 +1,13 @@
+Rojas Lawn & Landscape preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN (Rojas Lawn & Landscape Facebook Page, facebook.com/profile.php?id=61557301554998, saved 2026-11-26 to ~/revenue-fuel/website-ads/desk/photos/rojas-lawn-landscape/). Confirm use with the owner before launch.
+  assets/hero.jpg      leaves-after-red-maples.jpg, full frame (994x688). Hero + "Leaves cleared" work tile.
+  assets/after.jpg     leaves-after-red-maples.jpg, cropped (220,0)-(994,516) to drop the deck corner. Before/after "after".
+  assets/before.jpg    leaves-before-red-maples.jpg, cropped (345,0)-(994,433) to drop the bench and photographer's shadow. Before/after "before" + leaf-cleanup tile.
+  assets/mowing.jpg    striped-lawn-brick-ranch.jpg (572x688). Work gallery.
+  assets/planting.jpg  arborvitae-privacy-row.jpg (572x688). Work gallery.
+  assets/og.jpg        1200x630 share image made from leaves-after-red-maples.jpg with the name set in Archivo + Playfair Display Italic (Google Fonts, OFL).
+
+STOCK: none.
+ILLUSTRATION: the Christmas-lights roofline, leaf mark, service icons and drifting leaves are drawn in inline SVG/CSS for this page (not photos, not anyone's work).
+FONTS: Archivo, DM Sans, Playfair Display (Google Fonts, SIL Open Font License).

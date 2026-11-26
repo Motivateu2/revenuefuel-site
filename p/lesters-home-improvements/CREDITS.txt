@@ -1,0 +1,17 @@
+Lester's Home Improvements preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN, saved from the Lester's Home Improvements LLC Facebook Page
+(https://www.facebook.com/LestersHomeWorks) on 2026-11-26. Originals: ~/revenue-fuel/website-ads/desk/photos/lesters-home-improvements/
+Confirm use with Lester before launch.
+
+  assets/hero.jpg              ranch-exterior-after.jpg (resized to 1600w, light sharpen). Hero, gallery "Exterior refresh", og.jpg background.
+  assets/ba-after.jpg          ranch-exterior-after.jpg, cropped to line up with the "during" photo for the drag slider.
+  assets/ba-during.jpg         ranch-exterior-during-paint.jpg (same house mid-job). Slider "During" side, gallery "Crew at work".
+  assets/cottage.jpg           white-cottage-black-shutters.jpg. Painting card, gallery "Curb appeal".
+  assets/fence-gate.jpg        painted-privacy-fence-gate.jpg, cropped left/right to remove Facebook's carousel arrows. Gallery.
+  assets/fence-horizontal.jpg  horizontal-wood-fence.jpg. Fences card, gallery.
+  assets/og.jpg                1200x630 share image built from hero.jpg with the business name set in Archivo.
+
+STOCK: none used.
+Logo mark: simple roof + "L" mark drawn in SVG for the preview (the business has no logo on file).
+Fonts: Archivo, Manrope, Playfair Display (Google Fonts, SIL Open Font License).

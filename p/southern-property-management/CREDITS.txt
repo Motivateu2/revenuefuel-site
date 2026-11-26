@@ -1,0 +1,20 @@
+Southern Property Management: image credits
+
+All photos on this page are the business's own, saved from their Facebook Page
+(https://www.facebook.com/Southernpm23) on 2026-11-26 into
+~/revenue-fuel/website-ads/desk/photos/southern-property-management/. No stock photos are used.
+
+  assets/hero.jpg               striped-lawn-fall-trees.jpg, bottom ~12% cropped (fence-post cap removed).
+                                Used for the hero, the mowing card and the gallery.
+  assets/leaves-before.jpg      leaves-before.jpg, cropped (x110-910, y0-600) to match the after shot.
+  assets/leaves-after.jpg       leaves-after.jpg, scaled 0.99 and shifted to line up with the before shot, same crop.
+  assets/hedge-before.jpg       hedge-before.jpg, cropped (x60-977) to match the after shot.
+  assets/hedge-after.jpg        hedge-after.jpg, scaled 1.088 and shifted to line up with the before shot, same crop.
+  assets/hedge-after-full.jpg   hedge-after.jpg, uncropped (mulch card, gallery).
+  assets/side-yard.jpg          hedge-trimmed-side-yard.jpg (pruning card, gallery, contact background).
+  assets/front-shrubs-before.jpg front-shrubs-overgrown.jpg, left 150px cropped to remove a house number;
+                                labelled "Before" in the gallery.
+  assets/og.jpg                 1200x630 share image built from hero.jpg with the business name set on it.
+
+Icons and the leaf mark are inline SVG drawn for this preview (not the business's logo; none was found).
+Fonts: Archivo, Manrope, Playfair Display (Google Fonts, SIL Open Font License).

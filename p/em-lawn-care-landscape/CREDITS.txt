@@ -1,0 +1,14 @@
+EM Lawn Care & Landscape preview: image credits
+
+All photos on this page are the business's own, saved from the EM Lawn Care & Landscape LLC Facebook Page
+(https://www.facebook.com/profile.php?id=61557231805280) on 2026-11-26. No stock photos are used.
+
+assets/hero.jpg          finished-yard-red-maple.jpg: brick home, new lawn, red maple. Cropped (bottom curb/red clay removed), upscaled to 1600px.
+assets/before-bare.jpg   bare-yard-before-sod.jpg: bare, uneven yard before the sod job. Upscaled.
+assets/after-sod.jpg     new-sod-fall-colors.jpg: fresh sod in front of the home. Left edge cropped to remove mailbox/house number. Upscaled.
+assets/church-lawn.jpg   church-lawn-shrubs.jpg: mowed church lawn with trimmed shrubs. Upscaled.
+assets/hydrant-fountain.jpg  hydrant-water-feature.jpg: custom fire-hydrant rock fountain. Upscaled.
+assets/og.jpg            Share image made from hero.jpg with the business name set on it (1200x630).
+
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL Open Font License).
+Icons: hand-drawn inline SVG.

@@ -1,0 +1,13 @@
+Image credits · Cummins Carpentry preview
+
+All photos are Cummins Carpentry LLC's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61556660591605) by the Revenue Fuel desk on 2026-11-26.
+
+assets/porch-1-framing.jpg    ← porch-during-framing.jpg (front porch remodel, framing stage)
+assets/porch-2-finishing.jpg  ← porch-during-wrap.jpg (same porch, pine ceiling in, columns being wrapped)
+assets/porch-3-done.jpg       ← porch-after-vaulted-pine.jpg (same porch, finished; hero)
+assets/bath-travertine.jpg    ← travertine-bath-remodel.jpg (finished bathroom remodel)
+assets/og.jpg                 ← built from porch-3-done.jpg with the business name set on it (1200x630)
+
+No stock photos are used. The pine-board background is pure CSS.
+Fonts: Archivo, Inter, IBM Plex Mono, Playfair Display (Google Fonts, SIL OFL).

@@ -1,0 +1,15 @@
+Iron Root Outdoors preview · image credits
+
+All photos are the business's own, saved from the Iron Root Outdoors Facebook Page
+(https://www.facebook.com/profile.php?id=61562388775918) on 2026-11-26:
+- assets/hero-house.jpg       (source file plantation-house-brick-walk.jpg): white double-porch home, hedges, herringbone brick walk
+- assets/tree-lift-oak.jpg    (source file tree-trim-lift-oak.jpg): towable lift in a moss-draped live oak
+- assets/roof-soft-wash.jpg   (source file roof-soft-wash-action.jpg): crew member soft-washing a roof
+- assets/landscape-bed.jpg    (source file new-bed-palms-pavers.jpg): new bed with palms, ferns, mulch and a sprinkler
+  (light sharpening only; no other edits)
+
+- assets/og.jpg: link-preview image made by Revenue Fuel from hero-house.jpg with the business name set on it.
+
+Logo mark on the page is a simple tree-and-roots icon drawn in SVG to echo their logo colors; it is not their logo file.
+No stock photography is used.
+Fonts: Archivo, Inter, Share Tech Mono (Google Fonts, SIL Open Font License).

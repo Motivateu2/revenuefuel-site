@@ -1,0 +1,14 @@
+Wright's Painting preview — image credits
+
+REAL (Wright's Painting Facebook profile, facebook.com/profile.php?id=100092260303560, saved 2026-11-26) — the owner's own job photos; confirm use with the owner before launch:
+  assets/exterior-silsbee.jpg   House repainted in a near-black exterior (the Silsbee, TX job)   from dark-board-batten-exterior.jpg (572x688)
+  assets/front-door.jpg         Stained knotty-alder front door with sidelites                    from stained-front-door.jpg (473x686)
+  assets/window-trim.jpg        Wood windows with glossy refinished trim on a red wall            from window-wall-red-trim.jpg (572x688)
+  assets/porch-steps.jpg        Porch floor, steps and rail stained a redwood tone                from stained-porch-steps.jpg (572x688)
+  assets/fireplace-mantel.jpg   Fireplace mantel refinished in white                              from fireplace-mantel-refinish.jpg (800x688)
+  assets/og.jpg                 1200x630 share image: exterior-silsbee.jpg + business name set in Archivo / Playfair Display
+
+STOCK: none.
+
+Icons, the "W" badge, tile textures and the phone mockup are drawn in CSS/SVG for this preview (not their logo).
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL Open Font License).

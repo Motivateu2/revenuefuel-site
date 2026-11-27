@@ -1,0 +1,13 @@
+Premier Property Services preview: image credits
+
+REAL (Premier Property Services Facebook Page, facebook.com/PremierPropertyServicesSanAngelo/, saved 2026-11-27 to desk/photos/premier-property-services/) — the business's own photos of their light installs; confirm use with the owner before launch:
+  assets/hero.jpg        Stone home, wrapped live oaks, roofline + walkway lights (from lit-oaks-stone-home.jpg, 657px; top 24px cropped to remove a Facebook zoom icon). Hero, gallery, og image.
+  assets/oaks-wide.jpg   Same/similar home, wider: wrapped trees, roofline, wreaths, walkway (from lit-oaks-wide.jpg, 725px; top 70px of black sky cropped to remove Facebook UI icons). Gallery.
+  assets/roofline.jpg    Brick home with roofline bulbs and facade uplighting (from roofline-lights-brick.jpg, 632px, unchanged). Gallery.
+  assets/hero-glow.jpg   Heavily blurred, darkened copy of hero.jpg used only as a background glow behind the hero.
+  assets/og.jpg          1200x630 share image: hero.jpg (shown at ~1.05x) over a blurred oaks-wide.jpg, with the name set in Outfit.
+  Logo: P-in-circle monogram redrawn as inline SVG from their Facebook logo (brand-logo.jpg); wordmark set in Outfit.
+
+STOCK: none. No Unsplash or other third-party images are used.
+Illustration: the "Plan your lights" house is a hand-drawn inline SVG, not a photo.
+Not used (per notes): the "Before / Demo" graphic, the dog-park photo, the "We're hiring" graphics.

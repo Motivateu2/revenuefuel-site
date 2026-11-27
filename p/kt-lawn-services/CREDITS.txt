@@ -1,0 +1,11 @@
+KT Lawn Services preview: image credits
+
+All photos are KT Lawn Services' own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61571356678610) on 2026-11-26.
+No stock photos are used.
+
+assets/striped-lawn-brick-home.jpg  KT Lawn Services Facebook Page (cropped to remove Facebook viewer interface; not upscaled)
+assets/commercial-lot-striped.jpg   KT Lawn Services Facebook Page (unchanged size)
+assets/zero-turn-striping.jpg       KT Lawn Services Facebook Page (unchanged size)
+assets/og.jpg                       Social share card built by Revenue Fuel from striped-lawn-brick-home.jpg
+Icons: hand-drawn inline SVG. Fonts: Archivo, Figtree, Playfair Display (Google Fonts, OFL).

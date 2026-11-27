@@ -1,0 +1,11 @@
+Integrity Roof Systems preview — image credits
+
+REAL (Integrity Roof Systems Facebook Page, facebook.com/integrityroofsystemsllc, saved 2026-11-26) — the business's own photos; confirm use with the owner before launch. Kept at native size (527x707), not upscaled:
+  assets/home-roof.jpg        from cape-cod-new-roof.jpg — brick Cape Cod home, new architectural shingle roof (hero + gallery)
+  assets/commercial-roof.jpg  from commercial-reroof-blue-sky.jpg — single-story brick commercial building, new shingle roof (gallery)
+  assets/metal-crew.jpg       from metal-roof-crew.jpg — owner selfie on lift, crew installing standing-seam metal (gallery)
+  assets/og.jpg               1200x630 share image built from home-roof.jpg (downscaled) + their name set in Impact
+
+Logo / house mark: rebuilt as simple SVG in black/white from the house-shaped mark on their Facebook Page (not their Halloween avatar).
+Icons: hand-drawn inline SVG.
+STOCK: none.

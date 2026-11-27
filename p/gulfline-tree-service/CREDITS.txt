@@ -1,0 +1,13 @@
+Gulfline Tree Service preview — image credits
+
+ALL images are Gulfline Tree Service's own, saved from their Facebook Page
+(https://www.facebook.com/jeffstreeserviceandbucketservices) on 2026-11-27. Confirm use with Jeff before launch.
+  assets/bucket-oak.jpg       Bucket truck raised into a tall oak, trimming (from bucket-climb-tall-oak.jpg, 321x565) — hero, service card, gallery
+  assets/dead-trunk-roof.jpg  View from the bucket: hollow dead trunk over a house roof (from dead-trunk-over-roof.jpg, 421x565)
+  assets/stump-house.jpg      Stump and cut rounds beside a house after a removal (from stump-by-house.jpg, 421x565)
+  assets/cleared-yard.jpg     Cleared yard, logs stacked (from cleared-yard-logs.jpg, 421x565)
+  assets/logo.jpg             Their logo, cropped; background evened to #FCFCF0 (from brand-logo.jpg)
+  assets/logo-mark.jpg        Oak-and-arc part of their logo, cropped from the same file
+  assets/og.jpg               1200x630 share image built from logo-mark.jpg + bucket-oak.jpg with the name set in Bitter
+
+No stock photos used.

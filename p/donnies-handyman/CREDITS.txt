@@ -1,0 +1,13 @@
+Images used on the Donnie's Handyman Services preview
+
+All photos are the business's own, saved from the Donnie's Handyman Services LLC Facebook Page
+(https://www.facebook.com/people/Donnies-Handyman-Services-LLC/100035952773330/) on 2026-11-27.
+No stock photos are used.
+
+assets/before.jpg   popcorn-ceiling-before.jpg, cropped to 421x561 (bathroom ceiling mid-removal, popcorn texture)
+assets/after.jpg    smooth-ceiling-after.jpg, cropped to 340x453 to line up the vent with the before shot (same ceiling, smooth + white)
+assets/prep.jpg     room-masked-prep.jpg, top 48px cropped off to remove Facebook viewer buttons (room wrapped in plastic + blue tape)
+assets/lantern.jpg  porch-lantern-install.jpg, unaltered (new black lantern porch light)
+assets/og.jpg       1200x630 share image built from before.jpg + after.jpg with the business name set in DIN Condensed Bold
+
+Fonts: Archivo, Inter, Caveat (Google Fonts, SIL Open Font License).

@@ -1,0 +1,10 @@
+Certified Fence & Deck preview — image credits
+
+REAL (Certified Fence & Deck Facebook Page, facebook.com/p/Certified-Construction-of-La-LLC-61569127050998/, saved 2026-11-27) — owner's photos; confirm use before launch:
+  assets/pool-deck-wrap.jpg    Stained wood deck wrapped around an above-ground pool (hero + gallery), 741x495, not upscaled in file
+  assets/pool-deck-corner.jpg  Same pool deck from the side: stairs, landing, rail (Decks card + gallery), 741x495
+  assets/privacy-fence.jpg     New dog-ear privacy fence along a lawn (Fences card + gallery), 421x485 (from dogear-privacy-fence.jpg)
+  assets/og.jpg                1200x630 share image made from pool-deck-wrap.jpg with the business name set on it
+
+STOCK: none. Icons, picket pattern and service-area map are drawn in inline SVG/CSS.
+Fonts: Bricolage Grotesque, Inter, Playfair Display (Google Fonts, SIL Open Font License).

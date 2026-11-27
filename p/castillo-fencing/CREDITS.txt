@@ -1,0 +1,11 @@
+Castillo Fencing & More preview — image credits
+
+REAL (Castillo Fencing & More Facebook Page, facebook.com/castillofencingandmore/, saved 2026-11-27; carry their own "CASTILLO FENCING & MORE" watermark) — confirm use with Fernando before launch:
+  assets/deck-palms.jpg     Multi-level gray composite deck, stairs, rails, palms (from multilevel-deck-palms.jpg, 741x495) — hero, featured project, gallery
+  assets/rail-detail.jpg    Composite rail with solar post cap (from deck-rail-detail.jpg, 741x495) — featured project, gallery
+  assets/deck-stairs.jpg    Composite stairs + rails (from deck-stairs-composite.jpg, 421x565) — decks card, featured project, gallery
+  assets/pavilion-slab.jpg  Concrete slab + ramp under steel shade pavilion (from pavilion-slab.jpg, 725x495) — slabs & shade card, gallery
+  assets/og.jpg             1200x630 share image built from deck-palms.jpg (scaled 1.27x) + their name set in Avenir Next
+
+STOCK: none.
+DRAWN: fence illustration on the fence card (inline SVG, simple pickets / custom horizontal slats) and the picket-fence logo mark are original vector art made for this preview, not photos of their work.

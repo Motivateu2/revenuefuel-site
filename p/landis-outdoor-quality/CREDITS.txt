@@ -1,0 +1,10 @@
+Landis Outdoor Quality preview: image credits
+
+All photos are the business's own, saved from the Landis Outdoor Quality Facebook Page
+(https://www.facebook.com/profile.php?id=100088740258994) on 2026-11-27:
+- assets/striped-lawn-fall.jpg   striped lawn behind a two-story home with pergola (hero, gallery)
+- assets/seed-straw-yard.jpg     yard prepped, seeded and strawed beside a brick home (seeding section, gallery)
+- assets/red-dump-truck-site.jpg red LANDIS dump truck and pickup on a work site (crew section, gallery)
+- assets/og.jpg                  social share card made from striped-lawn-fall.jpg + set type (Revenue Fuel)
+
+No stock photography used. The mowing-stripe panel and all icons are CSS/SVG drawn for this page.

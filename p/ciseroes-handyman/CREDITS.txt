@@ -1,0 +1,10 @@
+Images for the Ciseroe's Handyman Services preview (all are the business's own photos; no stock used)
+
+assets/roof.jpg      Finished roof, blue sky. Ciseroe's Handyman Services Facebook Page (https://www.facebook.com/CHandymanLLC/), saved 2026-11-27 as new-roof-blue-sky.jpg. Cropped 40px off the top to remove Facebook viewer icons. Native size, not upscaled.
+assets/shingles.jpg  New shingles, top view. Same Facebook Page, saved as new-shingles-top-view.jpg. Cropped 34px off the top to remove Facebook viewer icons.
+assets/floor.jpg     New plank floor, kitchen/dining room. Same Facebook Page, saved as new-plank-floor-dining.jpg. Unchanged.
+assets/kitchen.jpg   New white shaker base cabinets + cooktop. Same Facebook Page, saved as new-cooktop-cabinets.jpg. Cropped 42px off the top to remove Facebook viewer icons.
+assets/og.jpg        1200x630 share image built from roof.jpg (scaled 1.2x) with the business name set in Avenir Next Heavy.
+
+Icons and the roof-and-C mark are simple inline SVG drawn for this preview (not the business's logo; they have none on file).
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL OFL).

@@ -1,0 +1,12 @@
+All images on this page are JAM Up Painting's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61583960889101) on 2026-11-26. No stock photos are used.
+
+assets/kitchen.jpg          their photo: green kitchen cabinets + teal island, painter at work (hero, services, gallery)
+assets/fireplace.jpg        their photo: plum accent wall, dark built-ins, marble fireplace
+assets/window-wall.jpg      their photo: white built-ins around a window wall
+assets/exterior-before.jpg  their photo: exterior "Before" (bottom strip with burned-in "Before" text cropped off)
+assets/exterior-after.jpg   their photo: exterior "After" (bottom strip with burned-in "After" text cropped off)
+assets/logo.jpg             their logo
+assets/logo-mark.jpg        crop of their logo (house, brush, "JAM UP PAINTING")
+assets/og.jpg               1200x630 share image built from their kitchen photo + logo crop, name set in Archivo
+Fonts: Archivo, DM Sans, Playfair Display (Google Fonts, OFL).

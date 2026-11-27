@@ -1,0 +1,17 @@
+Christopher's Remodeling & Repair preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN (Christopher's Remodeling and Repair, LLC Facebook Page,
+https://www.facebook.com/profile.php?id=100088700950188, saved 2026-11-27 into
+~/revenue-fuel/website-ads/desk/photos/christophers-remodeling/). Confirm use with Christopher before launch.
+Facebook viewer chrome (logo, close and zoom icons) and a blurred strip were cropped off; nothing else edited.
+
+  assets/ranch-home.jpg          from ranch-home-navy-shutters.jpg (top 45px cropped, 741x520). Hero, Exteriors card, og.jpg
+  assets/cedar-beam-ceiling.jpg  from cedar-beam-ceiling.jpg (top 45px cropped, 741x520). Ceilings card, Family business photo
+  assets/covered-porch.jpg       from covered-porch-build.jpg (unchanged, 421x565). Porches card
+  assets/siding-midjob.jpg       from siding-before.jpg (blurred right strip cropped, 636x180). "On the job" view
+  assets/siding-finished.jpg     from siding-after.jpg (black bar at top cropped, 752x153). "Finished" view
+  assets/og.jpg                  1200x630 share image: ranch-home.jpg (scaled ~1.2x) + business name set in Bricolage Grotesque
+
+STOCK: none.
+Logo mark (house roofline + C) is a simple monogram drawn in SVG for this preview, not their logo.
+Fonts: Google Fonts (Bricolage Grotesque, Figtree, Playfair Display), SIL Open Font License.

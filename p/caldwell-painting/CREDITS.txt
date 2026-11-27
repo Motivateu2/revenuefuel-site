@@ -1,0 +1,11 @@
+Image credits: Caldwell Painting preview (all photos are the business's own)
+
+assets/teal-front-door.jpg     Caldwell Painting LLC Facebook Page (https://www.facebook.com/profile.php?id=61566207515860), saved 2026-11-26. Front entry repaint: teal door, white board-and-batten siding and trim. House number blurred. Original size, not resized.
+assets/painted-soffit-trim.jpg Caldwell Painting LLC Facebook Page (https://www.facebook.com/profile.php?id=61566207515860), saved 2026-11-26. Painted soffit/fascia and painted brick corner. Original size.
+assets/painted-brick-ranch.jpg Caldwell Painting LLC Facebook Page (https://www.facebook.com/profile.php?id=61566207515860), saved 2026-11-26. Painted brick ranch with black shutters. House number blurred. Original size.
+assets/og.jpg                  Made for this preview from teal-front-door.jpg and painted-brick-ranch.jpg (their photos) plus type. No upscaling.
+
+No stock photos used. The rainbow ring mark and paint-drip divider are drawn in CSS/SVG for this preview, inspired by the colors on their flyers (black, bright green, gold, rainbow splash); their actual logo file was not used.
+Swatch colors next to each photo were sampled from the photos' pixels.
+Fonts: Archivo, Instrument Sans, Permanent Marker (Google Fonts, OFL).
+Not used on purpose: MLS-watermarked real-estate photos and flyer art (contains stock).

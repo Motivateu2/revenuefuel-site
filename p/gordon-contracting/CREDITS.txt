@@ -1,0 +1,20 @@
+Gordon Contracting preview — image credits
+
+THEIR OWN (Gordon Contracting Facebook Page, facebook.com/profile.php?id=61574354036976, saved 2026-11-26) — confirm use with the owner before launch:
+  assets/badge.jpg               Their logo badge, cropped from their Facebook banner graphic (brand-banner.jpg)
+  assets/pendants.jpg            Woven pendant lights over a granite island (job photo)
+  assets/dining-light.jpg        Black sputnik fixture over a dining table, cropped to the fixture (job photo, dining-light.jpg)
+  assets/lanai-fan.jpg           Black ceiling fan on a screened lanai (job photo, porch-fan.jpg)
+  assets/vanity-after.jpg        Powder room, new wood-slat vanity (job photo)
+  assets/vanity-before-open.jpg  Same powder room before, old vanity with doors hanging (job photo)
+  assets/ba-before.jpg           Crop of vanity-before.jpg for the before/after slider
+  assets/ba-after.jpg            Crop of vanity-after.jpg for the before/after slider
+  assets/og.jpg                  Link-share card: built from their lanai-fan, vanity-after and pendant photos + their name
+
+STOCK (Unsplash License, https://unsplash.com/license) — mood images on the Flooring and Carpentry service cards only, NOT Gordon Contracting's work and never in the gallery:
+  assets/flooring.jpg    Man laying vinyl plank flooring (black & white, cropped) — Ernys
+                         https://unsplash.com/photos/a-man-laying-on-the-floor-in-a-room-VYn_OPplC34  (images.unsplash.com/photo-1731185752376-a4cf3e8556fa)
+  assets/carpentry.jpg   Nail gun on a plywood shelf — Ryno Marais
+                         https://unsplash.com/photos/a-man-using-a-power-drill-on-a-piece-of-wood-dQyi9-yObiM
+
+Not used: the small flooring/deck/shower photos inside their banner graphic (may be stock; not presented as their work).

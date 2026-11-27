@@ -1,0 +1,16 @@
+Image credits: Mow'n by Bowman preview
+
+THE BUSINESS'S OWN PHOTOS (saved from the Mow'n by Bowman LLC Facebook Page,
+https://www.facebook.com/profile.php?id=100062453328547 , on 2026-11-26)
+  assets/hero.jpg        long pine privacy fence along a drainage ditch (hero + gallery)  <- long-privacy-fence.jpg
+  assets/work-yard.jpg   privacy fence along a fresh lawn behind brick homes            <- board-fence-yard.jpg
+  assets/work-patio.jpg  privacy fence and gate around a patio                           <- privacy-fence-patio.jpg
+  assets/work-gate.jpg   new wood gate with black handle                                 <- wood-gate.jpg
+  assets/work-ranch.jpg  three-rail farm fence with wire mesh (bottom 16px cropped)       <- ranch-rail-fence.jpg
+  assets/og.jpg          social share image built from hero.jpg + the business name
+
+STOCK (Unsplash License, https://unsplash.com/license): NOT Mow'n by Bowman's work.
+Mood image on the lawn-care section only, never in the gallery. No logos, lettering or uniforms visible.
+  assets/lawn.jpg        string trimmer on a green lawn (cropped)   https://unsplash.com/photos/man-using-string-trimmer-on-lawn-xWAsrLw_1hk
+
+Fence-style drawings in the "Any fence style" cards and the project planner are hand-drawn inline SVG.

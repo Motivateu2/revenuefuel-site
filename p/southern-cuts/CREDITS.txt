@@ -1,0 +1,15 @@
+Southern Cuts preview: image credits
+
+REAL (Southern Cuts LLC Facebook Page, facebook.com/profile.php?id=61586802556907, saved 2026-11-26) — the business's own photos; confirm use with the owner before launch:
+  assets/hero-tile-roof-home.jpg  Tile-roof home, clipped hedges, mulch beds, ornamental grasses  (from tile-roof-home-beds.jpg, 994px; hero + gallery)
+  assets/work-shaped-shrubs.jpg   Shaped shrubs in gray rock, sago palm, golf-course view        (from sculpted-shrubs-golf-view.jpg, 994px)
+  assets/work-rock-bed.jpg        Gray-rock bed, foxtail ferns, lamp post, paver edging          (from rock-bed-lamp-post.jpg; top 70px cropped to remove a house number)
+  assets/work-villa-lawn.jpg      Pink stucco villa, rounded shrub, red-mulch beds, crisp lawn   (from villa-lawn-sharp-edges.jpg; bottom cropped to remove their trailer)
+  assets/og.jpg                   1200x630 share image built from hero-tile-roof-home.jpg with the name set on it
+
+DRAWN (made for this preview, no outside source):
+  Palm-and-sunset badge, palm silhouettes, sod-roll and rake-and-leaves illustrations: inline SVG, inspired by the palms/sunset on their Facebook graphics (not a copy of their logo).
+
+STOCK: none used.
+
+Fonts: Archivo, DM Sans, Playfair Display (Google Fonts, SIL Open Font License).

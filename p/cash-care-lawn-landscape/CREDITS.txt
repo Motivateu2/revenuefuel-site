@@ -1,0 +1,15 @@
+All photos are Cash Care Lawn & Landscape's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61553005650953) into
+~/revenue-fuel/website-ads/desk/photos/cash-care-lawn-landscape/ on 2026-11-26.
+
+assets/creek.jpg         <- dry-creek-bed.jpg (top 50px cropped to remove burned-in "AFTER")
+assets/stone-house.jpg   <- stone-house-beds.jpg
+assets/side-before.jpg   <- before-side-shrubs.jpg (top cropped to remove burned-in "Before")
+assets/side-after.jpg    <- after-side-shrubs.jpg (top cropped to remove burned-in "AFTER")
+assets/front-before.jpg  <- before-front-beds.jpg (top cropped; removes label and house number)
+assets/front-after.jpg   <- after-front-beds.jpg (top cropped; removes label and house number)
+assets/shed-pad.jpg      <- shed-pad-build.jpg
+assets/og.jpg            <- made from stone-house-beds.jpg with the business name set on it
+
+No stock photos used. Leaf shapes and icons are inline SVG drawn for this page.
+Fonts: Archivo, Manrope, Playfair Display, Yellowtail (Google Fonts, OFL).

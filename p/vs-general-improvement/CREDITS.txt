@@ -1,0 +1,15 @@
+VS General Improvement preview: image credits
+
+All photos are the business's own, saved from the VS General Improvement Facebook Page
+(https://www.facebook.com/VsGeneralImprovementRepairs/) on 2026-11-26. No stock images are used.
+
+assets/hallway.jpg         - hallway with wood-look plank floor and white trim (their post; source file finished-hallway-lvp.jpg)
+assets/bedroom.jpg         - finished bedroom, plank floor, white paint, ceiling fan (their post; finished-bedroom-lvp.jpg)
+assets/gazebo.jpg          - screened gazebo on a brick patio (their post; screened-gazebo.jpg)
+assets/drywall-vaulted.jpg - drywall hung in a vaulted great room, in progress (their post; drywall-vaulted.jpg)
+assets/drywall-open.jpg    - drywall in an open first floor, in progress (their post; drywall-open-plan.jpg)
+assets/og.jpg              - 1200x630 share image built from assets/hallway.jpg (no upscaling past ~1.12x) with their name set in Georgia/Avenir
+
+Logo/seal: redrawn as SVG in the page from the colors and house-roof shape of their own badge graphic
+(brand-badge.jpg on their Page). The badge image itself is not shown. "Home Depot Top Pro" from that badge is deliberately left out.
+Not used: the glossy blue/white kitchen images on their Page (appear to be AI renders).

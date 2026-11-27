@@ -1,0 +1,12 @@
+Jesse's Lawn Service preview: image credits
+
+REAL (Jesse's Lawn Service Facebook Page, https://www.facebook.com/jlsabilene, saved 2026-11-26, ~527x707 originals, not upscaled past ~1.1x). Owner's photos; confirm use with Jesse before launch:
+  assets/crew-planting-cottage.jpg   Two crew members planting beds at a gray craftsman cottage (story step 1)
+  assets/cottage-beds-finished.jpg   Same cottage finished: stone-edged mulch bed, shrubs (hero, story step 2)
+  assets/stepping-stones-beds.jpg    Same cottage: flagstone stepping-stone path, beds, river rock, agave (hero on desktop, story step 3)
+  assets/onyx-boulder-rock-bed.jpg   Banded boulder in a river-rock bed along a stone foundation (rock & boulder section)
+  assets/fresh-sod-brick-home.jpg    New sod lawn along a driveway at a brick home (sod section, hero on desktop)
+  assets/og.jpg                      1200x630 link card: built from cottage-beds-finished.jpg + the business name
+
+STOCK: none used.
+Logo mark: simple leaf-and-stone-bands icon drawn in SVG for this preview (the business has no logo on file).

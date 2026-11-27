@@ -1,0 +1,15 @@
+Rutts Painting preview: image credits
+
+REAL (Rutts Painting Facebook Page, https://www.facebook.com/profile.php?id=61574839155827, saved by the desk 2026-11-26 to
+~/revenue-fuel/website-ads/desk/photos/rutts-painting/). Owner's photos; confirm use with Brennan before launch. Not upscaled
+in the files (re-saved at original size):
+  assets/gray-ranch-exterior.jpg     Ranch home + garage repainted slate gray, white trim (930x637; car blurred in source). Hero, Trim card, gallery
+  assets/garage-doors-mid-paint.jpg  Two garage doors masked off mid-repaint to charcoal (930x637; house number blurred in source). Garage card, gallery
+  assets/navy-front-door.jpg         Navy six-panel front door, leaded glass, brass hardware (527x707). Front-door card, gallery, About
+  assets/blue-house-rear.jpg         1.5-story house in blue-gray with white trim (527x707). House-exteriors card, gallery
+  assets/shed-mid-paint.jpg          Shed side half painted (527x707). Mid-coat section, gallery
+  assets/shed-finished.jpg           Same shed fully painted, double doors (930x637). Sheds card, mid-coat section
+  assets/og.jpg                      1200x630 share image made from gray-ranch-exterior.jpg (1.29x scale) with the name set on it
+
+STOCK: none.
+Icons and the small paint-roller mark are drawn in inline SVG for this preview (not a logo of theirs; they have no logo on file).

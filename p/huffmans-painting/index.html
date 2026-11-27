@@ -1,0 +1,544 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Huffman's Painting · Interior &amp; Exterior Painting · Ball, LA</title>
+<meta name="description" content="Interior and exterior painting, pressure washing and commercial striping from Huffman's Painting in Ball, Louisiana, proudly serving Rapides Parish and Cenla. Call (318) 451-4822 for a free estimate.">
+<meta name="theme-color" content="#0B2A86">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Huffman's Painting · Interior &amp; Exterior Painting · Ball, LA">
+<meta property="og:description" content="Interior and exterior painting, pressure washing and commercial striping, proudly serving Rapides Parish and Cenla. Call (318) 451-4822 for a free estimate.">
+<meta property="og:url" content="https://revenuefuel.ai/p/huffmans-painting/">
+<meta property="og:image" content="https://revenuefuel.ai/p/huffmans-painting/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%231846D1'/%3E%3Crect x='12' y='14' width='34' height='14' rx='5' fill='%23fff'/%3E%3Cpath d='M46 21h6v12H32v8' fill='none' stroke='%23fff' stroke-width='4' stroke-linejoin='round'/%3E%3Crect x='28' y='40' width='8' height='14' rx='3' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..900&family=Manrope:wght@400;500;600;700;800&family=Playfair+Display:ital,wght@1,600;1,700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --blue:#1846D1;      /* their royal blue */
+  --blue-2:#2A5CF0;
+  --deep:#0B2A86;
+  --night:#071B5C;
+  --ink:#0A0D14;       /* their black */
+  --cream:#F6F0E3;     /* the warm cream from their exterior job */
+  --paper:#FFFDF8;
+  --line:#E4DCCB;
+  --muted:#596276;
+  --sky:#9DB7FF;
+  --display:"Archivo", "Manrope", system-ui, sans-serif;
+  --body:"Manrope", system-ui, -apple-system, sans-serif;
+  --accent:"Playfair Display", Georgia, serif;
+  --wrap:min(1160px, 100% - 32px);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--body);font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img{max-width:100%;display:block}
+a{color:inherit}
+button,input,textarea{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--blue-2);outline-offset:3px;border-radius:8px}
+.wrap{width:var(--wrap);margin-inline:auto}
+h1,h2,h3{font-family:var(--display);font-weight:850;font-stretch:112%;letter-spacing:-.02em;line-height:1;margin:0;text-wrap:balance}
+em.acc{font-family:var(--accent);font-style:italic;font-weight:600;font-stretch:normal;letter-spacing:-.01em}
+.eyebrow{font:800 12.5px/1.2 var(--display);font-stretch:90%;letter-spacing:.16em;text-transform:uppercase;color:var(--blue);display:inline-flex;align-items:center;gap:10px}
+.eyebrow::before{content:"";width:26px;height:6px;border-radius:6px;background:currentColor}
+.section{padding:84px 0}
+.lead{font-size:18px;color:var(--muted);max-width:56ch;margin:16px 0 0}
+
+/* ribbon + header */
+.ribbon{background:var(--ink);color:#fff;font:600 13px/1.35 var(--body);text-align:center;padding:8px 14px}
+.top{position:sticky;top:0;z-index:40;background:rgba(255,253,248,.92);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid rgba(10,13,20,.07)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;height:64px}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;min-width:0}
+.mark{width:40px;height:40px;border-radius:12px;background:var(--blue);display:grid;place-items:center;flex:none;box-shadow:0 8px 18px -8px rgba(24,70,209,.7)}
+.brand b{font:900 19px/1 var(--display);font-stretch:108%;letter-spacing:-.02em;white-space:nowrap}
+.brand small{display:block;font:700 10.5px/1 var(--display);font-stretch:90%;letter-spacing:.16em;text-transform:uppercase;color:var(--muted);margin-top:4px}
+.nav{display:none;gap:26px;font-weight:700;font-size:15px}
+.nav a{text-decoration:none;color:#2B3245}
+.nav a:hover{color:var(--blue)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:54px;padding:0 24px;border-radius:999px;border:0;cursor:pointer;text-decoration:none;font:800 16px/1 var(--body);letter-spacing:-.005em;transition:transform .15s ease,box-shadow .15s ease,background .15s}
+.btn:active{transform:translateY(1px)}
+.btn svg{flex:none}
+.btn-blue{background:var(--blue);color:#fff;box-shadow:0 14px 28px -12px rgba(24,70,209,.75)}
+.btn-blue:hover{background:var(--blue-2)}
+.btn-white{background:#fff;color:var(--deep);box-shadow:0 14px 30px -14px rgba(0,0,0,.55)}
+.btn-ghost{background:rgba(255,255,255,.1);color:#fff;box-shadow:inset 0 0 0 2px rgba(255,255,255,.55)}
+.btn-ghost:hover{background:rgba(255,255,255,.18)}
+.top .btn{min-height:42px;padding:0 16px;font-size:14.5px}
+.top .btn .full{display:none}
+
+/* hero */
+.hero{position:relative;color:#fff;background:var(--deep);overflow:hidden;isolation:isolate}
+.hero-photo{position:absolute;top:0;left:0;right:0;height:480px;z-index:-2}
+.hero-photo img{width:100%;height:100%;object-fit:cover;object-position:50% 30%}
+.hero::before{content:"";position:absolute;top:0;left:0;right:0;height:482px;z-index:-1;background:linear-gradient(180deg,rgba(7,27,92,0) 0%,rgba(7,27,92,0) 52%,rgba(11,42,134,.72) 78%,#0B2A86 100%)}
+.hero .wrap{display:flex;flex-direction:column;justify-content:flex-end;padding:356px 0 64px}
+.hero-inset{position:absolute;top:22px;right:16px;width:104px;border-radius:16px;overflow:hidden;box-shadow:0 18px 40px -14px rgba(0,0,0,.7),0 0 0 3px #fff;transform:rotate(3deg)}
+.hero-inset img{width:100%;aspect-ratio:425/549;object-fit:cover}
+.hero-inset span{position:absolute;left:6px;bottom:6px;background:var(--ink);color:#fff;font:800 10px/1 var(--display);letter-spacing:.12em;text-transform:uppercase;padding:5px 7px;border-radius:6px}
+.hero-tag{position:absolute;top:30px;left:16px;background:#fff;color:var(--deep);font:800 11px/1 var(--display);letter-spacing:.14em;text-transform:uppercase;padding:8px 11px;border-radius:8px;box-shadow:0 10px 24px -10px rgba(0,0,0,.6)}
+.hero .where{font:800 12.5px/1.3 var(--display);font-stretch:92%;letter-spacing:.16em;text-transform:uppercase;color:#CFDBFF;display:flex;align-items:center;gap:8px}
+.hero .where svg{flex:none}
+.hero h1{font-size:clamp(46px,13.5vw,96px);font-weight:900;font-stretch:118%;line-height:.92;letter-spacing:-.035em;margin:14px 0 0}
+.hero h1 .apos{color:var(--sky)}
+.hero .promise{font:700 clamp(25px,6.6vw,38px)/1.1 var(--display);font-stretch:105%;letter-spacing:-.02em;margin:16px 0 0;text-wrap:balance}
+.hero .promise em{font-family:var(--accent);font-style:italic;font-weight:600;color:#fff;background:linear-gradient(transparent 62%,rgba(42,92,240,.85) 62%,rgba(42,92,240,.85) 92%,transparent 92%)}
+.hero .sub{color:#DCE5FF;font-size:17px;max-width:46ch;margin:14px 0 0}
+.hero .cta{display:flex;flex-direction:column;gap:12px;margin-top:26px}
+.hero .chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:22px;padding:0;list-style:none}
+.hero .chips li{font:700 13px/1 var(--body);padding:9px 12px;border-radius:999px;background:rgba(255,255,255,.12);box-shadow:inset 0 0 0 1px rgba(255,255,255,.28)}
+.hero-card{display:none}
+.drip{display:block;width:100%;height:44px;color:var(--deep);background:var(--cream)}
+
+/* season strip */
+.season{background:var(--cream);padding:30px 0 0}
+.season .card{display:grid;gap:14px;background:#fff;border-radius:24px;padding:22px;box-shadow:0 24px 50px -36px rgba(10,13,20,.5),inset 0 0 0 1px var(--line)}
+.season .tabs{display:inline-flex;background:var(--cream);border-radius:999px;padding:4px;gap:4px;justify-self:start}
+.season .tabs button{border:0;background:transparent;border-radius:999px;padding:9px 14px;font:800 13.5px/1 var(--body);cursor:pointer;color:var(--muted)}
+.season .tabs button[aria-selected="true"]{background:var(--blue);color:#fff}
+.season h3{font-size:22px;font-stretch:104%}
+.season p{margin:6px 0 0;color:var(--muted)}
+.season a{font-weight:800;color:var(--blue);text-decoration:none}
+
+/* before / after */
+.work{background:var(--cream)}
+.work-grid{display:grid;gap:30px;margin-top:30px;align-items:center}
+.ba-tabs{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:16px}
+.ba-tabs button{border:0;cursor:pointer;border-radius:999px;padding:11px 16px;font:800 14.5px/1 var(--body);background:#fff;color:var(--ink);box-shadow:inset 0 0 0 1.5px var(--line)}
+.ba-tabs button[aria-selected="true"]{background:var(--ink);color:#fff;box-shadow:none}
+.stage{display:grid;justify-items:center}
+.ba{position:relative;width:100%;overflow:hidden;border-radius:22px;background:#ddd;box-shadow:0 34px 60px -34px rgba(10,13,20,.65);touch-action:pan-y;user-select:none;-webkit-user-select:none;--p:50%}
+.ba[hidden]{display:none}
+.ba.land{aspect-ratio:470/282;max-width:640px}
+.ba.port{aspect-ratio:425/549;max-width:420px}
+.ba img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;pointer-events:none}
+.ba .before{clip-path:inset(0 calc(100% - var(--p)) 0 0)}
+.ba .handle{position:absolute;top:0;bottom:0;left:var(--p);width:4px;margin-left:-2px;background:#fff;box-shadow:0 0 0 1px rgba(0,0,0,.12),0 0 18px rgba(0,0,0,.35);pointer-events:none}
+.ba .knob{position:absolute;top:50%;left:50%;width:52px;height:52px;margin:-26px 0 0 -26px;border-radius:50%;background:var(--blue);display:grid;place-items:center;box-shadow:0 0 0 4px #fff,0 10px 26px -6px rgba(0,0,0,.6)}
+.ba .lbl{position:absolute;top:14px;font:800 11.5px/1 var(--display);letter-spacing:.14em;text-transform:uppercase;padding:7px 10px;border-radius:8px;pointer-events:none}
+.ba .lbl.b{left:14px;background:rgba(10,13,20,.78);color:#fff}
+.ba .lbl.a{right:14px;background:#fff;color:var(--deep)}
+.ba input{position:absolute;inset:0;width:100%;height:100%;opacity:0;margin:0;cursor:ew-resize;-webkit-appearance:none;appearance:none}
+.ba-hint{display:flex;align-items:center;gap:8px;justify-content:center;font:700 14px/1 var(--body);color:var(--muted);margin-top:14px}
+.ba-copy .job{font:800 12.5px/1 var(--display);letter-spacing:.14em;text-transform:uppercase;color:var(--blue)}
+.ba-copy h3{font-size:clamp(28px,6.4vw,40px);margin-top:10px}
+.ba-copy p{color:#3B4356;margin:14px 0 0}
+.quote{position:relative;margin:18px 0 0;padding:18px 20px 18px 22px;background:#fff;border-radius:18px;box-shadow:inset 4px 0 0 var(--blue),inset 0 0 0 1px var(--line);font-size:17px;color:var(--ink)}
+.quote small{display:block;margin-top:8px;font:700 12.5px/1.2 var(--body);color:var(--muted)}
+.ba-copy .btn{margin-top:22px}
+
+/* services */
+.svc-grid{display:grid;gap:16px;margin-top:32px}
+.svc{position:relative;border-radius:24px;overflow:hidden;background:#fff;box-shadow:0 24px 48px -36px rgba(10,13,20,.6),inset 0 0 0 1px var(--line);display:flex;flex-direction:column}
+.svc .ph{aspect-ratio:16/10;overflow:hidden;background:var(--cream)}
+.svc .ph img{width:100%;height:100%;object-fit:cover}
+.form label.pick{display:block;font:inherit;letter-spacing:0;text-transform:none;margin:0;color:inherit}
+.svc .tx{padding:22px 22px 24px}
+.svc .num{font:900 13px/1 var(--display);color:var(--blue);letter-spacing:.1em}
+.svc h3{font-size:25px;margin-top:8px}
+.svc p{margin:10px 0 0;color:var(--muted);font-size:16px}
+.svc.solid{background:var(--blue);color:#fff;box-shadow:0 24px 48px -30px rgba(24,70,209,.9)}
+.svc.solid .num{color:#CFDBFF}
+.svc.solid p{color:#DCE5FF}
+.svc.dark{background:var(--ink);color:#fff}
+.svc.dark .num{color:var(--sky)}
+.svc.dark p{color:#B8C0D2}
+.svc .art{height:150px;position:relative;overflow:hidden}
+.washart{background:linear-gradient(100deg,#6F7682 0 46%,#C9CFD8 46% 100%)}
+.washart::after{content:"";position:absolute;left:44%;top:-10%;bottom:-10%;width:22px;background:linear-gradient(90deg,rgba(255,255,255,0),rgba(255,255,255,.9),rgba(255,255,255,0));transform:skewX(-10deg)}
+.washart span{position:absolute;left:18px;bottom:14px;font:800 11px/1 var(--display);letter-spacing:.14em;text-transform:uppercase;color:#fff;background:rgba(10,13,20,.55);padding:6px 9px;border-radius:7px}
+.stripeart{background:#23262C}
+.stripeart i{position:absolute;top:-20px;bottom:-20px;width:9px;background:#F3F1EA;transform:skewX(-22deg);box-shadow:0 0 0 1px rgba(255,255,255,.08)}
+.stripeart b{position:absolute;right:18px;bottom:16px;width:44px;height:44px;border-radius:10px;background:var(--blue);display:grid;place-items:center;color:#fff;font:900 24px/1 var(--display)}
+
+/* why */
+.why{background:var(--blue);color:#fff;position:relative;overflow:hidden}
+.why::before{content:"";position:absolute;right:-120px;top:-80px;width:420px;height:420px;border-radius:50%;background:radial-gradient(circle,rgba(255,255,255,.14),rgba(255,255,255,0) 65%)}
+.why .eyebrow{color:#CFDBFF}
+.why h2{font-size:clamp(36px,9vw,64px);margin-top:14px}
+.why h2 em{color:#fff}
+.why-grid{display:grid;gap:28px;margin-top:34px;align-items:center}
+.porch{position:relative;border-radius:24px;overflow:hidden;box-shadow:0 34px 60px -30px rgba(0,0,0,.65),0 0 0 6px rgba(255,255,255,.16);max-width:420px}
+.porch img{width:100%;aspect-ratio:492/600;object-fit:cover;object-position:50% 40%}
+.porch figcaption{position:absolute;left:12px;right:12px;bottom:12px;background:rgba(10,13,20,.78);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);color:#fff;padding:12px 14px;border-radius:14px;font-size:14.5px;line-height:1.4}
+.points{list-style:none;margin:0;padding:0;display:grid;gap:14px}
+.points li{display:grid;grid-template-columns:46px 1fr;gap:14px;align-items:start;background:rgba(7,27,92,.35);border-radius:18px;padding:16px;box-shadow:inset 0 0 0 1px rgba(255,255,255,.14)}
+.points .ic{width:46px;height:46px;border-radius:13px;background:#fff;color:var(--blue);display:grid;place-items:center}
+.points b{display:block;font:800 19px/1.2 var(--display);font-stretch:104%}
+.points span{color:#DCE5FF;font-size:15.5px}
+
+/* estimate */
+.est{background:var(--cream)}
+.est-grid{display:grid;gap:30px;margin-top:8px}
+.form{background:#fff;border-radius:26px;padding:22px;box-shadow:0 34px 64px -40px rgba(10,13,20,.55),inset 0 0 0 1px var(--line)}
+.form fieldset{border:0;margin:0 0 18px;padding:0}
+.form legend,.form label{display:block;font:800 13px/1.2 var(--display);font-stretch:95%;letter-spacing:.1em;text-transform:uppercase;color:#2B3245;margin-bottom:10px;padding:0}
+.picks{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.pick{position:relative}
+.pick input{position:absolute;opacity:0;inset:0}
+.pick span{display:flex;align-items:center;gap:8px;min-height:52px;padding:10px 12px;border-radius:14px;background:var(--paper);box-shadow:inset 0 0 0 1.5px var(--line);font:700 14.5px/1.2 var(--body);cursor:pointer;transition:background .15s,box-shadow .15s}
+.pick span::before{content:"";width:18px;height:18px;border-radius:6px;flex:none;box-shadow:inset 0 0 0 2px #B9B2A2;background:#fff}
+.pick input:checked+span{background:#EAF0FF;box-shadow:inset 0 0 0 2px var(--blue);color:var(--deep)}
+.pick input:checked+span::before{background:var(--blue) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 18 18'%3E%3Cpath d='M4.5 9.5l3 3 6-7' fill='none' stroke='%23fff' stroke-width='2.4' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/100% no-repeat;box-shadow:none}
+.pick input:focus-visible+span{outline:3px solid var(--blue-2);outline-offset:2px}
+.row2{display:grid;gap:14px}
+.form input[type=text],.form input[type=tel],.form textarea{width:100%;border:0;border-radius:14px;background:var(--paper);box-shadow:inset 0 0 0 1.5px var(--line);padding:14px 15px;font-size:16px;outline:none}
+.form input:focus,.form textarea:focus{box-shadow:inset 0 0 0 2px var(--blue)}
+.form textarea{min-height:104px;resize:vertical}
+.form .field{margin-bottom:16px}
+.form .btn{width:100%;margin-top:4px}
+.form .fine{font-size:13.5px;color:var(--muted);text-align:center;margin:12px 0 0}
+.call-big{display:block;text-decoration:none;background:var(--ink);color:#fff;border-radius:26px;padding:26px 24px;position:relative;overflow:hidden}
+.call-big::after{content:"";position:absolute;right:-40px;bottom:-60px;width:200px;height:200px;border-radius:50%;background:radial-gradient(circle,rgba(42,92,240,.6),rgba(42,92,240,0) 70%)}
+.call-big small{font:800 12px/1 var(--display);letter-spacing:.16em;text-transform:uppercase;color:var(--sky)}
+.call-big strong{display:block;font:900 clamp(30px,8.6vw,44px)/1 var(--display);font-stretch:108%;letter-spacing:-.02em;margin-top:12px;white-space:nowrap}
+.call-big span{display:block;color:#B8C0D2;margin-top:10px;font-size:15.5px}
+.area{margin-top:16px;background:#fff;border-radius:22px;padding:20px 22px;box-shadow:inset 0 0 0 1px var(--line);display:flex;gap:14px;align-items:flex-start}
+.area .pin{width:44px;height:44px;flex:none;border-radius:12px;background:var(--blue);color:#fff;display:grid;place-items:center}
+.area b{font:800 18px/1.25 var(--display);font-stretch:104%;display:block}
+.area span{color:var(--muted);font-size:15.5px}
+
+/* footer */
+footer{background:var(--ink);color:#C9CFDC;padding:56px 0 120px}
+footer .wrap{display:grid;gap:22px}
+footer .fbrand{display:flex;align-items:center;gap:12px}
+footer .fbrand b{font:900 24px/1 var(--display);font-stretch:110%;color:#fff;letter-spacing:-.02em}
+footer p{margin:0;font-size:15px}
+footer a{color:#fff;text-decoration:none;font-weight:700}
+.credit{border-top:1px solid rgba(255,255,255,.12);padding-top:20px;font-size:13.5px;color:#8C94A6}
+.credit a{color:#C9CFDC;font-weight:600;text-decoration:underline;text-underline-offset:3px}
+
+/* mobile call bar */
+.callbar{position:fixed;left:12px;right:12px;bottom:12px;z-index:50;display:grid;grid-template-columns:1.25fr 1fr;gap:8px;padding:8px;border-radius:22px;background:rgba(10,13,20,.88);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);box-shadow:0 20px 40px -14px rgba(0,0,0,.6)}
+.callbar .btn{min-height:50px;font-size:15px;padding:0 12px}
+
+/* dialog */
+dialog{border:0;border-radius:26px;padding:0;max-width:min(440px,calc(100vw - 32px));width:100%;margin:auto;box-shadow:0 40px 90px -20px rgba(0,0,0,.6);color:var(--ink);background:#fff}
+dialog::backdrop{background:rgba(7,27,92,.6);backdrop-filter:blur(3px)}
+.dlg-head{background:var(--blue);color:#fff;padding:24px 24px 20px}
+.dlg-head h3{font-size:26px}
+.dlg-body{padding:20px 24px 24px}
+.dlg-body p{margin:0 0 12px;color:#3B4356;font-size:16px}
+.summary{background:var(--cream);border-radius:14px;padding:12px 14px;font-size:15px;margin:0 0 16px;white-space:pre-line}
+.dlg-body .btn{width:100%}
+.dlg-body .close{margin-top:10px;background:transparent;color:var(--muted);min-height:44px}
+
+@media (min-width:600px){
+  .picks{grid-template-columns:1fr 1fr}
+  .row2{grid-template-columns:1fr 1fr}
+  .hero .cta{flex-direction:row}
+  .svc-grid{grid-template-columns:1fr 1fr}
+  .season .card{grid-template-columns:auto 1fr;align-items:center;gap:22px}
+}
+@media (min-width:960px){
+  .section{padding:110px 0}
+  .nav{display:flex}
+  .top .btn .full{display:inline}
+  .top .btn .short{display:none}
+  .hero{background:radial-gradient(110% 95% at 85% 5%,#1D4FE0 0%,#0B2A86 62%)}
+  .hero::before,.hero-photo,.hero-inset,.hero-tag{display:none}
+  .hero .wrap{min-height:0;display:grid;grid-template-columns:1.12fr .88fr;gap:56px;align-items:center;padding:84px 0 92px}
+  .hero .sub{font-size:18.5px}
+  .hero-card{display:block;position:relative;justify-self:end;width:440px}
+  .hero-card .main{border-radius:28px;overflow:hidden;box-shadow:0 50px 90px -40px rgba(0,0,0,.85),0 0 0 8px rgba(255,255,255,.1)}
+  .hero-card .main img{width:100%;aspect-ratio:425/549;object-fit:cover}
+  .hero-card .mini{position:absolute;left:-70px;bottom:44px;width:170px;border-radius:18px;overflow:hidden;box-shadow:0 0 0 5px #fff,0 30px 50px -20px rgba(0,0,0,.8);transform:rotate(-4deg)}
+  .hero-card .mini img{width:100%;aspect-ratio:425/549;object-fit:cover}
+  .hero-card .tag{position:absolute;font:800 11.5px/1 var(--display);letter-spacing:.14em;text-transform:uppercase;padding:7px 10px;border-radius:8px}
+  .hero-card .tag.a{top:18px;right:18px;background:#fff;color:var(--deep)}
+  .hero-card .mini .tag{left:8px;bottom:8px;background:var(--ink);color:#fff;font-size:10px}
+  .hero-card .note{position:absolute;right:-14px;bottom:-22px;background:#fff;color:var(--ink);border-radius:16px;padding:12px 16px;font:700 14px/1.3 var(--body);box-shadow:0 20px 40px -18px rgba(0,0,0,.6);text-decoration:none;display:flex;gap:10px;align-items:center}
+  .work-grid{grid-template-columns:660px 1fr;gap:56px}
+  .svc-grid{grid-template-columns:repeat(4,1fr)}
+  .svc .ph,.svc .art{aspect-ratio:auto;height:190px}
+  .why-grid{grid-template-columns:420px 1fr;gap:64px}
+  .est-grid{grid-template-columns:1.1fr .9fr;gap:40px;align-items:start}
+  .form{padding:30px}
+  .picks{grid-template-columns:repeat(4,1fr)}
+  .callbar{display:none}
+  footer{padding-bottom:56px}
+  footer .wrap{grid-template-columns:1fr auto;align-items:end}
+  .credit{grid-column:1/-1}
+}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;transition:none!important}}
+</style>
+<script src="/rf-track.js" defer></script>
+</head>
+<body>
+<div class="ribbon">Free preview built for Huffman's Painting by Revenue Fuel · Not live yet</div>
+
+<header class="top">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Huffman's Painting home">
+      <span class="mark" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24"><rect x="2" y="3" width="15" height="6.5" rx="2.2" fill="#fff"/><path d="M17 6h3.2v5.6H11v3.4" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/><rect x="9.2" y="14.6" width="3.6" height="7" rx="1.4" fill="#fff"/></svg></span>
+      <span><b>Huffman's Painting</b><small>Ball, LA</small></span>
+    </a>
+    <nav class="nav" aria-label="Sections">
+      <a href="#work">Before &amp; after</a>
+      <a href="#services">Services</a>
+      <a href="#why">Why Huffman's</a>
+      <a href="#estimate">Free estimate</a>
+    </nav>
+    <a class="btn btn-blue" href="tel:+13184514822"><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg><span class="short">Call</span><span class="full">(318) 451-4822</span></a>
+  </div>
+</header>
+
+<main id="top">
+<section class="hero" aria-label="Huffman's Painting">
+  <div class="hero-photo"><img src="assets/living-after.jpg" alt="Living room finished by Huffman's Painting: fresh white walls, black trim and a brick fireplace" fetchpriority="high"></div>
+  <span class="hero-tag">After</span>
+  <figure class="hero-inset" aria-hidden="true" style="margin:0"><img src="assets/living-before.jpg" alt=""><span>Before</span></figure>
+  <div class="wrap">
+    <div>
+      <div class="where"><svg width="14" height="14" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg>Ball, LA · Rapides Parish &amp; Cenla</div>
+      <h1>Huffman<span class="apos">'</span>s Painting</h1>
+      <p class="promise">Quality work, <em>honest prices.</em></p>
+      <p class="sub">Interior and exterior painting, pressure washing and commercial striping. Call for a free estimate.</p>
+      <div class="cta">
+        <a class="btn btn-white" href="tel:+13184514822"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>Call (318) 451-4822</a>
+        <a class="btn btn-ghost" href="#estimate">Get a free estimate</a>
+      </div>
+      <ul class="chips" aria-label="Services">
+        <li>Interior</li><li>Exterior</li><li>Pressure washing</li><li>Commercial striping</li>
+      </ul>
+    </div>
+    <div class="hero-card">
+      <div class="main"><img src="assets/living-after.jpg" alt="Living room after a Huffman's Painting job"></div>
+      <span class="tag a">After</span>
+      <div class="mini"><img src="assets/living-before.jpg" alt="The same living room before"><span class="tag">Before</span></div>
+      <a class="note" href="#work"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path fill="#1846D1" d="M8 5 1 12l7 7V5zm8 0v14l7-7-7-7z"/></svg>Drag the slider on real jobs</a>
+    </div>
+  </div>
+</section>
+<svg class="drip" viewBox="0 0 1440 44" preserveAspectRatio="none" aria-hidden="true"><path fill="currentColor" d="M0 0h1440v10c-40 0-46 26-66 26s-22-26-58-26H1170c-30 0-28 18-46 18s-18-18-44-18H860c-26 0-26 30-48 30s-22-30-50-30H560c-28 0-30 16-48 16s-22-16-50-16H300c-30 0-30 24-52 24s-24-24-52-24H90C60 10 60 22 44 22S22 10 0 10z"/></svg>
+
+<section class="season" aria-label="What to paint this time of year">
+  <div class="wrap">
+    <div class="card">
+      <div class="tabs" role="tablist" aria-label="Season">
+        <button role="tab" aria-selected="true" data-s="0">This winter</button>
+        <button role="tab" aria-selected="false" data-s="1">This spring</button>
+      </div>
+      <div id="seasonText">
+        <h3>Fresh rooms before company comes.</h3>
+        <p>Interior painting doesn't wait on the weather. Get the living room, bedrooms or trim done while it's cool outside. <a href="#estimate">Ask for a free estimate →</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section work" id="work">
+  <div class="wrap">
+    <span class="eyebrow">Real jobs · drag to compare</span>
+    <h2 style="font-size:clamp(36px,9vw,64px);margin-top:14px">See the <em class="acc">difference.</em></h2>
+    <div class="work-grid">
+      <div>
+        <div class="ba-tabs" role="tablist" aria-label="Projects">
+          <button role="tab" aria-selected="true" data-j="0">House exterior</button>
+          <button role="tab" aria-selected="false" data-j="1">Living room</button>
+          <button role="tab" aria-selected="false" data-j="2">Bedroom</button>
+        </div>
+        <div class="stage">
+          <div class="ba land" data-j="0">
+            <img src="assets/ext-after.jpg" alt="Ranch house after: warm cream siding, white trim and porch railing, dark shutters">
+            <img class="before" src="assets/ext-before.jpg" alt="The same house before repainting">
+            <span class="lbl b">Before</span><span class="lbl a">After</span>
+            <div class="handle"><span class="knob"><svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path fill="#fff" d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></span></div>
+            <input type="range" min="0" max="100" value="50" aria-label="Drag to compare the house before and after">
+          </div>
+          <div class="ba port" data-j="1" hidden>
+            <img src="assets/living-after.jpg" alt="Living room after: fresh walls and black trim">
+            <img class="before" src="assets/living-before.jpg" alt="The same living room before, mid-project">
+            <span class="lbl b">Before</span><span class="lbl a">After</span>
+            <div class="handle"><span class="knob"><svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path fill="#fff" d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></span></div>
+            <input type="range" min="0" max="100" value="50" aria-label="Drag to compare the living room before and after">
+          </div>
+          <div class="ba port" data-j="2" hidden>
+            <img src="assets/bedroom-after.jpg" alt="Bedroom after: clean white walls, black trim and window frame">
+            <img class="before" src="assets/bedroom-before.jpg" alt="The same bedroom before, mid-project">
+            <span class="lbl b">Before</span><span class="lbl a">After</span>
+            <div class="handle"><span class="knob"><svg width="24" height="24" viewBox="0 0 24 24" aria-hidden="true"><path fill="#fff" d="M9 6 3 12l6 6V6zm6 0v12l6-6-6-6z"/></svg></span></div>
+            <input type="range" min="0" max="100" value="50" aria-label="Drag to compare the bedroom before and after">
+          </div>
+          <div class="ba-hint"><svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="#1846D1" d="M8 5 1 12l7 7V5zm8 0v14l7-7-7-7z"/></svg>Slide left and right</div>
+        </div>
+      </div>
+      <div class="ba-copy" id="baCopy" aria-live="polite">
+        <div class="job">Exterior repaint</div>
+        <h3>Warm cream, white trim, dark shutters.</h3>
+        <blockquote class="quote">“We repainted the outside in a warm cream, freshened up the white trim and porch railing, and the dark shutters really pop now.”<small>Huffman's Painting, on this job</small></blockquote>
+        <a class="btn btn-blue" href="#estimate">Get a free estimate</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="services">
+  <div class="wrap">
+    <span class="eyebrow">What we do</span>
+    <h2 style="font-size:clamp(36px,9vw,64px);margin-top:14px">Inside, outside and <em class="acc">the parking lot.</em></h2>
+    <p class="lead">Four kinds of work, one local number to call.</p>
+    <div class="svc-grid">
+      <article class="svc">
+        <div class="ph"><img src="assets/bedroom-after.jpg" alt="Bedroom with fresh white walls and black trim" style="object-position:50% 30%"></div>
+        <div class="tx"><div class="num">01</div><h3>Interior painting</h3><p>Walls, trim and window frames. Clean lines and rooms that feel new.</p></div>
+      </article>
+      <article class="svc">
+        <div class="ph"><img src="assets/ext-after.jpg" alt="House exterior repainted warm cream with white trim"></div>
+        <div class="tx"><div class="num">02</div><h3>Exterior painting</h3><p>Siding, trim, porch railings and shutters, so the whole house looks cared for.</p></div>
+      </article>
+      <article class="svc solid">
+        <div class="art washart" aria-hidden="true"></div>
+        <div class="tx"><div class="num">03</div><h3>Pressure washing</h3><p>Wash off the grime and mildew before paint, or just to freshen up. Ask what it would take for yours.</p></div>
+      </article>
+      <article class="svc dark">
+        <div class="art stripeart" aria-hidden="true"><i style="left:14%"></i><i style="left:36%"></i><i style="left:58%"></i><i style="left:80%"></i><b>P</b></div>
+        <div class="tx"><div class="num">04</div><h3>Commercial striping</h3><p>Fresh, sharp parking-lot lines for businesses across Cenla.</p></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="section why" id="why">
+  <div class="wrap">
+    <span class="eyebrow">Why Huffman's</span>
+    <h2>Painting? <em class="acc">We make it easy.</em></h2>
+    <div class="why-grid">
+      <figure class="porch" style="margin:0">
+        <img src="assets/porch.jpg" alt="Porch floor freshly painted gray with a crisp white edge line">
+        <figcaption>A freshly painted porch floor, finished with a crisp white edge line.</figcaption>
+      </figure>
+      <ul class="points">
+        <li><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2 3 6v6c0 5 3.8 9.4 9 10 5.2-.6 9-5 9-10V6l-9-4zm-1.2 14.2-3.7-3.7 1.4-1.4 2.3 2.3 5-5 1.4 1.4-6.4 6.4z"/></svg></span><div><b>Quality work, honest prices</b><span>Our motto, and the way we work.</span></div></li>
+        <li><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M19 3H5a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2V5a2 2 0 0 0-2-2zm-9 14-5-5 1.4-1.4 3.6 3.6 7.6-7.6L19 8l-9 9z"/></svg></span><div><b>Free estimates</b><span>Tell us what you need painted, washed or striped. The estimate is free.</span></div></li>
+        <li><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg></span><div><b>Local to Ball, LA</b><span>Proudly serving Rapides Parish &amp; Cenla.</span></div></li>
+        <li><span class="ic"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M4 4h10v5H4zM14 6.5h4V13H9v3h2v6H7v-6h2v-5h7V8.5h-2z"/></svg></span><div><b>One call covers it</b><span>Interior, exterior, pressure washing and striping from one local company.</span></div></li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<section class="section est" id="estimate">
+  <div class="wrap">
+    <span class="eyebrow">Free estimate</span>
+    <h2 style="font-size:clamp(36px,9vw,64px);margin-top:14px">Tell us about <em class="acc">the job.</em></h2>
+    <p class="lead">Pick what you need, add a few details, and Huffman's Painting will get back to you. In a hurry? Just call.</p>
+    <div class="est-grid" style="margin-top:30px">
+      <form class="form" id="quoteForm" novalidate>
+        <fieldset>
+          <legend>What do you need?</legend>
+          <div class="picks">
+            <label class="pick"><input type="checkbox" name="svc" value="Interior painting" checked><span>Interior painting</span></label>
+            <label class="pick"><input type="checkbox" name="svc" value="Exterior painting"><span>Exterior painting</span></label>
+            <label class="pick"><input type="checkbox" name="svc" value="Pressure washing"><span>Pressure washing</span></label>
+            <label class="pick"><input type="checkbox" name="svc" value="Commercial striping"><span>Commercial striping</span></label>
+          </div>
+        </fieldset>
+        <div class="field"><label for="f-job">About the project</label><textarea id="f-job" name="job" placeholder="e.g. Two bedrooms and a hallway, walls and trim"></textarea></div>
+        <div class="row2">
+          <div class="field"><label for="f-name">Your name</label><input id="f-name" type="text" name="name" autocomplete="name"></div>
+          <div class="field"><label for="f-phone">Phone</label><input id="f-phone" type="tel" name="phone" autocomplete="tel"></div>
+        </div>
+        <div class="field"><label for="f-town">Town</label><input id="f-town" type="text" name="town" placeholder="e.g. Pineville"></div>
+        <button class="btn btn-blue" type="submit">Request my free estimate</button>
+        <p class="fine">Or call <a href="tel:+13184514822" style="font-weight:800;color:var(--blue)">(318) 451-4822</a></p>
+      </form>
+      <div>
+        <a class="call-big" href="tel:+13184514822"><small>Fastest way</small><strong>(318) 451-4822</strong><span>Call Huffman's Painting for a free estimate.</span></a>
+        <div class="area"><span class="pin"><svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5z"/></svg></span><div><b>Based in Ball, LA</b><span>Proudly serving Rapides Parish &amp; Cenla.</span></div></div>
+      </div>
+    </div>
+  </div>
+</section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <div class="fbrand"><span class="mark" aria-hidden="true"><svg width="24" height="24" viewBox="0 0 24 24"><rect x="2" y="3" width="15" height="6.5" rx="2.2" fill="#fff"/><path d="M17 6h3.2v5.6H11v3.4" fill="none" stroke="#fff" stroke-width="2" stroke-linejoin="round"/><rect x="9.2" y="14.6" width="3.6" height="7" rx="1.4" fill="#fff"/></svg></span><b>Huffman's Painting</b></div>
+      <p style="margin-top:12px">Interior &amp; exterior painting · Pressure washing · Commercial striping</p>
+      <p>Ball, LA · Rapides Parish &amp; Cenla</p>
+    </div>
+    <p><a href="tel:+13184514822">(318) 451-4822</a></p>
+    <div class="credit"><a href="https://revenuefuel.ai" target="_blank" rel="noopener">Powered by revenuefuel.ai</a></div>
+  </div>
+</footer>
+
+<div class="callbar">
+  <a class="btn btn-blue" href="tel:+13184514822"><svg width="16" height="16" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M6.6 10.8a15.1 15.1 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1z"/></svg>Call now</a>
+  <a class="btn btn-white" href="#estimate">Free estimate</a>
+</div>
+
+<dialog id="dlg" aria-labelledby="dlgTitle">
+  <div class="dlg-head"><h3 id="dlgTitle">Almost there!</h3></div>
+  <div class="dlg-body">
+    <p>This website is a preview, so the form isn't connected yet and nothing was sent. Here's what your request would say:</p>
+    <div class="summary" id="dlgSummary"></div>
+    <p>To reach Huffman's Painting today, give them a call.</p>
+    <a class="btn btn-blue" href="tel:+13184514822">Call (318) 451-4822</a>
+    <button class="btn close" type="button" id="dlgClose">Close</button>
+  </div>
+</dialog>
+
+<script>
+(function(){
+  /* before / after sliders */
+  document.querySelectorAll('.ba').forEach(function(ba){
+    var r=ba.querySelector('input');
+    function set(v){ba.style.setProperty('--p',v+'%')}
+    r.addEventListener('input',function(){set(r.value)});
+    set(r.value);
+  });
+  var copy=[
+    {job:'Exterior repaint',h:'Warm cream, white trim, dark shutters.',q:'“We repainted the outside in a warm cream, freshened up the white trim and porch railing, and the dark shutters really pop now.”',s:"Huffman's Painting, on this job"},
+    {job:'Living room',h:'From torn-up to finished.',q:'Fresh walls and crisp black trim around the room, with the brick fireplace left to stand out.',s:'From the job photos'},
+    {job:'Bedroom',h:'Clean white walls, black trim.',q:'Bright white walls with black baseboards and a black window frame for a sharp, modern look.',s:'From the job photos'}
+  ];
+  var tabs=document.querySelectorAll('.ba-tabs button'), cp=document.getElementById('baCopy');
+  tabs.forEach(function(t){t.addEventListener('click',function(){
+    var j=+t.dataset.j;
+    tabs.forEach(function(x){x.setAttribute('aria-selected',x===t?'true':'false')});
+    document.querySelectorAll('.ba').forEach(function(b){b.hidden=(+b.dataset.j!==j)});
+    var c=copy[j];
+    cp.querySelector('.job').textContent=c.job;
+    cp.querySelector('h3').textContent=c.h;
+    var q=cp.querySelector('.quote'); q.firstChild.textContent=c.q; q.querySelector('small').textContent=c.s;
+  })});
+
+  /* season toggle */
+  var seasons=[
+    {h:'Fresh rooms before company comes.',p:"Interior painting doesn't wait on the weather. Get the living room, bedrooms or trim done while it's cool outside."},
+    {h:'Get on the list for the outside.',p:'Planning an exterior repaint or a pressure wash for warmer weather? Get your free estimate now.'}
+  ];
+  var sb=document.querySelectorAll('.season .tabs button'), st=document.getElementById('seasonText');
+  sb.forEach(function(b){b.addEventListener('click',function(){
+    sb.forEach(function(x){x.setAttribute('aria-selected',x===b?'true':'false')});
+    var s=seasons[+b.dataset.s];
+    st.querySelector('h3').textContent=s.h;
+    st.querySelector('p').firstChild.textContent=s.p+' ';
+  })});
+
+  /* estimate form: opens a dialog, sends nothing */
+  var f=document.getElementById('quoteForm'), d=document.getElementById('dlg');
+  f.addEventListener('submit',function(e){
+    e.preventDefault();
+    var svc=[].map.call(f.querySelectorAll('input[name=svc]:checked'),function(i){return i.value});
+    var lines=['Service: '+(svc.length?svc.join(', '):'Not picked yet')];
+    if(f.job.value.trim())lines.push('Project: '+f.job.value.trim());
+    if(f.town.value.trim())lines.push('Town: '+f.town.value.trim());
+    if(f.name.value.trim())lines.push('Name: '+f.name.value.trim());
+    document.getElementById('dlgSummary').textContent=lines.join('\n');
+    if(d.showModal)d.showModal();else d.setAttribute('open','');
+  });
+  document.getElementById('dlgClose').addEventListener('click',function(){d.close?d.close():d.removeAttribute('open')});
+  d.addEventListener('click',function(e){if(e.target===d)d.close()});
+})();
+</script>
+</body>
+</html>

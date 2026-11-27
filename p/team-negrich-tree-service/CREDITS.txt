@@ -1,0 +1,10 @@
+Team Negrich Tree Service preview: image credits
+
+All photos are the business's own, saved from their Facebook Page (https://www.facebook.com/teamnegrich) on 2026-11-26:
+- assets/hero.jpg: grapple-saw machine removing a tree in a residential yard (source file grapple-saw-machine-yard.jpg, upscaled to 1600px wide with light sharpening)
+- assets/high-rise.jpg: same machine lifting a palm beside tall buildings (grapple-machine-high-rise.jpg; property not named)
+- assets/bucket-truck.jpg: drone shot of their bucket truck and lift trimming oaks over a street (drone-bucket-truck-street.jpg, upscaled to 1200px)
+- assets/game-changer.jpg: close-up of their "Game Changer 2.0" equipment wrap with logo and phone (truck-wrap-logo-phone.jpg)
+- assets/og.jpg: 1200x630 share image built from hero photo + their name set in DIN Condensed
+
+No stock photos used. Tree logo mark is a simple SVG drawn for this preview, inspired by the three trees in their logo.

@@ -1,0 +1,15 @@
+Integrated Home Solutions preview — image credits
+
+REAL (Integrated Home Solutions Facebook Page, facebook.com/profile.php?id=61574182319091, saved 2026-11-26) — the business's own photos; confirm use with Ross before launch:
+  assets/roof-coated.jpg            Freshly coated red standing-seam metal roof, sun flare   (metal-roof-coated-red-sun.jpg, 501x602)
+  assets/roof-coating-progress.jpg  Red coating going onto a metal roof, sprayer + tray       (metal-roof-coating-in-progress.jpg, 501x602)
+  assets/soffit-before.jpg          Patio soffit torn open, vinyl hanging (before)           (soffit-damaged-before.jpg, 465x600)
+  assets/soffit-after.jpg           Long patio ceiling/soffit repaired (after; different angle) (patio-soffit-repaired-after.jpg, 465x600)
+  assets/porch-finished.jpg         Finished porch soffit + siding, right ~26% cropped off (child's toy) (porch-soffit-siding-clean.jpg)
+  assets/hero-bg.jpg                Blurred, enlarged copy of roof-coated.jpg used as the hero background
+  assets/og.jpg                     1200x630 share image built from roof-coated.jpg + their name (Pillow, DIN Condensed / Arial)
+
+LOGO: rebuilt in inline SVG (house roofline, star, red/white flag swoosh, navy tile) from the description of their Facebook logo. Not a copy of the original file.
+
+STOCK: none. No Unsplash or other third-party images are used anywhere on the page.
+The cement-work card uses a CSS-drawn concrete texture, not a photo.

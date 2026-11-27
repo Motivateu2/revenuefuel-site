@@ -1,0 +1,15 @@
+Jones Customs & Trees preview: image credits
+
+ALL images are the business's own, saved from the Jones Customs & Trees Facebook Page
+(https://www.facebook.com/profile.php?id=100091354002287) on 2026-11-26. Confirm use with the owner before launch.
+
+  assets/backyard-fence.jpg  bucket truck over a privacy fence, crew loading a dump trailer (from bucket-truck-backyard.jpg, Facebook viewer bar cropped off, 948x482)
+  assets/bucket-chainsaw.jpg crewman in the bucket cutting with a chainsaw (from bucket-chainsaw-cut.jpg, 395x657)
+  assets/cottonwood.jpg      bucket truck in a tall cottonwood beside a house (from bucket-truck-cottonwood.jpg, 541x707)
+  assets/roof-pruning.jpg    climber pruning with a pole saw from a roof (from climber-roof-pruning.jpg, 395x657)
+  assets/logo-red.jpg        their logo graphic "Jones Customs, We Do Trees" (from brand-logo-red.jpg, viewer bar cropped, 733x491)
+  assets/mark.jpg            the white tree from their logo, cut out and set on a flat red square (derived from brand-logo-red.jpg)
+  assets/og.jpg              share image 1200x630: backyard-fence.jpg + their tree mark + name set in Superclarendon
+
+No stock photos are used. The bare-tree illustration, map sketch and icons are drawn in inline SVG.
+Fonts: Bitter and Archivo (Google Fonts, SIL Open Font License).

@@ -1,0 +1,19 @@
+Elevation Home Solutions preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN, saved from the Elevation Home Solutions Facebook Page
+(https://www.facebook.com/profile.php?id=61588681421464) on 2026-11-26,
+via ~/revenue-fuel/website-ads/desk/photos/elevation-home-solutions/. Re-saved as JPG, no resizing (sources are 422–993px wide).
+Confirm use with the owner before launch.
+
+  assets/roof-ridge-work.jpg         (roof-ridge-work.jpg) mobile hero background, desktop hero framed photo, gallery
+  assets/new-shingles.jpg            (new-shingles-view.jpg) desktop hero inset, "New roofs" service card, gallery
+  assets/brick-ranch.jpg             (brick-ranch-rear.jpg) gallery
+  assets/floor-restoration-crew.jpg  (floor-restoration-crew.jpg) hardwood service card, crew section (tight crop)
+  assets/hero-bg.jpg                 blurred, enlarged copy of roof-ridge-work.jpg used as the desktop hero background only
+  assets/og.jpg                      1200x630 link preview built with Pillow from roof-ridge-work.jpg + their name (DIN Condensed / Arial, macOS system fonts)
+
+NO STOCK PHOTOS are used (web search was unavailable for this build). Topographic contour lines, diagonal "rain" texture,
+icons and the iPhone mockup are CSS/SVG drawn for this page.
+LOGO: the house-roof + mountain-peaks mark is rebuilt in inline SVG from the description of their Facebook logo
+(white roof + peaks on navy). Not their original artwork file. The small amber peak accent is a page design choice.
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL Open Font License).

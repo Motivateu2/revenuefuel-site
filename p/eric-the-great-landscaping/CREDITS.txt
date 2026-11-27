@@ -1,0 +1,15 @@
+Eric The Great Landscaping preview — image credits
+
+REAL (Eric The Great Landscaping Facebook Page, facebook.com/ericthegreatlandscaping, saved 2026-11-26) — the owner's own photos; confirm use with Eric before launch. Used at original size (930px or 527px wide), not upscaled past ~1.3x:
+  assets/turf-soccer-sport-court.jpg  Turf mini soccer field with goals beside a blue/red sport court (hero, card 05, og.jpg)
+  assets/putting-green-sideyard.jpg   Kidney-shaped turf putting green with three yellow flags in a side yard (card 01)
+  assets/putting-green-flag.jpg       Putter, red ball and yellow flag on a turf green (card 02)
+  assets/flagstone-firepit-court.jpg  Flagstone circle with round fire pit, sport court behind (card 03)
+  assets/flagstone-circle-patio.jpg   Flagstone circle on red granite behind a brick home (card 04)
+  assets/flagstone-circle-mural.jpg   Flagstone circle, red granite and path, fence mural behind (card 06)
+  assets/og.jpg                       1200x630 share image made from turf-soccer-sport-court.jpg with the name set on it
+
+STOCK: none.
+
+DRAWN FOR THIS PREVIEW (no outside source): the flag-on-green mark, the fire-pit illustration and the top-down backyard plan are inline SVG.
+Fonts: Big Shoulders Display, Inter, Playfair Display (Google Fonts, SIL Open Font License).

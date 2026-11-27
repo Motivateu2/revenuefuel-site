@@ -1,0 +1,16 @@
+Image credits: V&G GreenBellies Lawn preview
+
+THE BUSINESS'S OWN PHOTOS (saved from the V&G GreenBellies Lawn LLC Facebook Page, https://www.facebook.com/profile.php?id=61556929353263; used only in the hero card, the "Our work" gallery and og.jpg)
+- assets/striped-lawn.jpg: freshly mowed striped lawn (565x703, unchanged size)
+- assets/edged-sidewalk-lawn.jpg: edged sidewalk between lawns (323x391, unchanged size)
+- assets/mulch-bed-fountain.jpg: mulch bed with trimmed shrubs around a fountain; cropped to remove screenshot borders and a zoom icon; their own "@ V&G GREENBELLIES LAWN LLC" tag is burned into the photo (835x612)
+- assets/cleanup-before-after.jpg: their "BEFORE / AFTER - Clean up" backyard image, labels burned in by them (577x420; trimmed a thin white border, not resized)
+- assets/og.jpg: 1200x630 share image built from striped-lawn.jpg (shown at natural size, not upscaled) plus set type
+
+STOCK (mood background only, not captioned or presented as their work)
+- assets/snow-walkway-unsplash.jpg: snowy sidewalk at night with snow-buried cars, Unsplash photo id 1551582045-6ec9c11d8697
+  Source file: https://images.unsplash.com/photo-1551582045-6ec9c11d8697 (Unsplash License, free to use).
+  Cropped to the lower-left of the frame so that no shop sign, street sign or lettering is visible. Used as the dimmed background of the snow-removal section.
+
+The "V&G" monogram and all icons are set in type / drawn in inline SVG on the page; no logo file from the business was used.
+Their AI-illustrated snow flyer was NOT used.

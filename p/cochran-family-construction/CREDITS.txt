@@ -1,0 +1,11 @@
+All photos and the logo belong to Cochran Family Construction, saved from their Facebook Page
+(https://www.facebook.com/p/Cochran-Family-Construction-61577172477637/).
+
+assets/steel-shop-overhead-doors.jpg  their photo, unchanged (930x637)
+assets/new-garage-door.jpg            their photo, cropped top to remove the blurred house-number patch
+assets/kitchen-tile-backsplash.jpg    their photo, cropped to remove a cleaning bottle (left) and dish rack (right)
+assets/office-cabinets-install.jpg    their photo, unchanged
+assets/logo-ink.png                   their logo (brand-logo.jpg), cropped and cream background made transparent
+assets/og.jpg                         1200x630 share image built from their steel-shop photo + name set in DM Serif Display
+
+No stock photos used. Fonts: Google Fonts (DM Serif Display, Cinzel, Playfair Display, Inter), OFL.

@@ -1,0 +1,13 @@
+Roll With Mike preview: image credits
+
+All photos on this page are Roll With Mike, LLC's own, saved from their Facebook Page
+(https://www.facebook.com/RollWithMikeLLC) on 2026-11-26. No stock images are used.
+
+assets/room-prep-wide.jpg  Living-room job, furniture wrapped in plastic, drop cloths, fresh trim. Roll With Mike Facebook Page. Unaltered (610x659).
+assets/room-prep.jpg       Same room, drop cloths down, finished ceiling battens. Roll With Mike Facebook Page. Unaltered (492x659).
+assets/deck-before.jpg     Weathered, peeling deck before staining. Roll With Mike Facebook Page. Unaltered (492x659).
+assets/logo.jpg            Round logo cropped from Roll With Mike's own "Customer Testimonial" graphic (Facebook Page). Cropped only.
+assets/og.jpg              1200x630 share image built by Revenue Fuel from assets/room-prep-wide.jpg (downscaled, not upscaled) + assets/logo.jpg; text set in Avenir Next.
+
+Decorative elements (paint band, roller drawing, paint-chip colors, icons) are hand-drawn CSS/SVG using colors sampled from their logo.
+Fonts: Archivo, DM Sans, Playfair Display (Google Fonts, OFL).

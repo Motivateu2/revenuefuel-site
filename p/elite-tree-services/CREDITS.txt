@@ -1,0 +1,9 @@
+All images are Elite Tree Services' own, saved from their Facebook Page (https://www.facebook.com/p/Elite-Tree-Services-61574005393808/):
+- assets/logo.jpg: their badge logo (cropped from brand-logo.jpg)
+- assets/giant-log-removal.jpg: crew member on a huge felled trunk
+- assets/climber-topping-tree.jpg: roped climber above a house roof
+- assets/crew-big-log-cut.jpg: crew member in hi-vis beside a giant cut log
+- assets/street-job-chipper.jpg: chipper and crew on a residential street
+- assets/storm-split-tree.jpg: storm-split tree
+- assets/og.jpg: share image composed from giant-log-removal.jpg + their logo
+No stock photos used. Icons are inline SVG drawn for this page. Fonts: Google Fonts (Big Shoulders Display, Inter, Playfair Display).

@@ -1,0 +1,16 @@
+Montero Landscaping preview: image credits
+
+All photos are Montero Landscaping's own, saved from their Facebook Page
+(https://www.facebook.com/MonLandscaping) and supplied in
+~/revenue-fuel/website-ads/desk/photos/montero-landscaping/. No stock images used.
+
+assets/topiary-house-beds.jpg       Montero Landscaping Facebook Page (hero, shrub & topiary card)
+assets/brick-path-beds.jpg          Montero Landscaping Facebook Page (entry beds card, "Why Montero")
+assets/bed-during-planting.jpg      Montero Landscaping Facebook Page (transformation stage 1)
+assets/crew-at-work.jpg             Montero Landscaping Facebook Page (transformation stage 2)
+assets/bed-after-mulch-curbing.jpg  Montero Landscaping Facebook Page (transformation stage 3, bed renovations card)
+assets/og.jpg                       Built from topiary-house-beds.jpg with the business name set on it
+
+Logo mark: a simple "M" monogram drawn in SVG in their logo colors (green, royal blue, gold on black);
+a stand-in for their real logo file, which was not available.
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL Open Font License).

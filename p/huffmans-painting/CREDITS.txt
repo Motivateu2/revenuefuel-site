@@ -1,0 +1,13 @@
+Huffman's Painting preview — image credits
+
+ALL PHOTOS ARE HUFFMAN'S PAINTING'S OWN (their Facebook Page, facebook.com/profile.php?id=100029351693306, saved 2026-11-26 into desk/photos/huffmans-painting/). Confirm use with the owner before launch.
+  assets/ext-before.jpg     House exterior before (from exterior-before.jpg, cropped to remove their "BEFORE" badge and the bar below; 470x282)
+  assets/ext-after.jpg      Same house after: warm cream, white trim, dark shutters (from exterior-after.jpg, cropped to remove their "AFTER" badge and name/phone bar; 470x282)
+  assets/living-before.jpg  Living room / fireplace before (from fireplace-room-before.jpg, fit to 425x549)
+  assets/living-after.jpg   Same living room after (from fireplace-room-after.jpg, 9px collage seam trimmed; 425x549) — also the hero
+  assets/bedroom-before.jpg Bedroom before (from bedroom-before.jpg, fit to 425x549)
+  assets/bedroom-after.jpg  Same bedroom after (from bedroom-after.jpg, 9px seam trimmed; 425x549) — also on the Interior card
+  assets/porch.jpg          Freshly painted gray porch floor with white edge line (from porch-floor-paint.jpg, 492x659, unchanged)
+  assets/og.jpg             1200x630 share image built from living-after.jpg + living-before.jpg with their name set in type
+
+NO STOCK PHOTOS. The pressure-washing and striping card art is drawn in CSS. Logo mark (paint roller) is drawn in SVG; their real cartoon-painter mascot was not available as a file.

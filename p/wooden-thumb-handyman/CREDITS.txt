@@ -1,0 +1,11 @@
+Wooden Thumb Handyman Services preview — image credits
+
+ALL IMAGES ARE THE BUSINESS'S OWN (saved from the WoodenThumb Facebook Page, https://www.facebook.com/WoodenThumb/, 2026-11-26). No stock photos are used. Confirm use with the owner before launch.
+  assets/accent-wall.jpg       Geometric accent wall with stained wood diagonals + mounted TV (from geometric-accent-wall.jpg; Facebook viewer icons cropped off the top). Hero + gallery.
+  assets/crew-spraying.jpg     Crew member in a Wooden Thumb shirt spraying siding (from crew-spraying-siding.jpg). "In our own words" section.
+  assets/siding-rot-repair.jpg Siding opened up along a deck for rot repair (from siding-rot-repair.jpg). Gallery.
+  assets/brick-home.jpg        Brick home with white board-and-batten gable (from brick-home-exterior.jpg; Facebook viewer bar cropped off, house number blurred). Gallery.
+  assets/lvp-bedroom.jpg       Bedroom with new wood-look plank floor (from new-lvp-bedroom.jpg). Gallery.
+  assets/logo.png              Their "Wooden Thumb Contracting Services, LLC" logo (from brand-logo.jpg), white background removed.
+  assets/og.jpg                1200x630 share image built from accent-wall.jpg + their logo, name set in Arial Black.
+No photo is displayed above ~1.3x its native size.

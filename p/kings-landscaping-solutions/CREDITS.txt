@@ -1,0 +1,15 @@
+King's Landscaping Solutions preview: image credits
+
+All photos are King's Landscaping Solutions' own work, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=100064035914584) on 2026-11-26. No stock images are used.
+
+assets/hero.jpg        flagstone patio + stacked-stone fire pit (source: flagstone-firepit-patio.jpg; top strip with Facebook viewer icons cropped off)
+assets/patio-wide.jpg  same flagstone patio, wider angle (source: flagstone-patio-wide.jpg)
+assets/walkway.jpg     gray paver walkway (source: paver-walkway.jpg)
+assets/before.jpg      fire pit BEFORE: fire ring in dug-out circle on a slope (source: firepit-before.jpg, cropped to 2:1)
+assets/after.jpg       fire pit AFTER: same ring, gravel + flagstone circle, block retaining wall + steps (source: firepit-after-wall.jpg; Facebook viewer black bar cropped off, cropped to 2:1)
+assets/after-wide.jpg  same AFTER photo, full width (Facebook viewer black bar cropped off)
+assets/og.jpg          1200x630 link-preview image made from assets/hero.jpg with the business name set on it
+
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, SIL Open Font License).
+Crown mark: simple decorative icon drawn for this preview (not the business's logo; they have no logo on file).

@@ -1,0 +1,9 @@
+All images are Big Bear Lawn Care's own, saved from their Facebook Page (https://www.facebook.com/Bigbearlawncare23) by Revenue Fuel for this preview. No stock images used.
+
+assets/hero.jpg          striped-backyard-lawn.jpg (their photo), unchanged size 930x637
+assets/front-lawn.jpg    striped-front-lawn-wide.jpg (their photo), cropped to remove Facebook viewer chrome
+assets/bear-logo.jpg     bear mascot logo cropped from their "Tree Specials" flyer (brand-flyer.jpg)
+assets/tree-pruning.jpg  "Tree pruning" photo cropped from their flyer
+assets/tree-climb.jpg    climber/tree-removal photo cropped from their flyer
+assets/tree-removal.jpg  "Full removals" photo cropped from their flyer
+assets/og.jpg            built from hero.jpg + bear logo, with their name and phone set on it

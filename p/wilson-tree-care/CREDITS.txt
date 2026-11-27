@@ -1,0 +1,13 @@
+All photos and the logo are Wilson Tree Care's own, saved from their Facebook Page
+(https://www.facebook.com/people/Wilson-Tree-Care/61558796654731/) into
+~/revenue-fuel/website-ads/desk/photos/wilson-tree-care/.
+
+assets/climber-blue-sky.jpg      - their photo: roped climber cutting in a bare tree (hero)
+assets/crew-stump-grinder.jpg    - their photo: crew on the tracked stump grinder (On the job)
+assets/dead-tree-over-house.jpg  - their photo: half-dead tree behind a house (tree check, shown as a problem tree, not a finished job)
+assets/truck-bare-trees.jpg      - their photo: WILSON bucket truck under bare trees (final call section, og image)
+assets/logo.png                  - their logo (brand-logo.jpg), background removed
+assets/og.jpg                    - 1200x630 share image built from truck-bare-trees.jpg + their name set in Barlow Condensed / Yellowtail
+
+No stock photos used.
+Fonts: Google Fonts (Barlow Condensed, Inter, Yellowtail), SIL Open Font License.

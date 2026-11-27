@@ -1,0 +1,12 @@
+J&G Lawn & Tree Service preview · image credits
+
+All photos are the business's own, saved from its Facebook Page
+(https://www.facebook.com/profile.php?id=100068734715978) on 2026-11-26:
+- assets/bucket-truck-blue-sky.jpg: J&G bucket truck, boom up in a bare tree (1px edge lines trimmed)
+- assets/bucket-truck-street.jpg: J&G bucket truck with boom extended among overhead lines
+- assets/bucket-over-roof.jpg: crew member in the bucket beside a split trunk next to a roof (1px edge line trimmed)
+- assets/giant-stump-chainsaw.jpg: crew member with chainsaw on a large stump (cropped to remove a Facebook heart sticker and a top edge line)
+- assets/og.jpg: 1200x630 share image built from bucket-truck-blue-sky.jpg with the business name set on it
+
+No stock photos used. Icons and the service-area schematic are hand-drawn inline SVG.
+Fonts: Archivo and Inter (Google Fonts, SIL Open Font License).

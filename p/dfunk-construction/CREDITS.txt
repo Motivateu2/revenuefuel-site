@@ -1,0 +1,16 @@
+D/Funk Construction preview — image credits
+
+REAL (D/Funk Construction Facebook page, facebook.com/profile.php?id=61556627727456, saved 2026-11-26) — the owner's own photos; confirm use before launch:
+  assets/bath-before.jpg  Bathroom before remodel (old vanity, bulb light bar)          from bath-before.jpg (529x707)
+  assets/bath-after.jpg   Same bathroom after (sage vanity, arched mirror, tile floor)   from bath-after-vanity.jpg (527x707)
+  assets/bath-wide.jpg    Same finished bathroom, wider, with tub surround (hero photo)  from bath-after-wide.jpg (527x707)
+  assets/fence-1.jpg      Wood privacy fence along a drive    cropped and de-rotated from a polaroid in their fence graphic (fence-collage.jpg)
+  assets/fence-2.jpg      New fence with walk gate            cropped and de-rotated from the same graphic
+  assets/fence-3.jpg      Fence with double gate              cropped and de-rotated from the same graphic
+  assets/og.jpg           Link-preview card (1200x630): bath-wide.jpg + their name set in Big Shoulders Display / Inter
+
+NOT USED: the truck photo on their snow-removal flyer (stock, per notes).
+
+STOCK: none. The snow section uses a CSS snowfall and drift treatment, no photo.
+LOGO: rebuilt in HTML/SVG (roof line over "D/FUNK CONSTRUCTION") after the black-on-white logo on their Facebook page.
+FONTS: Big Shoulders Display and Inter (Google Fonts, SIL Open Font License).

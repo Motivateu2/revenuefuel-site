@@ -1,0 +1,592 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="robots" content="noindex, nofollow">
+<title>Big Bear Lawn Care · Lawn Care &amp; Tree Service · Waco, TX</title>
+<meta name="description" content="Lawn care, tree pruning and tree removals in Waco, TX and nearby towns. Free estimates. Se habla español. Call (254) 709-0304.">
+<meta name="theme-color" content="#0A1209">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Big Bear Lawn Care · Lawn care &amp; tree service · Waco, TX">
+<meta property="og:description" content="Lawn care, tree pruning and tree removals around Waco, with free estimates and tree specials for the rest of the year.">
+<meta property="og:url" content="https://revenuefuel.ai/p/big-bear-lawn-care/">
+<meta property="og:image" content="https://revenuefuel.ai/p/big-bear-lawn-care/assets/og.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='16' fill='%230A1209'/%3E%3Cpath d='M14 50V14M26 50V14M38 50V14M50 50V14' stroke='%239BE313' stroke-width='7' stroke-linecap='round'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@700;800;900&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --turf:#0A1209;      /* near-black from their flyer */
+  --turf-2:#111D0F;
+  --turf-3:#1A2B17;
+  --lime:#9BE313;      /* their bright lawn green */
+  --lime-2:#7FC20A;
+  --leaf:#2E7D1E;
+  --paper:#F5F8EF;
+  --card:#FFFFFF;
+  --line:#DDE5D2;
+  --muted:#56634F;
+  --on-dark:#BFCDB6;
+  --display:"Big Shoulders Display", "Arial Narrow", system-ui, sans-serif;
+  --body:"Manrope", system-ui, -apple-system, sans-serif;
+  --wrap:min(1180px, 100% - 32px);
+  --stripes:repeating-linear-gradient(90deg, rgba(155,227,19,.055) 0 56px, rgba(0,0,0,0) 56px 112px);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--paper);color:var(--turf);font-family:var(--body);font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+img{max-width:100%;display:block}
+a{color:inherit}
+button,input,select,textarea{font:inherit;color:inherit}
+:focus-visible{outline:3px solid var(--lime);outline-offset:3px;border-radius:8px}
+.wrap{width:var(--wrap);margin-inline:auto}
+h1,h2,h3{font-family:var(--display);font-weight:900;text-transform:uppercase;letter-spacing:-.005em;line-height:.92;margin:0;text-wrap:balance}
+.eyebrow{display:inline-flex;align-items:center;gap:10px;font:800 12.5px/1.3 var(--body);letter-spacing:.16em;text-transform:uppercase;color:var(--leaf);margin:0 0 14px}
+.eyebrow::before{content:"";width:26px;height:4px;border-radius:4px;background:repeating-linear-gradient(90deg,var(--lime) 0 6px,var(--leaf) 6px 12px)}
+.dark .eyebrow{color:var(--lime)}
+.sec{padding:clamp(72px,9vw,120px) 0}
+.sec-head{margin-bottom:clamp(30px,4vw,50px)}
+.sec-head h2{font-size:clamp(2.7rem,7vw,4.8rem)}
+.sec-head p{margin:16px 0 0;max-width:36em;color:var(--muted)}
+.dark{background:var(--turf);color:#fff}
+.dark .sec-head p{color:var(--on-dark)}
+.hl{color:var(--lime)}
+.ico{width:20px;height:20px;flex:none}
+
+/* buttons */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:56px;padding:0 26px;border-radius:999px;font:800 16px/1 var(--body);text-decoration:none;border:2px solid transparent;cursor:pointer;transition:transform .15s ease, background .15s ease, box-shadow .15s ease;white-space:nowrap}
+.btn:active{transform:scale(.98)}
+.btn-lime{background:var(--lime);color:var(--turf);box-shadow:0 14px 30px -14px rgba(155,227,19,.75)}
+.btn-lime:hover{background:#ADF02A}
+.btn-ghost{border-color:rgba(255,255,255,.45);color:#fff;background:rgba(10,18,9,.35);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.btn-ghost:hover{border-color:#fff}
+.btn-dark{background:var(--turf);color:#fff}
+.btn-dark:hover{background:var(--turf-3)}
+
+/* ribbon + nav */
+.ribbon{background:var(--lime);color:var(--turf);font:700 13px/1.35 var(--body);text-align:center;padding:8px 14px}
+.nav{position:sticky;top:0;z-index:40;background:rgba(10,18,9,.9);backdrop-filter:saturate(1.4) blur(12px);-webkit-backdrop-filter:saturate(1.4) blur(12px);border-bottom:1px solid rgba(255,255,255,.08)}
+.nav .wrap{display:flex;align-items:center;justify-content:space-between;gap:14px;height:70px}
+.brand{display:flex;align-items:center;gap:11px;text-decoration:none;color:#fff;min-width:0}
+.bear{display:block;flex:none;border-radius:50%;overflow:hidden;background:var(--lime);padding:2px}
+.bear img{width:100%;height:100%;border-radius:50%;object-fit:cover}
+.nav .bear{width:46px;height:46px}
+.brand b{display:block;font:900 24px/.9 var(--display);text-transform:uppercase;letter-spacing:.01em;white-space:nowrap}
+.brand small{display:block;font:800 11px/1 var(--body);letter-spacing:.24em;text-transform:uppercase;color:var(--lime);margin-top:4px;white-space:nowrap}
+.nav-links{display:none;gap:28px;font:700 15px/1 var(--body);color:var(--on-dark)}
+.nav-links a{text-decoration:none}
+.nav-links a:hover{color:#fff}
+.nav-call{min-height:44px;padding:0 18px;font-size:15px}
+.nav-call .num{display:none}
+
+/* hero */
+.hero{position:relative;color:#fff;background:var(--turf);overflow:hidden}
+.hero-photo{position:absolute;inset:0}
+.hero-photo img{width:100%;height:100%;object-fit:cover;object-position:42% 60%}
+.hero-photo::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(10,18,9,.15) 0%,rgba(10,18,9,.05) 26%,rgba(10,18,9,.72) 52%,rgba(10,18,9,.97) 78%)}
+.hero-in{position:relative;min-height:min(820px,calc(100svh - 34px));display:flex;flex-direction:column;justify-content:flex-end;padding:170px 0 44px}
+.chip-row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:18px}
+.chip{display:inline-flex;align-items:center;gap:7px;padding:7px 13px;border-radius:999px;font:700 13px/1.2 var(--body);background:rgba(10,18,9,.55);border:1px solid rgba(255,255,255,.22);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px)}
+.chip i{width:8px;height:8px;border-radius:50%;background:var(--lime);box-shadow:0 0 0 3px rgba(155,227,19,.25)}
+.hero h1{font-size:clamp(3.4rem,15vw,7.4rem);max-width:10ch}
+.hero h1 .hl{display:inline-block;position:relative}
+.hero h1 .hl::after{content:"";position:absolute;left:2%;right:2%;bottom:-.02em;height:.09em;border-radius:99px;background:repeating-linear-gradient(90deg,var(--lime) 0 14px,var(--lime-2) 14px 28px)}
+.hero .lede{margin:20px 0 26px;max-width:32em;font-size:clamp(17px,2.2vw,19px);color:#DCE7D3}
+.hero .lede b{color:#fff}
+.cta-row{display:flex;flex-direction:column;gap:12px}
+.cta-row .btn{width:100%}
+.hero-foot{display:flex;flex-wrap:wrap;gap:6px 18px;margin-top:22px;font:600 14px/1.4 var(--body);color:var(--on-dark)}
+.hero-foot span{display:inline-flex;align-items:center;gap:7px}
+.hero-foot svg{width:16px;height:16px;color:var(--lime)}
+
+/* specials */
+.specials{position:relative;background:var(--lime);color:var(--turf);overflow:hidden}
+.specials::before{content:"";position:absolute;inset:0;background:repeating-linear-gradient(90deg,rgba(255,255,255,.12) 0 64px,rgba(0,0,0,0) 64px 128px)}
+.specials .wrap{position:relative;display:grid;gap:34px;padding:clamp(56px,8vw,96px) 0}
+.tag{display:inline-flex;align-items:center;gap:8px;background:var(--turf);color:var(--lime);font:800 12px/1 var(--body);letter-spacing:.16em;text-transform:uppercase;padding:9px 14px;border-radius:999px;margin-bottom:16px}
+.specials h2{font-size:clamp(3rem,11vw,5.6rem)}
+.specials h2 small{display:block;font-size:.5em;line-height:1;margin-top:.15em;color:var(--turf-3)}
+.specials p{margin:18px 0 24px;max-width:31em;font-weight:500;color:#1B2A12}
+.specials ul{list-style:none;margin:0 0 26px;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.specials li{font:800 14px/1 var(--body);padding:10px 14px;border-radius:10px;background:rgba(10,18,9,.08);border:1.5px solid rgba(10,18,9,.18)}
+.polas{display:flex;justify-content:center;align-items:flex-start;gap:clamp(8px,2.4vw,22px)}
+.pola{flex:0 1 140px;max-width:140px;background:#fff;padding:6px 6px 0;border-radius:6px;box-shadow:0 18px 34px -16px rgba(10,18,9,.55)}
+.pola:nth-child(1){transform:rotate(-4deg)}
+.pola:nth-child(2){transform:rotate(2deg) translateY(16px)}
+.pola:nth-child(3){transform:rotate(-1.5deg)}
+.pola img{width:100%;aspect-ratio:4/5;object-fit:cover;border-radius:3px}
+.pola:nth-child(3) img{object-position:50% 30%}
+.pola span{display:block;text-align:center;font:900 15px/1 var(--display);text-transform:uppercase;letter-spacing:.03em;padding:9px 2px 10px}
+
+/* services */
+.lawn-card{position:relative;max-width:1300px;margin:0 auto 18px;border-radius:24px;overflow:hidden;background:var(--turf);color:#fff;box-shadow:0 30px 60px -36px rgba(10,18,9,.6)}
+.lawn-card img{width:100%;height:clamp(230px,34vw,400px);object-fit:cover;object-position:50% 62%}
+.lawn-card .cap{padding:22px 22px 26px}
+.lawn-card .num{font:900 15px/1 var(--display);color:var(--lime);letter-spacing:.08em}
+.lawn-card h3{font-size:clamp(2.2rem,6vw,3.2rem);margin:8px 0 8px}
+.lawn-card p{margin:0;color:var(--on-dark);max-width:34em}
+.svc-list{display:grid;gap:14px}
+.svc{display:grid;grid-template-columns:1fr auto;gap:16px;align-items:center;background:var(--card);border:1px solid var(--line);border-radius:20px;padding:20px;box-shadow:0 18px 40px -34px rgba(10,18,9,.5)}
+.svc .num{font:900 15px/1 var(--display);color:var(--leaf);letter-spacing:.08em}
+.svc h3{font-size:clamp(1.9rem,5.4vw,2.4rem);margin:6px 0 6px}
+.svc p{margin:0;color:var(--muted);font-size:15.5px}
+.svc .thumb{width:96px;height:112px;border-radius:14px;overflow:hidden;background:var(--paper)}
+.svc .thumb img{width:100%;height:100%;object-fit:cover}
+.svc .thumb.icon{display:grid;place-items:center;background:var(--turf);color:var(--lime)}
+.svc .thumb.icon svg{width:46px;height:46px}
+.svc a.more{display:inline-flex;gap:6px;align-items:center;margin-top:10px;font:800 14px/1 var(--body);color:var(--turf);text-decoration:none;border-bottom:2px solid var(--lime);padding-bottom:3px}
+
+/* why */
+.why{position:relative;overflow:hidden}
+.why::before{content:"";position:absolute;inset:0;background:var(--stripes)}
+.why .wrap{position:relative}
+.why-grid{display:grid;gap:12px}
+.why-item{display:flex;gap:16px;align-items:flex-start;padding:22px;border-radius:20px;background:rgba(255,255,255,.04);border:1px solid rgba(255,255,255,.1)}
+.why-item .ck{flex:none;width:42px;height:42px;border-radius:12px;display:grid;place-items:center;background:var(--lime);color:var(--turf)}
+.why-item .ck svg{width:22px;height:22px}
+.why-item h3{font-size:1.75rem;line-height:1;margin:2px 0 6px}
+.why-item p{margin:0;color:var(--on-dark);font-size:15.5px}
+
+/* estimate builder */
+.est-grid{display:grid;gap:22px;align-items:start}
+.panel{background:var(--card);border:1px solid var(--line);border-radius:24px;padding:clamp(20px,3vw,32px);box-shadow:0 24px 50px -40px rgba(10,18,9,.5)}
+.step{margin:0 0 24px;padding:0;border:0;min-width:0}
+.step legend,.step .lbl{display:flex;align-items:center;gap:10px;font:800 15px/1.2 var(--body);margin-bottom:12px;padding:0}
+.step legend b,.step .lbl b{display:grid;place-items:center;width:26px;height:26px;border-radius:50%;background:var(--turf);color:var(--lime);font:900 14px/1 var(--display)}
+.opts{display:flex;flex-wrap:wrap;gap:8px}
+.opt{position:relative}
+.opt input{position:absolute;opacity:0;pointer-events:none}
+.opt span{display:inline-flex;align-items:center;gap:8px;min-height:46px;padding:0 16px;border-radius:999px;border:1.5px solid var(--line);background:var(--paper);font:700 15px/1 var(--body);cursor:pointer;transition:all .15s ease;user-select:none}
+.opt span::before{content:"";width:16px;height:16px;border-radius:5px;border:2px solid #9BAA90;flex:none;transition:all .15s ease}
+.opt input[type=radio]+span::before{border-radius:50%}
+.opt input:checked+span{background:var(--turf);border-color:var(--turf);color:#fff}
+.opt input:checked+span::before{background:var(--lime);border-color:var(--lime);box-shadow:inset 0 0 0 3px var(--turf)}
+.opt input:focus-visible+span{outline:3px solid var(--lime);outline-offset:2px}
+.field{display:grid;gap:6px;margin-bottom:14px}
+.field label{font:700 14px/1.2 var(--body)}
+.field input,.field select,.field textarea{width:100%;min-height:50px;padding:12px 14px;border-radius:14px;border:1.5px solid var(--line);background:var(--paper);font-size:16px}
+.field textarea{min-height:92px;resize:vertical}
+.field input:focus,.field select:focus,.field textarea:focus{outline:none;border-color:var(--leaf);box-shadow:0 0 0 3px rgba(155,227,19,.35)}
+.two{display:grid;gap:0 14px}
+/* ticket */
+.ticket{position:relative;background:var(--turf);color:#fff;border-radius:24px;padding:24px 22px 22px;overflow:hidden}
+.ticket::before{content:"";position:absolute;inset:0;background:var(--stripes);pointer-events:none}
+.ticket>*{position:relative}
+.t-head{display:flex;align-items:center;gap:12px;padding-bottom:16px;border-bottom:1.5px dashed rgba(255,255,255,.2)}
+.t-head .bear{width:52px;height:52px}
+.t-head b{display:block;font:900 24px/1 var(--display);text-transform:uppercase}
+.t-head small{display:block;font:700 12px/1.2 var(--body);letter-spacing:.14em;text-transform:uppercase;color:var(--lime);margin-top:4px}
+.t-rows{margin:16px 0 18px;display:grid;gap:12px}
+.t-row{display:grid;grid-template-columns:92px 1fr;gap:10px;font-size:15px}
+.t-row dt{font:700 12px/1.6 var(--body);letter-spacing:.12em;text-transform:uppercase;color:var(--on-dark)}
+.t-row dd{margin:0;font-weight:700}
+.t-row dd.empty{color:#7E8C76;font-weight:500}
+.t-svcs{display:flex;flex-wrap:wrap;gap:6px}
+.t-svcs span{background:var(--lime);color:var(--turf);font:800 13px/1 var(--body);padding:7px 10px;border-radius:8px}
+.t-note{font:600 13.5px/1.5 var(--body);color:var(--on-dark);margin:0 0 16px}
+.ticket .btn{width:100%}
+.ticket .or{display:block;text-align:center;margin-top:12px;font:700 14px/1.4 var(--body);color:var(--on-dark)}
+.ticket .or a{color:var(--lime)}
+
+/* area */
+.area{position:relative;overflow:hidden;background:var(--turf-2)}
+.area::before{content:"";position:absolute;inset:0;background:var(--stripes)}
+.area .wrap{position:relative;display:grid;gap:30px}
+.base{display:flex;align-items:center;gap:16px;padding:20px;border-radius:20px;background:var(--lime);color:var(--turf)}
+.base svg{width:40px;height:40px;flex:none}
+.base small{display:block;font:800 12px/1.2 var(--body);letter-spacing:.16em;text-transform:uppercase}
+.base b{display:block;font:900 clamp(2rem,6vw,2.8rem)/1 var(--display);text-transform:uppercase}
+.towns{display:flex;flex-wrap:wrap;gap:10px;margin:0;padding:0;list-style:none}
+.towns li{font:800 16px/1 var(--body);padding:13px 18px;border-radius:999px;border:1.5px solid rgba(255,255,255,.22);color:#fff;background:rgba(255,255,255,.04)}
+.towns li:first-child{border-color:var(--lime);color:var(--lime)}
+
+/* final */
+.final{text-align:center}
+.final .bear{width:116px;height:116px;margin:0 auto 22px;padding:4px;box-shadow:0 20px 40px -18px rgba(10,18,9,.6)}
+.final h2{font-size:clamp(3rem,10vw,6rem);max-width:12ch;margin-inline:auto}
+.final p{margin:18px auto 28px;max-width:30em;color:var(--muted)}
+.final .cta-row{max-width:420px;margin-inline:auto}
+.final .big-num{display:block;margin-top:22px;font:900 clamp(2.4rem,9vw,3.6rem)/1 var(--display);text-decoration:none;letter-spacing:.01em}
+
+/* footer */
+footer{background:var(--turf);color:var(--on-dark);padding:44px 0 120px;font-size:15px}
+footer .wrap{display:grid;gap:22px}
+footer .brand b{font-size:26px}
+.f-meta{display:flex;flex-wrap:wrap;gap:8px 22px}
+.f-meta a{text-decoration:none;color:#fff;font-weight:700}
+.f-meta a:hover{color:var(--lime)}
+.credit{padding-top:20px;border-top:1px solid rgba(255,255,255,.1);font-size:14px}
+.credit a{color:var(--lime);font-weight:700;text-decoration:none}
+
+/* sticky mobile bar */
+.mbar{position:fixed;left:0;right:0;bottom:0;z-index:50;display:grid;grid-template-columns:1fr 1fr;gap:10px;padding:10px 12px calc(10px + env(safe-area-inset-bottom));background:rgba(10,18,9,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-top:1px solid rgba(255,255,255,.1)}
+.mbar .btn{min-height:50px;padding:0 12px;font-size:15px}
+
+/* dialog */
+dialog{border:0;border-radius:24px;padding:0;max-width:min(420px,calc(100% - 32px));width:100%;box-shadow:0 40px 80px -30px rgba(0,0,0,.6)}
+dialog::backdrop{background:rgba(10,18,9,.6);backdrop-filter:blur(3px)}
+.dlg{padding:28px 24px 24px;text-align:center}
+.dlg .bear{width:64px;height:64px;margin:0 auto 14px}
+.dlg h3{font-size:2.2rem;margin-bottom:10px}
+.dlg p{margin:0 0 20px;color:var(--muted);font-size:15.5px}
+.dlg .btns{display:grid;gap:10px}
+.dlg .btn{width:100%}
+.dlg .close{background:var(--paper);color:var(--turf);border:1.5px solid var(--line)}
+
+@media (min-width:640px){
+  .cta-row{flex-direction:row}
+  .cta-row .btn{width:auto}
+  .two{grid-template-columns:1fr 1fr}
+  .why-grid{grid-template-columns:1fr 1fr}
+  .svc .thumb{width:120px;height:136px}
+}
+@media (min-width:900px){
+  .nav-links{display:flex}
+  .nav-call .num{display:inline}
+  .nav-call .short{display:none}
+  .mbar{display:none}
+  footer{padding-bottom:44px}
+  .hero{display:grid;grid-template-columns:minmax(0,1fr) min(56vw,820px)}
+  .hero-photo{position:relative;inset:auto;grid-column:2;grid-row:1;min-height:700px}
+  .hero-photo::after{background:linear-gradient(90deg,rgba(10,18,9,1) 0%,rgba(10,18,9,.35) 22%,rgba(10,18,9,0) 45%)}
+  .hero-in{grid-column:1 / 2;grid-row:1;min-height:700px;padding:80px 0 70px;width:auto;margin:0;padding-left:max(16px, calc((100vw - 1180px)/2));padding-right:0;position:relative;z-index:2}
+  .hero h1{font-size:clamp(4.6rem,7.4vw,7.2rem);margin-right:-160px}
+  .hero::before{content:"";position:absolute;left:0;top:0;bottom:0;width:50%;background:var(--stripes);z-index:1;pointer-events:none}
+  .specials .wrap{grid-template-columns:1.05fr .95fr;align-items:center;gap:40px}
+  .polas{justify-content:flex-end}
+  .lawn-card{display:grid;grid-template-columns:1.6fr 1fr;align-items:stretch}
+  .lawn-card img{height:100%;min-height:340px}
+  .lawn-card .cap{display:flex;flex-direction:column;justify-content:center;padding:36px}
+  .svc-list{grid-template-columns:repeat(3,1fr)}
+  .svc{grid-template-columns:1fr;align-items:start}
+  .svc .thumb{order:-1;width:120px;height:136px}
+  .why-grid{grid-template-columns:repeat(3,1fr)}
+  .est-grid{grid-template-columns:1.25fr .9fr}
+  .ticket{position:sticky;top:96px}
+  .area .wrap{grid-template-columns:.8fr 1.2fr;align-items:center;gap:50px}
+  footer .wrap{grid-template-columns:1fr auto;align-items:center}
+  .credit{grid-column:1 / -1}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style>
+<script src="/rf-track.js" defer></script>
+</head>
+<body>
+
+<div class="ribbon">Free preview built for Big Bear Lawn Care by Revenue Fuel · Not live yet</div>
+
+<header class="nav">
+  <div class="wrap">
+    <a class="brand" href="#top" aria-label="Big Bear Lawn Care home">
+      <span class="bear"><img src="assets/bear-logo.jpg" alt="Big Bear Lawn Care bear logo" width="86" height="86"></span>
+      <span><b>Big Bear</b><small>Lawn Care</small></span>
+    </a>
+    <nav class="nav-links" aria-label="Sections">
+      <a href="#specials">Tree specials</a>
+      <a href="#services">Services</a>
+      <a href="#area">Service area</a>
+      <a href="#estimate">Free estimate</a>
+    </nav>
+    <a class="btn btn-lime nav-call" href="tel:+12547090304" aria-label="Call Big Bear Lawn Care at (254) 709-0304">
+      <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>
+      <span class="short">Call</span><span class="num">(254) 709-0304</span>
+    </a>
+  </div>
+</header>
+
+<main id="top">
+
+<section class="hero">
+  <div class="hero-photo"><img src="assets/hero.jpg" alt="Freshly striped green backyard lawn along a chain-link fence, cut by Big Bear Lawn Care" width="930" height="637" fetchpriority="high"></div>
+  <div class="hero-in wrap">
+    <div class="chip-row">
+      <span class="chip"><i></i>Waco, TX</span>
+      <span class="chip">Se habla español</span>
+    </div>
+    <h1>Keep your property looking <span class="hl">its best.</span></h1>
+    <p class="lede"><b>Big Bear Lawn Care</b> keeps Waco-area yards sharp: clean-striped lawns, healthy trees, and the tree removals nobody wants to tackle alone.</p>
+    <div class="cta-row">
+      <a class="btn btn-lime" href="tel:+12547090304">
+        <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>
+        Call (254) 709-0304
+      </a>
+      <a class="btn btn-ghost" href="#estimate">Get a free estimate</a>
+    </div>
+    <div class="hero-foot">
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Free estimates</span>
+      <span><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg>Tree specials for the rest of the year</span>
+    </div>
+  </div>
+</section>
+
+<section class="specials" id="specials">
+  <div class="wrap">
+    <div>
+      <span class="tag">Now through year-end</span>
+      <h2>Tree specials <small>for the rest of the year</small></h2>
+      <p>Keep your trees healthy and your property looking its best before the new year. Big Bear is running tree specials through the end of the year: call and ask what applies to your trees.</p>
+      <ul aria-label="Tree work on special">
+        <li>Pruning</li><li>Tree removals</li><li>And more</li>
+      </ul>
+      <a class="btn btn-dark" href="tel:+12547090304">
+        <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>
+        Ask about tree specials
+      </a>
+    </div>
+    <div class="polas">
+      <figure class="pola" style="margin:0"><img src="assets/tree-pruning.jpg" alt="Pruned shade tree in front of a brick home" width="102" height="114" loading="lazy"><span>Pruning</span></figure>
+      <figure class="pola" style="margin:0"><img src="assets/tree-climb.jpg" alt="Climber taking down a tall tree trunk" width="105" height="130" loading="lazy"><span>Removals</span></figure>
+      <figure class="pola" style="margin:0"><img src="assets/tree-removal.jpg" alt="Tree cut back to the trunk for a full removal" width="105" height="104" loading="lazy"><span>Full removals</span></figure>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="services">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">What Big Bear does</p>
+      <h2>From the lawn to the treetops.</h2>
+      <p>One call covers the grass, the trees and the cleanup. Professional, reliable service that improves safety and curb appeal.</p>
+    </div>
+
+    <article class="lawn-card">
+      <img src="assets/front-lawn.jpg" alt="Wide front lawn of a white-brick home, mowed in clean stripes" width="942" height="302" loading="lazy">
+      <div class="cap">
+        <span class="num">01 · LAWN CARE</span>
+        <h3>Lawn care &amp; mowing</h3>
+        <p>Even cuts and crisp stripes from the curb to the back fence, so the whole street notices your yard for the right reasons.</p>
+      </div>
+    </article>
+
+    <div class="svc-list">
+      <article class="svc">
+        <div>
+          <span class="num">02</span>
+          <h3>Tree pruning</h3>
+          <p>Shape and thin your trees to keep them healthy and good-looking from the street.</p>
+          <a class="more" href="#estimate" data-pick="Tree pruning">Add to my estimate →</a>
+        </div>
+        <div class="thumb"><img src="assets/tree-pruning.jpg" alt="Pruned shade tree" width="102" height="114" loading="lazy"></div>
+      </article>
+      <article class="svc">
+        <div>
+          <span class="num">03</span>
+          <h3>Tree removals</h3>
+          <p>Problem trees taken down, up to full removals, with climbing work when the tree calls for it. Safer yard, better curb appeal.</p>
+          <a class="more" href="#estimate" data-pick="Tree removal">Add to my estimate →</a>
+        </div>
+        <div class="thumb"><img src="assets/tree-climb.jpg" alt="Climber on a tall trunk during a removal" width="105" height="130" loading="lazy" style="object-position:50% 20%"></div>
+      </article>
+      <article class="svc">
+        <div>
+          <span class="num">04</span>
+          <h3>Cleanups</h3>
+          <p>Get the yard back in shape after the season or a big tree job, and keep the property looking its best.</p>
+          <a class="more" href="#estimate" data-pick="Yard cleanup">Add to my estimate →</a>
+        </div>
+        <div class="thumb icon" aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M11 20A7 7 0 0 1 9.8 6.1C15.5 5 17 4.5 19 2c1 2 2 4.2 2 8 0 5.5-4.8 10-10 10Z"/><path d="M2 21c0-3 1.9-5.4 5.1-6"/></svg></div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="sec dark why">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">Why Big Bear</p>
+      <h2>Big on detail. <span class="hl">Easy to reach.</span></h2>
+    </div>
+    <div class="why-grid">
+      <div class="why-item"><span class="ck"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><div><h3>Professional &amp; reliable</h3><p>Work that shows up looking right, from the first stripe to the last cut.</p></div></div>
+      <div class="why-item"><span class="ck"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><div><h3>Safety &amp; curb appeal</h3><p>Overgrown and risky trees handled, so your place looks better and feels safer.</p></div></div>
+      <div class="why-item"><span class="ck"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><div><h3>Free estimates</h3><p>Tell Big Bear what the yard needs and get an estimate at no cost.</p></div></div>
+      <div class="why-item"><span class="ck"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><div><h3>Se habla español</h3><p>Llame y hable en español. Call in English or Spanish, whichever is easier.</p></div></div>
+      <div class="why-item"><span class="ck"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><div><h3>Lawn to trees</h3><p>Mowing, pruning, removals and cleanups from one local team you can call directly.</p></div></div>
+      <div class="why-item"><span class="ck"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M20 6 9 17l-5-5"/></svg></span><div><h3>Waco-based</h3><p>Home base is Waco, with service out to Temple, Marlin, China Spring and more.</p></div></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec" id="estimate">
+  <div class="wrap">
+    <div class="sec-head">
+      <p class="eyebrow">Free estimate</p>
+      <h2>Build your yard list.</h2>
+      <p>Tap what you need and watch your request come together. It takes about a minute.</p>
+    </div>
+    <div class="est-grid">
+      <form class="panel" id="estForm" novalidate>
+        <fieldset class="step">
+          <legend><b>1</b>What does the yard need?</legend>
+          <div class="opts" id="svcOpts">
+            <label class="opt"><input type="checkbox" name="svc" value="Lawn mowing"><span>Lawn mowing</span></label>
+            <label class="opt"><input type="checkbox" name="svc" value="Tree pruning"><span>Tree pruning</span></label>
+            <label class="opt"><input type="checkbox" name="svc" value="Tree removal"><span>Tree removal</span></label>
+            <label class="opt"><input type="checkbox" name="svc" value="Yard cleanup"><span>Yard cleanup</span></label>
+            <label class="opt"><input type="checkbox" name="svc" value="Something else"><span>Something else</span></label>
+          </div>
+        </fieldset>
+        <fieldset class="step">
+          <legend><b>2</b>How big is the property?</legend>
+          <div class="opts">
+            <label class="opt"><input type="radio" name="size" value="Small yard"><span>Small yard</span></label>
+            <label class="opt"><input type="radio" name="size" value="Average lot"><span>Average lot</span></label>
+            <label class="opt"><input type="radio" name="size" value="Big lot"><span>Big lot</span></label>
+            <label class="opt"><input type="radio" name="size" value="Acreage"><span>Acreage</span></label>
+          </div>
+        </fieldset>
+        <div class="step">
+          <div class="lbl"><b>3</b>Where and who?</div>
+          <div class="two">
+            <div class="field"><label for="town">Town</label>
+              <select id="town" name="town">
+                <option value="">Choose your town</option>
+                <option>Waco</option><option>Hewitt</option><option>Woodway</option><option>Bellmead</option><option>Elm Mott</option><option>China Spring</option><option>West</option><option>Chilton</option><option>Marlin</option><option>Temple</option>
+              </select>
+            </div>
+            <div class="field"><label for="lang">Preferred language</label>
+              <select id="lang" name="lang"><option>English</option><option>Español</option></select>
+            </div>
+            <div class="field"><label for="nm">Your name</label><input id="nm" name="nm" autocomplete="name" placeholder="First and last name"></div>
+            <div class="field"><label for="ph">Phone</label><input id="ph" name="ph" type="tel" autocomplete="tel" placeholder="(254) 555-0000" inputmode="tel"></div>
+          </div>
+          <div class="field" style="margin:0"><label for="nt">Anything Big Bear should know?</label><textarea id="nt" name="nt" placeholder="Gate code, which trees, best time to call…"></textarea></div>
+        </div>
+      </form>
+
+      <aside class="ticket" aria-live="polite">
+        <div class="t-head">
+          <span class="bear"><img src="assets/bear-logo.jpg" alt="" width="86" height="86"></span>
+          <div><b>Estimate request</b><small>Big Bear Lawn Care</small></div>
+        </div>
+        <dl class="t-rows">
+          <div class="t-row"><dt>Services</dt><dd id="tSvc" class="empty">Tap a service</dd></div>
+          <div class="t-row"><dt>Property</dt><dd id="tSize" class="empty">Not picked yet</dd></div>
+          <div class="t-row"><dt>Town</dt><dd id="tTown" class="empty">Not picked yet</dd></div>
+          <div class="t-row"><dt>Language</dt><dd id="tLang">English</dd></div>
+          <div class="t-row"><dt>Name</dt><dd id="tName" class="empty">Not added yet</dd></div>
+        </dl>
+        <p class="t-note" id="tSpecial">Free estimate. Ask about tree specials for the rest of the year.</p>
+        <button class="btn btn-lime" type="button" id="sendBtn">Send my request</button>
+        <span class="or">or call <a href="tel:+12547090304">(254) 709-0304</a></span>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<section class="sec area dark" id="area">
+  <div class="wrap">
+    <div>
+      <p class="eyebrow">Service area</p>
+      <h2 style="font-size:clamp(2.7rem,7vw,4.8rem)">Waco and the towns around it.</h2>
+      <div class="base" style="margin-top:26px">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M20 10c0 6-8 12-8 12s-8-6-8-12a8 8 0 0 1 16 0Z"/><circle cx="12" cy="10" r="3"/></svg>
+        <div><small>Home base</small><b>Waco, TX</b></div>
+      </div>
+    </div>
+    <ul class="towns" aria-label="Towns served">
+      <li>Waco</li><li>Hewitt</li><li>Woodway</li><li>Bellmead</li><li>Elm Mott</li><li>China Spring</li><li>West</li><li>Chilton</li><li>Marlin</li><li>Temple</li>
+    </ul>
+  </div>
+</section>
+
+<section class="sec final">
+  <div class="wrap">
+    <span class="bear"><img src="assets/bear-logo.jpg" alt="Big Bear Lawn Care bear logo" width="86" height="86"></span>
+    <h2>Let the bear handle the yard.</h2>
+    <p>Call Fernando at Big Bear Lawn Care for a free estimate on mowing, pruning, tree removals or a cleanup. Se habla español.</p>
+    <div class="cta-row">
+      <a class="btn btn-lime" href="tel:+12547090304" style="flex:1">
+        <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>
+        Call for a free estimate
+      </a>
+    </div>
+    <a class="big-num" href="tel:+12547090304">(254) 709-0304</a>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="wrap">
+    <div>
+      <a class="brand" href="#top"><span class="bear" style="width:46px;height:46px"><img src="assets/bear-logo.jpg" alt="" width="86" height="86"></span><span><b>Big Bear</b><small>Lawn Care</small></span></a>
+      <p style="margin:14px 0 0">Lawn care, tree pruning, tree removals and cleanups. Waco, TX.</p>
+    </div>
+    <div class="f-meta">
+      <a href="tel:+12547090304">(254) 709-0304</a>
+      <a href="https://www.facebook.com/Bigbearlawncare23" rel="noopener" target="_blank">Facebook</a>
+      <span>Se habla español</span>
+    </div>
+    <div class="credit"><a href="https://revenuefuel.ai" rel="noopener" target="_blank">Powered by revenuefuel.ai</a></div>
+  </div>
+</footer>
+
+<div class="mbar">
+  <a class="btn btn-lime" href="tel:+12547090304">
+    <svg class="ico" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.9v3a2 2 0 0 1-2.2 2 19.8 19.8 0 0 1-8.6-3.1 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.1 4.2 2 2 0 0 1 4.1 2h3a2 2 0 0 1 2 1.7c.1.9.4 1.8.7 2.7a2 2 0 0 1-.5 2.1L8 9.8a16 16 0 0 0 6 6l1.3-1.3a2 2 0 0 1 2.1-.4c.9.3 1.8.6 2.7.7a2 2 0 0 1 1.7 2z"/></svg>
+    Call now
+  </a>
+  <a class="btn btn-ghost" href="#estimate">Free estimate</a>
+</div>
+
+<dialog id="dlg">
+  <div class="dlg">
+    <span class="bear"><img src="assets/bear-logo.jpg" alt="" width="86" height="86"></span>
+    <h3>Almost live!</h3>
+    <p id="dlgText">This page is a preview, so nothing was sent. Once the site launches, this request goes straight to Big Bear Lawn Care. For now, the fastest way is a call.</p>
+    <div class="btns">
+      <a class="btn btn-lime" href="tel:+12547090304">Call (254) 709-0304</a>
+      <button class="btn close" type="button" id="dlgClose">Back to the page</button>
+    </div>
+  </div>
+</dialog>
+
+<script>
+(function(){
+  var form=document.getElementById('estForm');
+  var $=function(id){return document.getElementById(id)};
+  function setRow(el,val,empty){
+    if(val){el.textContent=val;el.classList.remove('empty')}else{el.textContent=empty;el.classList.add('empty')}
+  }
+  function render(){
+    var svcs=[].slice.call(form.querySelectorAll('input[name=svc]:checked')).map(function(i){return i.value});
+    var t=$('tSvc');
+    if(svcs.length){
+      t.classList.remove('empty');t.innerHTML='';
+      var w=document.createElement('div');w.className='t-svcs';
+      svcs.forEach(function(s){var sp=document.createElement('span');sp.textContent=s;w.appendChild(sp)});
+      t.appendChild(w);
+    }else{setRow(t,'','Tap a service')}
+    var size=form.querySelector('input[name=size]:checked');
+    setRow($('tSize'),size?size.value:'','Not picked yet');
+    setRow($('tTown'),$('town').value,'Not picked yet');
+    $('tLang').textContent=$('lang').value;
+    setRow($('tName'),$('nm').value.trim(),'Not added yet');
+    var tree=svcs.some(function(s){return /^Tree/.test(s)});
+    $('tSpecial').textContent=tree?'Tree work on your list: ask about the tree specials running for the rest of the year.':'Free estimate. Ask about tree specials for the rest of the year.';
+  }
+  form.addEventListener('input',render);
+  form.addEventListener('change',render);
+  [].forEach.call(document.querySelectorAll('[data-pick]'),function(a){
+    a.addEventListener('click',function(){
+      var box=form.querySelector('input[name=svc][value="'+a.getAttribute('data-pick')+'"]');
+      if(box){box.checked=true;render()}
+    });
+  });
+  var dlg=$('dlg');
+  $('sendBtn').addEventListener('click',function(){
+    if(dlg.showModal){dlg.showModal()}else{alert($('dlgText').textContent)}
+  });
+  $('dlgClose').addEventListener('click',function(){dlg.close()});
+  dlg.addEventListener('click',function(e){if(e.target===dlg)dlg.close()});
+  render();
+})();
+</script>
+</body>
+</html>

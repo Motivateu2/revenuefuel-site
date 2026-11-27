@@ -1,0 +1,12 @@
+All photos are the business's own, saved from the Golden Triangle Lawn & Landscapes Facebook Page
+(https://www.facebook.com/profile.php?id=100063610598975), post "Latest project at Sam Rayburn."
+Top 54px cropped from each to remove Facebook viewer controls. No upscaling in the files.
+
+assets/stone-wall-bed.jpg   (source: stone-wall-bed.jpg)        hero, project viewer
+assets/lake-house-beds.jpg  (source: cabin-rock-beds.jpg)       design & install card, project viewer
+assets/magnolia-bed.jpg     (source: magnolia-rock-bed.jpg)     project viewer
+assets/gravel-drive.jpg     (source: gravel-drive-grading.jpg)  project viewer
+assets/og.jpg               1200x630 link-preview card made from stone-wall-bed.jpg with their name set on it
+
+No stock photos used. Icons and the triangle mark are drawn inline in SVG for this preview.
+Fonts: Archivo, Inter, Playfair Display (Google Fonts, OFL).

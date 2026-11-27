@@ -1,0 +1,13 @@
+Image credits: Howard's Tree Care preview (built 2026-11-26)
+
+All photos are the business's own, saved from the Howard's Tree Care LLC Facebook Page
+(https://www.facebook.com/profile.php?id=100068284710609) and supplied in
+~/revenue-fuel/website-ads/desk/photos/howards-tree-care/. No stock photography used.
+
+assets/fall-lift.jpg      <- fall-tree-lift.jpg (unchanged). Hero, and right half of og.jpg.
+assets/big-log.jpg        <- big-log-grinder.jpg (unchanged). Tree removal card.
+assets/bucket-truck.jpg   <- bucket-truck-cypress.jpg, cropped 30px off the left edge to remove a person's arm. Trimming & lift work card.
+assets/stump-grinder.jpg  <- stump-grinder-yard.jpg (unchanged). Stump grinding card.
+assets/og.jpg             1200x630 share image: fall-tree-lift.jpg + name set in Archivo / Yellowtail / Playfair Display (Google Fonts, OFL).
+
+Logo mark, growth-ring motif and icons: drawn in inline SVG for this preview (inspired by their green-tree / gold badge logo; not their actual logo file).

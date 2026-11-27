@@ -1,0 +1,18 @@
+Hobson Tree Service preview — image credits
+
+REAL (Hobson Tree Service's own Facebook Page, https://www.facebook.com/profile.php?id=100086599871768, saved 2026-11-26) — owner's photos; confirm use with the owner before launch. Kept at their original 527x707 (not upscaled):
+  assets/bucket-topping-tall-tree.jpg  White bucket truck, bucket at the top of a tall trunk beside houses (hero, gallery, og.jpg)
+  assets/bucket-trimming-ash.jpg       Crewman in the bucket trimming a big ash on a hillside ("tree work all winter" section, Tree trimming card, gallery)
+  assets/leaning-tree-before.jpg       Leaning tree over a backyard (Tree removal card, gallery)
+  assets/log-trailer-firewood.jpg      Trailer loaded with big cut logs (Firewood card, gallery)
+  assets/og.jpg                        1200x630 share image built for this preview from bucket-topping-tall-tree.jpg + their name set in type
+
+STOCK (Unsplash License, https://unsplash.com/license) — NOT Hobson's work. Mood background only, never in the gallery:
+  assets/snow-night.jpg  Artem Balashevsky, snow-covered parking lot at night with street lights
+                         https://unsplash.com/photos/a-snow-covered-parking-lot-at-night-with-street-lights-lXmWTFFKgnc
+                         (images.unsplash.com/photo-1701809922861-6f650117c966), cropped, darkened background of the snow-removal section.
+                         No company names, logos or vehicle lettering visible.
+
+CSS only: falling-snow effect, logo lockup (HTML/CSS rebuild of their flyer wordmark), icons (inline SVG drawn for this page).
+
+NOT USED: their AI-illustrated snow-removal flyer art (facts only).

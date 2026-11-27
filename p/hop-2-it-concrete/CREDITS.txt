@@ -1,0 +1,17 @@
+Hop 2 It Concrete & Remodeling preview: image credits
+
+REAL (the business's own photos, saved from their Facebook Page https://www.facebook.com/HopperAJ on 2026-11-26;
+desk copies in ~/revenue-fuel/website-ads/desk/photos/hop-2-it-concrete/). Confirm use with the owner before launch.
+  assets/pool-deck.jpg        Stamped flagstone-pattern pool deck around an inground pool (from stamped-pool-deck.jpg, 527x707)
+  assets/stamped-walkway.jpg  Sealed stamped flagstone-pattern walkway by a stone planter (from stamped-walkway-closeup.jpg, 527x707)
+  assets/shop-apron.jpg       Fresh apron/slab at a metal shop, finisher kneeling, laser level (from shop-apron-finishing.jpg, 691x523)
+  assets/commercial-slab.jpg  Broom-finished slab in a lot with cones (from commercial-slab-pour.jpg, 518x696)
+  assets/sidewalk.jpg         New sidewalk formed along a red-brick building (from school-sidewalk.jpg, 517x696)
+  assets/og.jpg               1200x630 share image: pool-deck.jpg (shown at 0.89x, not upscaled) + name set in Archivo
+
+DRAWN FOR THIS PREVIEW (not copied from the business):
+  Jackrabbit mark: original SVG built from simple shapes. Their hiring flyer uses a cartoon jackrabbit; that cartoon is NOT used.
+  Kansas outline map with Topeka marked: hand-drawn SVG, approximate.
+
+STOCK: none used.
+Fonts: Archivo and Inter (Google Fonts, SIL Open Font License).

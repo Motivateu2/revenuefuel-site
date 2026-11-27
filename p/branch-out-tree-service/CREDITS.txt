@@ -1,0 +1,12 @@
+Branch Out Tree Service preview: image credits
+
+REAL (Branch Out Tree Service Facebook Page, facebook.com/profile.php?id=100053262236272, saved 2026-11-26). Owner's photos; confirm use with Chance before launch. Used at native size (about 520px wide), never upscaled past ~1.2x:
+  assets/crane-crew.jpg     Grapple truck lifting a log onto the dump truck, crew in orange hi-vis, mini skid loader (hero + gallery)
+  assets/stump-grinder.jpg  Yellow stump grinder in a fenced backyard beside a topped trunk (gallery)
+  assets/stucco-house.jpg   Yellow mini skid steer beside a two-story stucco house with red tile roof (gallery)
+  assets/og.jpg             1200x630 share image built from crane-crew.jpg + their name in Permanent Marker/Anton on black
+  Logo: rebuilt in HTML/CSS (Permanent Marker + Anton) from the black hand-lettered logo on their Page; small twig mark drawn for this preview.
+
+STOCK (Unsplash License, https://unsplash.com/license). NOT Branch Out's work; darkened background of the late-fall section only, never in the gallery. No company names, logos, vehicles or uniforms in frame.
+  assets/pines-mood.jpg     Sunlit stand of tall trunks in a forest
+                            images.unsplash.com/photo-1425913397330-cf8af2ff40a1 (1600px)

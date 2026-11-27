@@ -1,0 +1,17 @@
+CDA Home Maintenance preview — image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN (CDA Home Maintenance Facebook Page, https://www.facebook.com/CDAHomeMaintenance,
+saved 2026-11-26 into ~/revenue-fuel/website-ads/desk/photos/cda-home-maintenance/). Confirm use with Charles before launch.
+  assets/deck-before.jpg   Rotted deck stairs/stringers torn out (before)        from rotted-deck-steps-before.jpg
+  assets/deck-after.jpg    Same deck: new pressure-treated stairs and rail (after) from new-deck-steps-after.jpg
+                           (also the mobile hero, desktop hero mosaic and Decks & stairs card)
+  assets/charles-trim.jpg  Charles on a ladder doing crown/trim work, red CDA shirt (no face) from charles-on-ladder-trim.jpg
+  assets/porch-doors.jpg   New double screen doors + rail on a porch               from screened-porch-doors.jpg
+  assets/sliding-door.jpg  New white sliding patio door in gray siding             from new-sliding-door.jpg
+  assets/bathroom.jpg      Clean small bathroom, pedestal sink, tile-look floor    from bathroom-refresh.jpg
+  assets/og.jpg            1200x630 share image: deck-after.jpg + business name set in Archivo/Inter (built for this preview)
+
+LOGO: not reproduced. The house-with-window mark in the nav/footer/favicon is a simple SVG drawn for this preview,
+inspired by the house outline on their work shirt.
+
+STOCK: none.

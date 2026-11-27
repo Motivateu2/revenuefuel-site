@@ -1,0 +1,12 @@
+Rick's Handyman Service preview — image credits
+
+REAL (Rick's Handyman Service Facebook Page, facebook.com/profile.php?id=100095309724675, saved 2026-11-26) — the owner's own photos; confirm use with Rick before launch. All 423x565, used at or below natural size in cards (hero background uses a heavily blurred copy).
+  assets/wall-oven-new.jpg          New stainless double wall oven (AFTER; hero print, before/after, OG image)
+  assets/wall-oven-old-out.jpg      Old black wall oven being pulled, same spot (BEFORE)
+  assets/cooktop-hood-install.jpg   New gas cooktop + range hood (hero print, gallery)
+  assets/living-room-painted.jpg    Freshly painted living room (blurred hero background, hero print, gallery, OG image)
+  assets/foyer-drywall-repair.jpg   Two-story foyer mid drywall repair (gallery)
+  assets/og.jpg                     1200x630 share image built from living-room-painted.jpg + wall-oven-new.jpg with the name set in Archivo / DM Sans (Google Fonts, OFL)
+
+STOCK: none. No Unsplash or other third-party images are used.
+Logo: simple "R under a roofline" mark drawn in SVG for this preview (not their logo; they have none on file).

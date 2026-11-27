@@ -1,0 +1,8 @@
+Image credits: T's Hometown Handyman preview (all images are the business's own)
+
+assets/basement-glass-block-window.jpg  T's Hometown Handyman LLC Facebook Page photo (glass block basement window post, Nov 2026), https://www.facebook.com/profile.php?id=100075681350097 . Facebook viewer bar cropped off.
+assets/sink-faucet.jpg                  T's Hometown Handyman LLC Facebook Page photo (sink/faucet replacement post, Nov 2026), same Page.
+assets/step-handrail.jpg                T's Hometown Handyman LLC Facebook Page photo (front step handrail), same Page. Facebook viewer bar and right-edge object cropped off.
+assets/og.jpg                           Built from assets/step-handrail.jpg with the business name set on it.
+
+No stock photos used. Icons are hand-drawn inline SVG. Fonts: Google Fonts (Archivo, DM Sans, Playfair Display).

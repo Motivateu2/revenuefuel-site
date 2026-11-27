@@ -1,0 +1,8 @@
+All photos are Nelson Bros LLC's own, saved from their Facebook Page (https://www.facebook.com/NelsonBrosLLC) on 2026-11-26:
+- assets/dusk-walkway.jpg       (dusk-walkway-river-rock.jpg) hero + gallery
+- assets/retaining-wall.jpg     (block-retaining-wall.jpg) gallery
+- assets/side-yard-rock.jpg     (side-yard-rock-bed.jpg, cropped on the right to drop the blurred sign) gallery
+- assets/blue-home-front.jpg    (blue-home-beds-front.jpg, from their collage) gallery
+- assets/blue-home-wide.jpg     (blue-home-beds-wide.jpg, from their collage) gallery
+- assets/og.jpg                 share image built from dusk-walkway.jpg with their name set on it
+No stock photos used. The NB monogram is a simple redraw in their green/gray, not their original logo file. Icons and map are hand-made SVG.

@@ -1,0 +1,17 @@
+RDC Construction preview — image credits
+
+REAL (RDC-Restoration Drywall Concrete Facebook Page, https://www.facebook.com/rdcconstruction, saved 2026-11-26 into
+desk/photos/rdc-construction/) — the business's own job photos; confirm use with the owner before launch:
+  assets/steps.jpg     New concrete stairs + landing up to a brick home, fall   (from concrete-steps-fall.jpg, 527x707)
+  assets/porch.jpg     New concrete porch slab + steps at a front door          (from porch-slab-steps.jpg, 527x707)
+  assets/driveway.jpg  New two-car driveway (plates + house number blurred)     (from new-driveway.jpg, 527x707)
+  assets/sidewalk.jpg  New sidewalk beside a lawn and brick ranch               (from new-sidewalk-lawn.jpg, 474x565)
+  assets/og.jpg        1200x630 share image built from steps.jpg + set type (Archivo, SIL OFL)
+
+NO STOCK PHOTOS. Drawn in CSS/SVG, not photos and not their work:
+  Drywall card: drawn wall with taped seam + taping knife (CSS/SVG)
+  Remodel card: drawn floor-plan line art (SVG)
+  Service-area card: schematic of Seward + Lancaster counties (SVG, not to scale)
+  Logo mark: simple "steps" icon drawn for the preview (RDC has no logo on file)
+
+Fonts: Archivo + Inter via Google Fonts (SIL Open Font License).

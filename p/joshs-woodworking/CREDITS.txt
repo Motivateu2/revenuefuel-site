@@ -1,0 +1,17 @@
+Josh's Woodworking and Minor Home Repairs preview: image credits
+
+ALL PHOTOS ARE THE BUSINESS'S OWN (Facebook Page https://www.facebook.com/wwtbyjosh/, saved 2026-11-27 to
+~/revenue-fuel/website-ads/desk/photos/joshs-woodworking/). Confirm use with Josh before launch. No stock images used.
+
+  assets/deck-under.jpg      Raised pressure-treated deck, underside/posts view (725x533; Facebook viewer buttons cropped off the top 28px)
+  assets/deck-stairs.jpg     Same deck, long stair run (725x533; top 28px cropped, same reason)
+  assets/deck-wide.jpg       Same deck, wide view of the back of the house (725x533; top 28px cropped)
+  assets/pantry-shelves.jpg  Wall-to-wall wood shelves in a grey pantry (725x533; top 28px cropped)
+  assets/kitchen.jpg         White cabinets + subway tile backsplash, mid-install (351x266, original size, untouched)
+  assets/shower-tile.jpg     Tiled shower wall with niche and wood trim end (262x355, original size, untouched)
+  assets/floating-shelf.jpg  Rustic floating shelf under a wall of framed photos (262x355, original size; brightness +12%, contrast +8%)
+  assets/og.jpg              1200x630 link card: deck-under.jpg (shown at 1.18x) + business name set in Archivo/Inter
+
+Not used: the picnic-table photos on their Page (a baby appears in them).
+Logo mark in the nav is a simple hammer drawn in SVG for this preview; Josh has no logo on his Page.
+Fonts: Archivo, Inter, Caveat (Google Fonts, OFL).

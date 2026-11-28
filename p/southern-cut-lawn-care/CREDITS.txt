@@ -1,0 +1,13 @@
+All images are Southern Cut Lawn Care's own, saved from their Facebook Page:
+https://www.facebook.com/people/Southern-Cut-Lawn-Care-HooksTexarkana/61573325704594/
+(local copies: ~/revenue-fuel/website-ads/desk/photos/southern-cut-lawn-care/)
+
+assets/mower-front-yard.jpg  - their photo: red zero-turn mower on a fresh-cut front lawn (528x399 native)
+assets/walkway-lawn.jpg      - their photo: lawns on both sides of a walkway (395x531)
+assets/driveway-edge.jpg     - their photo: edge along a driveway (395x531)
+assets/corner-lawn.jpg       - their photo: corner lawn under an oak (395x531)
+assets/backyard-stripes.jpg  - their photo: striped backyard between sheds (395x531)
+assets/logo.jpg              - their logo, cropped above the phone line (390x338)
+assets/og.jpg                - 1200x630 share image built from mower-front-yard.jpg (placed at 1.33x) + their name in Archivo
+
+No stock photos used. Fonts: Archivo and Inter (Google Fonts, OFL).

@@ -1,0 +1,8 @@
+All photos are the business's own, saved from the Carter's Painting & Drywall Facebook Page
+(https://www.facebook.com/profile.php?id=100063713616316) into ~/revenue-fuel/website-ads/desk/photos/carters-painting/:
+- assets/stairs.jpg   <- painted-stairs-railing.jpg (their job photo)
+- assets/shed.jpg     <- painted-shed-sage.jpg (their job photo; cropped to remove photographer's shadow)
+- assets/bedroom.jpg  <- black-accent-bedroom.jpg (their job photo)
+- assets/trailer.jpg  <- trailer-lettering.jpg (their work trailer)
+- assets/og.jpg       built from trailer-lettering.jpg + set type (Futura, Snell Roundhand, Helvetica Neue)
+No stock images used. Web fonts: Google Fonts (Archivo, Great Vibes, Inter, Josefin Sans, Playfair Display).

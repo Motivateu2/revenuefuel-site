@@ -1,0 +1,17 @@
+All photos are Rice Home Solutions & Lawn Care's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61594617884505) into
+/Users/user/revenue-fuel/website-ads/desk/photos/rice-home-solutions/ on 2026-11-27.
+Landscape shots had the top 30px (Facebook viewer controls) cropped off. None were upscaled in the files.
+
+assets/roof-1.jpg       <- roof-1.jpg       (725x531) metal roof before the clean
+assets/roof-2.jpg       <- roof-2.jpg       (725x531) metal roof before the clean, second angle
+assets/roof-debris.jpg  <- roof-debris.jpg  (725x531) leaves and branches on the roof
+assets/yard-1.jpg       <- yard-before.jpg  (725x531) underbrush cleared under the trees
+assets/yard-2.jpg       <- yard-after.jpg   (725x531) lawn along the tree line
+assets/mailbox.jpg      <- mailbox.jpg      (425x571) new mailbox and post
+assets/floor.jpg        <- floor.jpg        (425x571) plank flooring going in
+assets/water-damage.jpg <- water-damage.jpg (425x571) wall base opened up, water damage
+assets/og.jpg           1200x630 share image built from assets/yard-1.jpg (photo shown at 1.19x) + set type
+
+No stock photos used. Icons and the coastline graphic are inline SVG drawn for this page.
+Fonts: Archivo, Inter, Kalam (Google Fonts, OFL).

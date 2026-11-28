@@ -1,0 +1,17 @@
+Family Remodeling preview — image credits
+
+ALL PHOTOS ARE THEIRS: saved from the Family Remodeling Facebook Page (https://www.facebook.com/FamilyRemodelingGA/) on 2026-11-27, via website-ads/desk/photos/family-remodeling/. Confirm use with the owner before launch.
+Kept at native size (no upscaling; re-saved as JPEG q92).
+  assets/kitchen-after.jpg      Finished kitchen: white cabinets, subway tile, pendants, LVP   425x571  (hero, og.jpg)
+  assets/kitchen-before.jpg     White-paneled kitchen, mid-job                                 725x527  (cropped top 34px to remove Facebook viewer buttons; source 725x561)
+  assets/fireplace-before.jpg   Rock fireplace, before                                         425x571
+  assets/fireplace-framing.jpg  Same fireplace framed out                                      425x571
+  assets/fireplace-after.jpg    Same room finished: stacked stone, dark mantel, wood floor     425x571
+  assets/coffee-bar.jpg         Built-in desk / coffee bar with open shelves                   425x571
+  assets/mudroom-hooks.jpg      Board-and-batten hook wall in a brick entry                    425x571
+  assets/lvp-floor.jpg          New LVP flooring in a bedroom                                  425x571
+  assets/og.jpg                 1200x630 share card: kitchen-after.jpg at 1.10x (469x630) + their name set in Archivo
+
+STOCK: none.
+Drawn in CSS/SVG (not photos): subway-tile shower card, repairs card, service-area map, house-and-heart monogram (not their logo).
+Fonts: Archivo, Manrope, Playfair Display (Google Fonts, SIL OFL).

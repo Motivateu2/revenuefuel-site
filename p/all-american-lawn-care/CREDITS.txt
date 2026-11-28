@@ -1,0 +1,16 @@
+All American Lawn Care preview: image credits
+All photos are All American Lawn Care's own, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61553107394534) on 2026-11-27. No stock images used.
+
+assets/snow-truck.jpg   their truck ("All American Ind") with a SaltDogg spreader at night. Facebook UI icons cropped off; licence plates of the two other cars blurred. Native size 725x531.
+assets/snow-detail.jpg  crop of snow-truck.jpg (spreader + truck lettering). 510x381.
+assets/front-lawn.jpg   cut front lawn under a purple-leaf plum, their truck at the curb. Facebook UI icons cropped off; plates of parked cars blurred. 725x531.
+assets/curbside.jpg     crop of front-lawn.jpg (right side, truck at the curb). 425x411.
+assets/sprinkler-box.jpg crew member in a pink shirt setting a sprinkler valve box. 425x571.
+assets/valve-repair.jpg gloved hands repairing sprinkler valves. 425x571.
+assets/aerator.jpg      core aerator tines on a lawn. 319x571.
+assets/logo-shirt.jpg   their logo on a pink shirt, cropped to the shield + name. 513x293.
+assets/og.jpg           1200x630 share image built from snow-truck.jpg (shown at 1.19x) + name set in Big Shoulders Display.
+
+Shield mark in the nav/footer is a simple SVG redraw of their flag-shield logo colors (navy/red/white).
+Fonts: Big Shoulders Display, Inter (Google Fonts, OFL).

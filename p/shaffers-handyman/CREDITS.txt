@@ -1,0 +1,15 @@
+Image credits: Shaffer's Handyman Service preview (shaffers-handyman)
+
+All photos are the business's own, saved from their Facebook Page
+(https://www.facebook.com/handymanshaffer) on 2026-11-27. No stock images are used.
+
+assets/kitchen-1.jpg    their kitchen update (hero). Facebook viewer icons cropped off the top 32px. 725x529.
+assets/kitchen-2.jpg    their kitchen update, counter and backsplash. Viewer icons cropped off. 725x529.
+assets/laundry-sink.jpg their utility sink with herringbone wood counter. Viewer icons cropped off. 725x529.
+assets/bath-before.jpg  their bathroom makeover, before. 425x571.
+assets/bath-after.jpg   their bathroom makeover, after. 425x571.
+assets/laundry-room.jpg their laundry room with wood-look plank walls. 425x571.
+assets/og.jpg           1200x630 link-preview card built from kitchen-1.jpg (scaled 1.19x) with the business name set on it.
+
+Not used: their children's-bedroom flooring photos (private homes with kids' belongings).
+The "BAKERY" sign in the kitchen photos is the homeowner's decor, not a business.

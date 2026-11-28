@@ -1,0 +1,15 @@
+Coast to Coast Roofing preview: image credits
+
+REAL (Coast to Coast Roofing of MS Facebook Page, https://www.facebook.com/c2c.roof.ms, saved 2026-11-27 into
+desk/photos/coast-to-coast-roofing/). The owner's own photos; confirm use with the owner before launch:
+  assets/after.jpg    Brick ranch with the finished charcoal shingle roof (from new-roof-finished.jpg, 682x491, not resized)
+  assets/during.jpg   Same brick ranch on tear-off day, decking exposed, blue tarps (from tearoff-during.jpg, 725x491, not resized)
+  assets/step-1.jpg   Chimney at bare decking (panel 1 cropped from chimney-flashing-steps.jpg, 213x159)
+  assets/step-2.jpg   Chimney with underlayment/flashing (panel 2 of the same collage, 243x159)
+  assets/step-3.jpg   Chimney with finished shingles + flashing (panel 3 of the same collage, 476x233)
+  assets/og.jpg       1200x630 share image built from after.jpg (scaled 1.28x) + their name set in Arial Black on their logo blue
+
+Logo: rebuilt in HTML/SVG (roofline with chimney + Montserrat 900, royal blue #140CE8) from their logo (brand-logo.jpg).
+The logo image itself is not used, so their email address does not appear anywhere.
+
+STOCK: none. Every photo on the page is theirs.

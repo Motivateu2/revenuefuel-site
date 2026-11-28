@@ -1,0 +1,12 @@
+All photos are AJ Landscape LLC's own, saved from their Facebook Page (https://www.facebook.com/ajlandscapellc/). No stock images used.
+
+assets/sprinklers.jpg        <- sprinkler-sod.jpg (uncropped)
+assets/before.jpg            <- backyard-before-after.jpg, left half cropped below their logo box
+assets/after.jpg             <- backyard-before-after.jpg, right half cropped below their logo box
+assets/gravel-drive.jpg      <- gravel-drive.jpg, top viewer icons cropped, SUV plate blurred
+assets/sod-timber-home.jpg   <- sod-mountain-home.jpg, viewer arrows/icons cropped
+assets/drain-rock.jpg        <- drain-box.jpg, bottom cropped (removes shoes)
+assets/flagstone-firepit.jpg <- flagstone-firepit.jpg, right edge cropped (removes worker)
+assets/sod-drain.jpg         <- sod-seams.jpg (uncropped)
+assets/og.jpg                <- composed share card using sprinklers.jpg (shown at 1.19x)
+Fonts: Bricolage Grotesque, Figtree (Google Fonts). Icons: inline SVG drawn for this page.

@@ -1,0 +1,17 @@
+Frank's Lawn & Landscaping preview: image credits
+
+All photos are the business's own, saved from their Facebook Page
+https://www.facebook.com/Fraankslandscaping (gathered 2026-11-27 into
+~/revenue-fuel/website-ads/desk/photos/franks-lawn-landscaping/).
+Edits: top 32px cropped off the seven Facebook-viewer captures to remove the
+viewer's close/logo/zoom icons. No upscaling of the files; no stock images used.
+
+assets/fire-pit-yard.jpg       stone fire pit in circular bed under oaks (hero, gallery)
+assets/fire-pit-close.jpg      fire pit close-up (services, gallery)
+assets/retaining-wall-1.jpg    block wall + lava rock bed by carport (services, gallery)
+assets/retaining-wall-2.jpg    block wall + lava rock around shop (services, gallery)
+assets/shop-concrete-beds.jpg  block-edged bed along concrete drive to a shop (gallery, final)
+assets/front-yard-beds.jpg     rock beds & stepping stones (gallery)
+assets/driveway-before.jpg     driveway entrance before (driveway pair, gallery)
+assets/driveway-gravel.jpg     finished gravel driveway entrance (services, driveway pair, gallery)
+assets/og.jpg                  1200x630 share image built from fire-pit-yard.jpg (photo scaled 1.30x) + name text

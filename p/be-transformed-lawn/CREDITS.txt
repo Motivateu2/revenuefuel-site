@@ -1,0 +1,18 @@
+Be Transformed Lawn Care & Junk Removal: image credits
+
+All photos are the business's own, saved from their Facebook Page
+(https://www.facebook.com/betransformedlawncare/) into
+~/revenue-fuel/website-ads/desk/photos/be-transformed-lawn/ on 2026-11-27.
+No stock images are used anywhere on the page.
+
+assets/stepping-stone-landscape.jpg  their "Landscaping / Tuesday" post (hero on desktop, Tuesday tab)
+assets/hero.jpg                      top crop of stepping-stone-landscape.jpg (phone hero)
+assets/aeration-day.jpg              their "Aeration / Monday" post (Monday tab)
+assets/mowing-day.jpg                their "Mowing / Friday" post (Friday tab)
+assets/junk-removal-trailer.jpg      their "Cleanup and junk removal / Saturday" post (season card, Saturday tab);
+                                     trailer licence plate arrives already blurred in their photo, checked unreadable
+assets/crew-aerating.jpg             their photo of a crew member aerating a lawn (mission section)
+assets/og.jpg                        1200x630 share image built from stepping-stone-landscape.jpg (scaled 1.10x) + their name
+
+Photos are used at their original size (454x571 / 425x571); nothing is displayed above ~1.1x.
+Fonts: DM Serif Display, Manrope, Playfair Display (Google Fonts, OFL).

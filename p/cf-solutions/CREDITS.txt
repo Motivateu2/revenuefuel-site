@@ -1,0 +1,12 @@
+All photos and the logo belong to C&F Solutions LLC, saved from their Facebook Page (https://www.facebook.com/cfsolutionsllc/) on 2026-11-27. No stock images are used.
+
+assets/fence-hero.jpg        their photo: new pine privacy fence (source file new-privacy-fence.jpg)
+assets/hero-blur.jpg         blurred, darkened copy of the same fence photo (desktop hero backdrop)
+assets/deck-wraparound.jpg   their photo: new wraparound deck (new-wraparound-deck.jpg)
+assets/rebuild-lakeside.jpg  their photo: lakeside deck rebuild in progress (lakeside-deck-rebuild-during.jpg)
+assets/rebuild-porch.jpg     their photo: covered porch deck rebuild in progress (porch-deck-rebuild-during.jpg)
+assets/deck-before.jpg       their photo: weathered old deck walkway, a "before" (old-deck-before-wash.jpg)
+assets/logo.jpg              their logo, cropped to content (brand-logo.jpg)
+assets/og.jpg                1200x630 share image made from fence-hero.jpg with their name set in Impact
+
+Icons are inline SVG drawn for this page. Fonts: Anton, Inter, Playfair Display (Google Fonts, OFL).

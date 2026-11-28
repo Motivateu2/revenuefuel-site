@@ -1,0 +1,8 @@
+All photos are the business's own, saved from the Davis Lawncare & Maintenance Facebook Page
+(https://www.facebook.com/DavisLawncareAndMaintenance), not resized up (originals ~425x519 / 261x571):
+- assets/brick-home-lawn-sky.jpg — fresh-cut lawn, brick home (hero, gallery, og image)
+- assets/zero-turn-big-lawn.jpg — red zero-turn on a big lawn (mowing card, gallery)
+- assets/new-sod-patio-yard.jpg — fresh sod by a backyard patio (sod card, gallery)
+- assets/overgrown-shed-cleared.jpg — overgrowth cleared back from a shed (clean-up card, gallery)
+- assets/og.jpg — 1200x630 share image built by Revenue Fuel from brick-home-lawn-sky.jpg (photo at ~1.2x) + set type.
+No stock photos used. Icons and logo mark are simple inline SVGs drawn for this preview. Fonts: Google Fonts (Archivo, DM Sans, Playfair Display).

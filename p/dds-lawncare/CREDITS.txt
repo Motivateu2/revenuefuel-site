@@ -1,0 +1,12 @@
+All images on this page belong to DD's Lawncare And Handyman Service, saved from their Facebook Page:
+https://www.facebook.com/profile.php?id=61565696402110
+
+assets/front-lawn.jpg  <- mowed-front.jpg (725x561, top 30px cropped to remove Facebook viewer icons; 725x531)
+assets/side-yard.jpg   <- house-side-lawn.jpg (same crop; 725x531)
+assets/fall-leaves.jpg <- leaves-before.jpg (same crop; 725x531) — a "before" photo of a leaf job, labelled as such
+assets/walkway.jpg     <- side-walk.jpg (425x571, unchanged)
+assets/logo.png        <- logo.jpg (cropped above the phone number, black background removed; 394x352)
+assets/og.jpg          <- 1200x630 share image built from front-lawn.jpg (shown at 1.19x) + logo.png + their name
+
+No stock photos are used. flyer-reference.jpg (AI-generated flyer) is not displayed anywhere.
+Fonts: Archivo and Figtree from Google Fonts (SIL Open Font License).

@@ -1,0 +1,11 @@
+All images are the business's own, saved from the LuCante's PowerWash & LawnCare Facebook Page
+(https://www.facebook.com/people/LuCantes-PowerWash-LawnCare/61557243005652/), via ~/revenue-fuel/website-ads/desk/photos/lucantes-powerwash/.
+No stock images used.
+
+assets/siding-before.jpg, siding-after.jpg         — their before/after post (bottom "Before/After" labels cropped off)
+assets/pool-walk-before.jpg, pool-walk-after.jpg   — their before/after post (labels cropped off)
+assets/pool-deck-before.jpg, pool-deck-after.jpg   — their before/after post (labels cropped off); after photo also used as the phone hero
+assets/fence-line-before.jpg, fence-line-after.jpg — their before/after post (labels cropped off)
+assets/logo-card.jpg   — crop of their business card (logo block only; email not shown)
+assets/hero-blur.jpg   — blurred copy of their pool-deck after photo (desktop hero background)
+assets/og.jpg          — 1200x630 share image built from their pool-walk before/after photos + their name (DIN Condensed type)

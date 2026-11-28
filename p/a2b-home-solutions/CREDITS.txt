@@ -1,0 +1,12 @@
+A2B Home Solutions preview — image credits
+
+REAL (A2B Home Solutions LLC Facebook Page, facebook.com/p/A2B-Home-Solutions-LLC-61553032511358/, saved 2026-11-27) — the owner's own job photos; confirm use with Bobby before launch:
+  assets/deck.jpg         new pine porch deck with spindle railings off a covered back door (725x491; from new-porch-deck.jpg)
+  assets/ramp.jpg         new wooden wheelchair-access ramp with handrails (425x571; from new-access-ramp.jpg)
+  assets/plank-floor.jpg  bedroom with new dark wood-look plank floor (425x571; from new-lvp-bedroom.jpg)
+  assets/tile-floor.jpg   powder room with new marble-look tile floor (425x571; from marble-tile-powder-room.jpg)
+  assets/doors.jpg        new white double exterior doors with half-lite glass + pet door (425x571; from new-double-doors.jpg)
+  assets/og.jpg           1200x630 share image: deck.jpg (scaled 1.28x) with the business name set in Archivo
+
+STOCK: none. Logo mark, icons and tile pattern are original SVG/CSS drawn for this preview.
+Fonts: Archivo, Inter (Google Fonts, SIL OFL).

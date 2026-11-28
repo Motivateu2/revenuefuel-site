@@ -1,0 +1,16 @@
+KeyMo's Care preview: image credits
+
+All photos are KeyMo's Care's own, saved from their Facebook Page (https://www.facebook.com/KeyMosCare)
+and supplied in desk/photos/keymos-care/. No stock images are used.
+
+assets/plow-truck.jpg      Their pickup with red snow plow blade. Facebook viewer UI cropped off the top (30px),
+                           front license plate and dealer plate frame blurred, "for sale" yard sign removed
+                           (patched with adjacent lawn). Native 725x531 (no upscaling in file).
+assets/lawn-backyard.jpg   Mowed backyard under fall trees. Native 425x571.
+assets/lawn-garden.jpg     Mowed garden path / yard. Native 425x571.
+assets/sidewalk-edged.jpg  Cleaned sidewalk along a fence line. Top 64px cropped (finger/shadow in corner). 425x507.
+assets/sidewalk-truck.jpg  Clean sidewalk + lawn, their red work truck with trailer in the street. Native 425x571.
+assets/rock-bed.jpg        Landscape fabric + river-rock bed along a house. Native 425x571.
+assets/og.jpg              1200x630 share image built from plow-truck.jpg (scaled 1.19x) with their name set in Arial Black.
+
+Icons: hand-drawn inline SVG. Fonts: Archivo + Inter (Google Fonts).

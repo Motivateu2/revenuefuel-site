@@ -1,0 +1,13 @@
+Pitts Coastal Care preview: image credits
+
+All photos are the business's own, saved from the Pitts Coastal Care Facebook Page
+(https://www.facebook.com/profile.php?id=100082116550664) on 2026-11-27:
+- assets/striped-lawn-street.jpg   striped front lawn, their truck and trailer at the curb (hero)
+- assets/brick-home-pine-straw.jpg brick home with fresh pine-straw beds (late-fall section)
+- assets/bed-before-weeds.jpg      weedy bed before (before/after toggle)
+- assets/bed-after-mulch.jpg       same bed after (before/after toggle)
+- assets/og.jpg                    link-preview card built from striped-lawn-street.jpg
+
+Logo/badge: redrawn in SVG from the logo on their own Facebook flyer (navy/green badge with pines + push mower).
+The flyer's background artwork was not used.
+No stock photos are used.

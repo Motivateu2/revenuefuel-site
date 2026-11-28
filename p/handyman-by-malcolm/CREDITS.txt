@@ -1,0 +1,14 @@
+All photos are the business's own, saved from the Professional Handyman by Malcolm Facebook Page
+(https://www.facebook.com/people/Professional-Handyman-by-Malcolm/61567973350526/), supplied in
+/Users/user/revenue-fuel/website-ads/desk/photos/handyman-by-malcolm/. No stock images used.
+
+assets/shed-painted.jpg      568x571  native (hero, gallery, og image)
+assets/painting-on-site.jpg  425x571  native (hero inset, "In Malcolm's words")
+assets/deck-stairs.jpg       425x571  native (gallery)
+assets/hallway-floor.jpg     568x571  native (gallery)
+assets/tile-floor.jpg        413x565  native (gallery)
+assets/screen-porch.jpg      425x499  bottom 72px cropped off (a finger was in frame) (gallery)
+assets/back-porch.jpg        439x333  native (gallery)
+assets/og.jpg                1200x630 composed: navy panel with name + phone, shed-painted.jpg at 1.10x on the right
+business-card.jpg            NOT used on the page (shows surname + email); its service list was used as text.
+Fonts: Archivo, Inter, Playfair Display (Google Fonts).

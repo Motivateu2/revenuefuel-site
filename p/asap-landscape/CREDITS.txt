@@ -1,0 +1,14 @@
+ASAP Landscape & Services preview — image credits
+
+REAL (ASAP Landscape & Services Facebook Page, facebook.com/profile.php?id=61555277128578, saved 2026-11-27) — the owner's own photos; confirm use before launch:
+  assets/turf-front-brick.jpg          Brick home, artificial-turf front lawn, curved walk, rock beds (from turf-front-yard-brick.jpg; bottom 13px trimmed). Hero, gallery.
+  assets/turf-front-new-build.jpg      New stucco/stone home with turf panels along the front walk (from turf-front-yard-new-build.jpg; house number softly blurred). Gallery, "Homes" card.
+  assets/turf-backyard-shade-sail.jpg  Drone shot: backyard in turf with blue shade sail (from turf-shade-sail-aerial.jpg; Facebook viewer bar cropped off top). Turf section, gallery.
+  assets/paver-patio-crew.jpg          Crew in hi-vis setting large pavers in a backyard (unchanged). Gallery.
+  assets/commercial-courtyard-turf.jpg Commercial courtyard in turf panels (from commercial-courtyard-turf.jpg; Facebook viewer panel and pop-up cropped off). Gallery, "Commercial" card.
+  assets/og.jpg                        1200x630 share image built from turf-front-brick.jpg + their name in HTML/CSS.
+
+STOCK: none.
+
+Logo mark: simple turf-and-sun icon drawn in SVG for this preview (they have no logo on file).
+Fonts: Big Shoulders Display, Manrope, Playfair Display (Google Fonts, OFL).

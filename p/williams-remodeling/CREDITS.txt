@@ -1,0 +1,11 @@
+All photos belong to Williams Remodeling and Home Repair, saved from their Facebook Page
+(https://www.facebook.com/williamsremodelingandhomerepair/), supplied in desk/photos/williams-remodeling/.
+
+assets/freestanding-tub-marble.jpg   their photo (finished master bath), unchanged
+assets/walkin-shower-bench.jpg       their photo (walk-in shower), unchanged
+assets/shower-glass-vanity.jpg       their photo, cropped left/right to remove a crew member's reflection and arm
+assets/room-addition-framing.jpg     their photo (addition framing), unchanged
+assets/room-addition-sheathed.jpg    their photo (addition sheathed), unchanged
+assets/og.jpg                        made from their freestanding-tub photo with the business name set on it
+
+No stock photos used. Fonts: Google Fonts (Archivo, Inter, JetBrains Mono, Playfair Display), OFL.

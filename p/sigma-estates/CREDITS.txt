@@ -1,0 +1,15 @@
+Sigma Estates Landscaping & Concrete — image credits
+
+All photos are the business's own, saved from its Facebook Page (https://www.facebook.com/SIGMAESTATESCONCRETE/) on 2026-11-27.
+Source files: /Users/user/revenue-fuel/website-ads/desk/photos/sigma-estates/
+
+assets/rock-circle-patio.jpg       their photo; cropped 725x484 -> 725x420 to remove the Facebook viewer's black bars (rows 0-63); native size, not upscaled. Hero.
+assets/stepping-path-backyard.jpg  their photo; same letterbox crop to 725x420; native size.
+assets/boulder-wall.jpg            their photo; same letterbox crop to 725x420; native size.
+assets/concrete-path.jpg           their photo; 319x571 as saved; native size.
+assets/paver-side-yard.jpg         their photo; 319x571 as saved; native size.
+assets/sod-sprinklers.jpg          their photo; 319x571 as saved; native size.
+assets/pouring-concrete.jpg        their photo; 319x571 as saved; native size.
+assets/og.jpg                      1200x630 share card built from rock-circle-patio.jpg (scaled 1.40x to 1015x588) with the business name set over it.
+
+No stock photos are used.

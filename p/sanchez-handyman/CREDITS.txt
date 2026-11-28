@@ -1,0 +1,11 @@
+Sanchez Handyman preview — image credits
+
+REAL (Sanchez Handyman LLC Facebook Page, https://www.facebook.com/people/sanchez-roofing-llc/100076612052509/, saved 2026-11-27) — the owner's own photos; confirm use with the owner before launch. All shown at their native ~425x571 size or smaller (largest display ~1.1x in og.jpg).
+  assets/chimney-after-roof.jpg     Chimney stuccoed gray with a new cap, gray architectural shingles (hero, before/after "After", og.jpg)
+  assets/chimney-before-brick.jpg   Crumbling old red-brick chimney, owner's hand on it (before/after "Before")
+  assets/new-plank-floor-room.jpg   Bedroom with new wood-look plank flooring (Inside work)
+  assets/og.jpg                     1200x630 share image: chimney-after-roof.jpg + name set in Archivo (made for this preview)
+
+STOCK: none.
+Logo mark: simple roof/chimney icon drawn in SVG for this preview (the business has no logo on file).
+Service-area map: stylized SVG drawing, not to scale.

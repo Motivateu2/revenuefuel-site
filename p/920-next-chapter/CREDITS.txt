@@ -1,0 +1,12 @@
+All images are the business's own photos, saved from their Facebook Page
+(https://www.facebook.com/p/920-Next-Chapter-Home-Remodeling-LLC-61559016370618/) on 2026-11-27.
+
+assets/two-story-refresh.jpg      - their photo (hero, og image)
+assets/navy-siding-ranch.jpg      - their photo
+assets/navy-siding-two-story.jpg  - their photo
+assets/new-shingles-vents.jpg     - their photo
+assets/commercial-wall-paint.jpg  - their photo, right edge cropped off to remove another organization's wall plaque
+assets/og.jpg                     - built from two-story-refresh.jpg + their name set in Sora/Playfair Display (Google Fonts)
+
+No stock photos used. Logo mark is a simple drawn icon (roof line + "920"), not their logo (none found).
+Fonts: Sora, Inter, Playfair Display (Google Fonts, OFL).

@@ -1,0 +1,18 @@
+Pueblo's Best Landscaping preview — image credits
+
+REAL (Pueblo's Best Landscaping & Home Services Facebook Page, facebook.com/people/Pueblos-Best-Landscaping-Home-Services/100063479895116/, saved 2026-11-27) — the owners' photos; confirm use with Aaron & Tammy before launch:
+  assets/side-yard.jpg         Side yard: pea gravel, flagstone path, boulder, curved artificial turf (from turf-gravel-side-yard.jpg, 425x571, not resized)
+  assets/turf-patio.jpg        Artificial turf meeting a flagstone pad and cedar pergola patio (from turf-pergola-patio.jpg, 319x571)
+  assets/paver-patio.jpg       Cleared backyard, brick-paver patio, pergola, wood-chip beds (from paver-patio-pergola.jpg, 425x571)
+  assets/xeriscape-corner.jpg  Xeriscape corner: gravel, rock, paver edging, junipers (from xeriscape-fence-corner.jpg, 725x491)
+  assets/crew-shirt.jpg        Their logo on a navy crew shirt (from shirt-logo.jpg, cropped to remove Facebook UI icons; 571x353)
+  assets/og.jpg                1200x630 share image: side-yard.jpg (shown at ~1x) + their name set in Archivo + the rebuilt logo mark.
+  Logo mark: rebuilt in inline SVG (three-panel house, rake/shovel/trimmer) from the logo on their crew shirt.
+  Their fall-cleanup flyer is AI art and is NOT used.
+
+STOCK (Unsplash License, https://unsplash.com/license) — NOT their work:
+  assets/mood-fall-leaves.jpg  Fallen maple leaves on grass — Weliton Soranzo
+                               https://unsplash.com/photos/fallen-maple-leaves-on-grass-t6YjZUDCJFM
+                               Used only as the darkened background of the "Fall cleanup" band.
+
+Icons and the service-area sketch map are inline SVG drawn for this page.

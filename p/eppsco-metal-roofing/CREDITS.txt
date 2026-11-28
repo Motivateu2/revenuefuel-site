@@ -1,0 +1,17 @@
+Eppsco Metal Roofing preview — image credits
+
+ALL photos are Eppsco Metal Roofing's own, saved from their Facebook Page (facebook.com/eppscometalroofing, 2026-11-27)
+into desk/photos/eppsco-metal-roofing/. No stock images are used anywhere. Confirm use with Todd before launch.
+All kept at native size (425x571); none upscaled in the files. On the page no photo is displayed above 1.39x its native size.
+
+  assets/before.jpg       from house-front-before.jpg — the red truck's license plate is BLURRED
+  assets/tearoff.jpg      from roof-tearoff.jpg (unchanged)
+  assets/after.jpg        from roof-after.jpg — the child standing by the wall was REMOVED (patched over with
+                          neighbouring siding and grass); no child appears anywhere on the page
+  assets/polebarn-1.jpg   from polebarn-1.jpg (unchanged)
+  assets/polebarn-2.jpg   from polebarn-2.jpg (unchanged; tilted camera angle, used small in the gallery only)
+  assets/lean-to.jpg      from lean-to.jpg (unchanged)
+  assets/og.jpg           1200x630 share card: after.jpg at 1.10x on a drawn steel-panel background, name set in Archivo
+                          (Google Fonts, SIL Open Font License)
+
+Logo mark: simple roof-and-seams icon drawn in SVG for this preview (they have no logo on file).

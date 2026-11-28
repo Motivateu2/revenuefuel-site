@@ -1,0 +1,19 @@
+Image credits: A&M Signature Paint and Remodel preview
+
+All photos are the business's own, saved from the A&M Signature Paint and Remodel Facebook Page
+(https://www.facebook.com/profile.php?id=61590082573092) and supplied in
+~/revenue-fuel/website-ads/desk/photos/am-signature-paint/. No stock photos are used.
+Each was cropped only (black letterbox bars / Facebook viewer icons / a fingertip removed); none was enlarged (file scale 1.0x).
+
+assets/siding-prep-1.jpg     their photo, exterior repaint prep: spot-primed lap siding, ladder (cropped top 64px bar)
+assets/siding-prep-2.jpg     their photo, exterior repaint prep: back of house, fixtures masked (cropped top 64px bar)
+assets/siding-prep-side.jpg  their photo, exterior repaint prep: side wall spot-primed (cropped top 64px bar)
+assets/window-masking.jpg    their photo, windows masked in plastic (cropped top 64px bar)
+assets/gable-prep.jpg        their photo, gable vent and eaves masked (uncropped)
+assets/drywall-holes.jpg     their photo, drywall repair step 1 (cropped top 36px: Facebook viewer icons)
+assets/drywall-patched.jpg   their photo, drywall repair step 2 (cropped top 36px icons + left 22px fingertip)
+assets/texture-blend.jpg     their photo, drywall repair step 3, texture blended (uncropped)
+assets/corner-bead.jpg       their photo, wall corner repaired by a bath vanity (uncropped)
+assets/framing-walls.jpg     their photo, wall framing on a slab (cropped top 64px bar)
+assets/framing-trusses.jpg   their photo, trusses going up (cropped top 64px bar)
+assets/og.jpg                share card built from their siding-prep-1.jpg (shown at 1.4x inside a card) + set type

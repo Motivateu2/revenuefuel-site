@@ -1,0 +1,17 @@
+All photos are East Texas Handyman Services' own, saved from their Facebook Page
+(https://www.facebook.com/easttexashandymanservices) into
+/Users/user/revenue-fuel/website-ads/desk/photos/east-texas-handyman/ on 2026-11-27.
+No file was upscaled; on the page no photo is shown above 1.4x its native size.
+
+assets/door-before.jpg        <- door-before-after-graphic.jpg, left photo cropped out (333x368): old red exterior door (their "Before" label kept)
+assets/door-after.jpg         <- door-before-after-graphic.jpg, right photo cropped out (333x368): new pre-hung door + black storm door (their "After" label kept)
+                                 (their logo header and icon footer were cropped away; their badge is not used)
+assets/tub-before.jpg         <- tub-before.jpg         (425x568) dated tiled tub/shower, before
+assets/shower-door-before.jpg <- shower-door-before.jpg (425x571) old frosted sliding shower door, before
+assets/bath-after.jpg         <- bath-after.jpg         (425x571) finished bathroom: walk-in shower, hex tile, vessel-sink vanity
+assets/shower-after.jpg       <- shower-after.jpg       (425x571) new walk-in shower with seat, gold-frame glass door
+assets/og.jpg                 1200x630 share image built from assets/bath-after.jpg (shown at 1.10x) and assets/door-after.jpg (0.69x) + set type
+
+Not used: powder-room-before.jpg (no matching after photo).
+No stock photos used. Icons and the brush-stroke wordmark are drawn for this page (inline SVG/CSS), not their logo.
+Fonts: Archivo, Inter, Permanent Marker (Google Fonts, OFL).

@@ -1,0 +1,14 @@
+Turf Daddy's preview · image credits
+
+All photos are Turf Daddy's LLC's own job photos, saved from their Facebook Page
+(https://www.facebook.com/profile.php?id=61571323179243) on 2026-11-27. Not resized (native 425x571).
+- assets/turf-patio.jpg  turf + pine straw under a tree, Adirondack chairs (hero, gallery, OG image)
+- assets/hedges.jpg      trimmed hedges along a brick house (desktop hero inset, gallery)
+- assets/pavers.jpg      paver drive with pine straw bed and palm (gallery)
+- assets/fence-1.jpg     new wood privacy fence (gallery)
+- assets/fence-2.jpg     new wood privacy fence (gallery)
+- assets/fence-3.jpg     new wood privacy fence (gallery, service-area photo)
+- assets/og.jpg          1200x630 share image built from turf-patio.jpg (scaled 1.10x) + "Turf Daddy's" wordmark set in Barlow Condensed
+
+No stock photos used. The FB flyer (AI-generated art) is not used anywhere.
+Icons: hand-drawn inline SVG. Fonts: Barlow Condensed and Inter (Google Fonts, OFL).

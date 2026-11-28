@@ -1,0 +1,23 @@
+Gwebbs Helping Hands preview: image credits
+
+ALL images are the business's own photos, saved from the Gwebbs Helping Hands Facebook Page
+(https://www.facebook.com/profile.php?id=61551293998977) on 2026-11-27 and stored in
+~/revenue-fuel/website-ads/desk/photos/gwebbs-helping-hands/. Most carry the owner's own
+"Gwebbs helping hands" script watermark (their branding, kept). Confirm use with the owner before launch.
+No stock photos are used anywhere on the page.
+
+  assets/before.jpg       345x174  Top half of front-beds-before-after.jpg (their PicCollage): overgrown front beds.
+                                   Cropped to remove the "Before" label and the red name banner; house number "106" blurred.
+  assets/after.jpg        345x174  Bottom half of the same collage: beds cleared and replanted. Downscaled (1/1.19) and
+                                   aligned to match the before frame; "After" label, banner and PicCollage mark cropped
+                                   out; house number "106" blurred.
+  assets/lawn-cape.jpg    725x529  lawn-cape.jpg, Facebook viewer toolbar cropped off the top (phone hero).
+  assets/hero-wide.jpg    725x432  Same photo, bottom cropped to drop the photographer's shadow (desktop hero).
+  assets/lawn-red-ranch.jpg 725x523 lawn-red-ranch.jpg, Facebook toolbar cropped off the top.
+  assets/backyard-patio.jpg 725x533 backyard-patio.jpg, Facebook toolbar cropped off the top.
+  assets/backyard-mowed.jpg 425x571 backyard-mowed.jpg, unchanged.
+  assets/bunk-bed.jpg     319x571  bunk-bed.jpg, unchanged.
+  assets/og.jpg          1200x630  Share card: lawn-cape.jpg at 1.36x on the right, name set in Impact + Snell Roundhand.
+
+No image is shown larger than 1.4x its native pixel size at any tested width (360-1440px).
+Icons are inline SVG drawn for this page. Fonts: Anton, Inter, Yellowtail (Google Fonts, OFL).

@@ -1,0 +1,14 @@
+All photos are the business's own, saved from the JLG Landscape And Sprinklers Facebook Page
+(https://www.facebook.com/p/JLG-Landscape-And-Sprinklers-100070629979280/) into
+~/revenue-fuel/website-ads/desk/photos/jlg-landscape/. No stock images used.
+
+assets/split-rail-gate.jpg  split-rail fence and gate, foothills behind. Cropped 28px off the top (Facebook viewer icons). 725x533, not upscaled.
+assets/split-rail-1.jpg     split-rail fence on a frosty lawn. Cropped 32px left, 125px right (viewer arrows + white tub), 28px top. 568x533.
+assets/lawn-prep.jpg        backyard graded with sprinkler flags and river-rock border. Cropped 28px top. 725x533.
+assets/corner-bed.jpg       corner rock bed with grasses and flowers. Cropped 28px top; SUV licence plate pixelated + blurred. 725x533.
+assets/paver-pad.jpg        paver pad by a back door. 425x571, unchanged.
+assets/stepping-path.jpg    stepping-stone path in black gravel with steel edging. 425x571, unchanged.
+assets/mini-excavator.jpg   their orange mini excavator and JLG trailer. 425x571, unchanged.
+assets/og.jpg               1200x630 share card: split-rail-gate.jpg at 1.18x (857x630) with the business name set over it.
+
+Sprinkler illustration on the services card is inline SVG drawn for this page. Fonts: Google Fonts (Bricolage Grotesque, Inter, Playfair Display).
